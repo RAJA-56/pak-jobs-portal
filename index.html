@@ -3,232 +3,135 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>PakJobs Hub | Direct Local & Remote Job Search Engine</title>
+    <title>PakJobs Hub | Local Physical & Worldwide Remote Jobs</title>
     <style>
         :root {
             --bg: #0f172a;
-            --surface: #1e293b;
-            --surface-hover: #334155;
-            --primary: #38bdf8;
-            --primary-hover: #0284c7;
-            --accent: #22c55e;
-            --text: #f8fafc;
-            --text-muted: #94a3b8;
+            --card-bg: #1e293b;
+            --accent: #38bdf8;
+            --accent-hover: #0284c7;
+            --text-main: #f8fafc;
+            --text-sub: #94a3b8;
             --border: #334155;
-            --card-radius: 12px;
+            --radius: 10px;
         }
 
-        * { box-sizing: border-box; transition: all 0.25s ease-in-out; }
+        * { box-sizing: border-box; transition: all 0.2s ease; }
 
         body {
             font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
             background-color: var(--bg);
-            color: var(--text);
+            color: var(--text-main);
             margin: 0;
             padding: 0;
-            line-height: 1.6;
         }
 
         header {
-            background: linear-gradient(135deg, #0f172a 0%, #1e1b4b 100%);
-            padding: 3rem 1rem;
+            background: #1e1b4b;
+            padding: 2.5rem 1.5rem;
             text-align: center;
             border-bottom: 1px solid var(--border);
         }
 
-        header h1 {
-            margin: 0;
-            font-size: 2.2rem;
-            letter-spacing: -0.5px;
-            color: var(--primary);
-        }
+        header h1 { margin: 0; color: var(--accent); font-size: 2.2rem; }
+        header p { margin: 0.5rem 0 0; color: var(--text-sub); }
 
-        header p {
-            margin: 0.5rem 0 0;
-            color: var(--text-muted);
-            font-size: 1rem;
-        }
-
-        .container {
-            max-width: 950px;
+        .wrapper {
+            max-width: 1200px;
             margin: 0 auto;
-            padding: 2rem 1rem;
+            padding: 2rem 1.5rem;
         }
 
-        /* Sponsor Box */
-        .sponsor-card {
-            background: linear-gradient(90deg, rgba(30,58,138,0.4) 0%, rgba(15,23,42,0.6) 100%);
-            border: 1px dashed var(--primary);
-            border-radius: var(--card-radius);
-            padding: 1.2rem;
+        .sponsor-bar {
+            background: linear-gradient(90deg, #1e3a8a 0%, #0f172a 100%);
+            border: 1px dashed var(--accent);
+            border-radius: var(--radius);
+            padding: 1rem;
             text-align: center;
-            margin-bottom: 2rem;
-            backdrop-filter: blur(5px);
+            margin-bottom: 1.5rem;
         }
 
-        .sponsor-card a {
-            color: var(--primary);
-            font-weight: bold;
-            text-decoration: none;
-        }
+        .sponsor-bar a { color: var(--accent); font-weight: bold; text-decoration: none; }
 
-        /* Filter Controls */
         .controls {
             display: grid;
             grid-template-columns: 2fr 1fr 1fr;
             gap: 12px;
             margin-bottom: 2rem;
-            background: var(--surface);
-            padding: 1.25rem;
-            border-radius: var(--card-radius);
+            background: var(--card-bg);
+            padding: 1rem;
+            border-radius: var(--radius);
             border: 1px solid var(--border);
-            box-shadow: 0 10px 25px -5px rgba(0,0,0,0.3);
         }
 
         input, select {
             width: 100%;
-            padding: 0.75rem 1rem;
+            padding: 0.75rem;
             background: var(--bg);
             border: 1px solid var(--border);
-            border-radius: 8px;
-            color: var(--text);
-            font-size: 0.95rem;
+            border-radius: 6px;
+            color: var(--text-main);
             outline: none;
         }
 
-        input:focus, select:focus {
-            border-color: var(--primary);
-            box-shadow: 0 0 0 2px rgba(56, 189, 248, 0.2);
-        }
+        input:focus, select:focus { border-color: var(--accent); }
 
-        /* Job Cards & Animations */
+        .job-grid { display: flex; flex-direction: column; gap: 1rem; }
+
         .job-card {
-            background: var(--surface);
-            border-radius: var(--card-radius);
-            padding: 1.5rem;
-            margin-bottom: 1.2rem;
+            background: var(--card-bg);
+            border-radius: var(--radius);
+            padding: 1.25rem 1.5rem;
             border: 1px solid var(--border);
-            animation: fadeIn 0.4s cubic-bezier(0.16, 1, 0.3, 1);
-            position: relative;
-            overflow: hidden;
+            width: 100%;
         }
 
-        .job-card:hover {
-            border-color: #475569;
-            transform: translateY(-2px);
-            box-shadow: 0 12px 20px -8px rgba(0,0,0,0.5);
-        }
+        .job-card:hover { border-color: #475569; }
 
-        .job-card.featured {
-            border-left: 4px solid var(--accent);
-            background: linear-gradient(90deg, rgba(34,197,94,0.05) 0%, var(--surface) 100%);
-        }
+        .job-top { display: flex; justify-content: space-between; align-items: flex-start; gap: 1rem; }
+        .job-title { margin: 0; font-size: 1.2rem; color: var(--text-main); }
+        .company-name { color: var(--accent); font-weight: 500; margin-top: 4px; }
 
-        .job-header {
-            display: flex;
-            justify-content: space-between;
-            align-items: flex-start;
-            gap: 15px;
-        }
+        .job-meta { display: flex; gap: 8px; flex-wrap: wrap; margin: 0.8rem 0; }
+        .tag { background: rgba(255,255,255,0.06); padding: 3px 10px; border-radius: 4px; font-size: 0.82rem; color: var(--text-sub); }
 
-        .job-title {
-            margin: 0;
-            font-size: 1.2rem;
-            color: var(--text);
-            font-weight: 600;
-        }
+        .job-actions { display: flex; gap: 10px; margin-top: 1rem; }
 
-        .company-name {
-            color: var(--primary);
-            font-weight: 500;
-            margin-top: 4px;
-            font-size: 0.95rem;
-        }
-
-        .job-meta {
-            display: flex;
-            gap: 10px;
-            flex-wrap: wrap;
-            margin-top: 1rem;
-        }
-
-        .badge {
-            background: rgba(255,255,255,0.05);
-            padding: 4px 10px;
-            border-radius: 6px;
-            font-size: 0.82rem;
-            color: var(--text-muted);
-            border: 1px solid rgba(255,255,255,0.08);
-        }
-
-        .actions {
-            display: flex;
-            gap: 10px;
-            margin-top: 1rem;
-        }
-
-        .btn-toggle {
+        .btn-desc {
             background: transparent;
             border: 1px solid var(--border);
-            color: var(--text-muted);
-            padding: 0.5rem 1rem;
+            color: var(--text-sub);
+            padding: 0.4rem 0.9rem;
             border-radius: 6px;
             cursor: pointer;
-            font-size: 0.85rem;
         }
 
-        .btn-toggle:hover {
-            background: var(--surface-hover);
-            color: var(--text);
-        }
-
-        .apply-btn {
-            background: var(--primary);
+        .btn-apply {
+            background: var(--accent);
             color: #0f172a;
             text-decoration: none;
-            padding: 0.5rem 1.2rem;
+            padding: 0.4rem 1.1rem;
             border-radius: 6px;
             font-weight: 600;
-            font-size: 0.85rem;
-            display: inline-flex;
-            align-items: center;
         }
 
-        .apply-btn:hover {
-            background: var(--primary-hover);
-            color: white;
-        }
+        .btn-apply:hover { background: var(--accent-hover); color: white; }
 
-        /* Description Expand Drawer */
-        .job-desc {
+        .desc-box {
             display: none;
-            margin-top: 1.2rem;
+            margin-top: 1rem;
             padding-top: 1rem;
             border-top: 1px solid var(--border);
-            font-size: 0.92rem;
             color: #cbd5e1;
-            max-height: 250px;
-            overflow-y: auto;
+            font-size: 0.92rem;
+            line-height: 1.6;
         }
 
-        .job-desc.open {
-            display: block;
-            animation: slideDown 0.3s ease-out;
-        }
+        .desc-box.active { display: block; }
 
-        @keyframes fadeIn {
-            from { opacity: 0; transform: translateY(10px); }
-            to { opacity: 1; transform: translateY(0); }
-        }
-
-        @keyframes slideDown {
-            from { opacity: 0; max-height: 0; }
-            to { opacity: 1; max-height: 250px; }
-        }
-
-        @media (max-width: 640px) {
+        @media (max-width: 768px) {
             .controls { grid-template-columns: 1fr; }
-            .job-header { flex-direction: column; }
+            .job-top { flex-direction: column; }
         }
     </style>
 </head>
@@ -236,110 +139,95 @@
 
     <header>
         <h1>PakJobs Hub</h1>
-        <p>Live Physical Jobs in Pakistan & Worldwide Remote Openings</p>
+        <p>Real-Time Local Jobs in Pakistan & Worldwide Remote Roles</p>
     </header>
 
-    <div class="container">
-        
-        <div class="sponsor-card">
-            📢 <strong>Hiring for your company or team?</strong> Feature your opening at the top of PakJobs Hub for PKR 3,000 / $10. 
-            <a href="https://wa.me/923000000000?text=Hi,%20I%20want%20to%20feature%20a%20job" target="_blank">Post a Paid Job via WhatsApp →</a>
+    <div class="wrapper">
+        <div class="sponsor-bar">
+            📢 <strong>Are you an employer?</strong> Promote your job opening here to reach thousands of Pakistani candidates. 
+            <a href="https://wa.me/923000000000?text=I%20want%20to%20post%20a%20job" target="_blank">Contact via WhatsApp →</a>
         </div>
 
         <div class="controls">
-            <input type="text" id="keyword" placeholder="Search keywords, roles, companies..." onkeyup="filterJobs()">
+            <input type="text" id="searchKeyword" placeholder="Search keywords, roles, companies..." onkeyup="filterJobs()">
             
             <select id="citySelect" onchange="filterJobs()">
-                <option value="All">All Locations</option>
+                <option value="All">All Cities / Remote</option>
                 <option value="Lahore">Lahore</option>
                 <option value="Karachi">Karachi</option>
                 <option value="Islamabad">Islamabad</option>
-                <option value="Rawalpindi">Rawalpindi</option>
-                <option value="Faisalabad">Faisalabad</option>
-                <option value="Remote / Global">Remote (Global)</option>
+                <option value="Remote / Global">Remote (Worldwide)</option>
             </select>
 
             <select id="catSelect" onchange="filterJobs()">
                 <option value="All">All Categories</option>
                 <option value="Python / Backend">Python & Backend</option>
                 <option value="Web Development">Web Development</option>
-                <option value="Mobile Development">Mobile Apps (Android/iOS)</option>
-                <option value="Data & AI">AI & Data Science</option>
-                <option value="Design & Creative">UI/UX & Design</option>
-                <option value="Marketing & Sales">Marketing & SEO</option>
-                <option value="Customer Support">Customer Support</option>
-                <option value="Admin & Operations">Admin & Management</option>
+                <option value="Design & Creative">Design & Creative</option>
+                <option value="Marketing & Sales">Marketing & Sales</option>
+                <option value="Admin & Operations">Admin & Operations</option>
             </select>
         </div>
 
-        <div id="jobListings">Loading job opportunities...</div>
-
+        <div id="jobGrid" class="job-grid">Loading listings...</div>
     </div>
 
     <script>
         let allJobs = [];
 
         fetch('jobs.json')
-            .then(res => res.json())
-            .then(data => {
-                allJobs = data;
-                renderJobs(allJobs);
-            })
-            .catch(() => {
-                document.getElementById('jobListings').innerHTML = '<p style="text-align:center;">Error loading data. Run your scraper workflow on GitHub.</p>';
-            });
+            .then(r => r.json())
+            .then(data => { allJobs = data; renderJobs(allJobs); })
+            .catch(() => { document.getElementById('jobGrid').innerHTML = '<p>Error loading jobs.</p>'; });
 
         function renderJobs(jobs) {
-            const container = document.getElementById('jobListings');
-            container.innerHTML = '';
+            const grid = document.getElementById('jobGrid');
+            grid.innerHTML = '';
 
             if (jobs.length === 0) {
-                container.innerHTML = '<p style="text-align:center; color: var(--text-muted);">No jobs matched your search criteria.</p>';
+                grid.innerHTML = '<p style="text-align:center; padding: 2rem;">No jobs match your search.</p>';
                 return;
             }
 
-            jobs.forEach((job, index) => {
+            jobs.forEach((j, idx) => {
                 const card = document.createElement('div');
-                card.className = `job-card ${job.is_featured ? 'featured' : ''}`;
+                card.className = 'job-card';
                 card.innerHTML = `
-                    <div class="job-header">
+                    <div class="job-top">
                         <div>
-                            <h3 class="job-title">${job.title}</h3>
-                            <div class="company-name">${job.company}</div>
+                            <h3 class="job-title">${j.title}</h3>
+                            <div class="company-name">${j.company}</div>
                         </div>
                     </div>
                     <div class="job-meta">
-                        <span class="badge">📍 ${job.city}</span>
-                        <span class="badge">🏷️ ${job.category}</span>
-                        <span class="badge">🌐 Source: ${job.source}</span>
+                        <span class="tag">📍 ${j.city}</span>
+                        <span class="tag">🏷️ ${j.category}</span>
+                        <span class="tag">🌐 Source: ${j.source}</span>
                     </div>
-                    <div class="actions">
-                        <button class="btn-toggle" onclick="toggleDesc(${index})">📄 View Description</button>
-                        <a href="${job.url}" target="_blank" class="apply-btn">Apply Direct →</a>
+                    <div class="job-actions">
+                        <button class="btn-desc" onclick="toggleDetails(${idx})">📄 Read Summary</button>
+                        <a href="${j.url}" target="_blank" class="btn-apply">Apply Direct →</a>
                     </div>
-                    <div class="job-desc" id="desc-${index}">
-                        ${job.description || "Click 'Apply Direct' above to read the full job requirements and submit your application on the hiring platform."}
-                    </div>
+                    <div class="desc-box" id="desc-${idx}">${j.description}</div>
                 `;
-                container.appendChild(card);
+                grid.appendChild(card);
             });
         }
 
-        function toggleDesc(id) {
-            const el = document.getElementById(`desc-${id}`);
-            el.classList.toggle('open');
+        function toggleDetails(i) {
+            document.getElementById(`desc-${i}`).classList.toggle('active');
         }
 
         function filterJobs() {
-            const keyword = document.getElementById('keyword').value.toLowerCase();
+            const kw = document.getElementById('searchKeyword').value.toLowerCase();
             const city = document.getElementById('citySelect').value;
-            const category = document.getElementById('catSelect').value;
+            const cat = document.getElementById('catSelect').value;
 
-            const filtered = allJobs.filter(job => {
-                const matchesKeyword = job.title.toLowerCase().includes(keyword) || job.company.toLowerCase().includes(keyword);
-                const matchesCity = (city === 'All' || job.city === city);
-                const matchesCat = (category === 'All' || job.category === category);
-                return matchesKeyword && matchesCity && matchesCat;
+            const filtered = allJobs.filter(j => {
+                const matchKw = j.title.toLowerCase().includes(kw) || j.company.toLowerCase().includes(kw);
+                const matchCity = (city === 'All' || j.city === city);
+                const matchCat = (cat === 'All' || j.category === cat);
+                return matchKw && matchCity && matchCat;
             });
 
             renderJobs(filtered);
