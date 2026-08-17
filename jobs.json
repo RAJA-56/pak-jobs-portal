@@ -1,22 +1,13 @@
 [
   {
-    "id": "pk-loc-101",
-    "title": "Office Admin & Operations Executive (Physical)",
-    "company": "Apex Logistics Pakistan",
-    "city": "Lahore",
-    "category": "Admin & Management",
-    "url": "https://wa.me/923000000000",
-    "date": "2026-08-17",
-    "is_featured": true
-  },
-  {
     "id": "jobicy-146611",
     "title": "Manager, Applications - ADF/ETL/AI",
     "company": "Molina Healthcare",
     "city": "Remote / Global",
-    "category": "Admin & Management",
+    "category": "Admin & Operations",
     "url": "https://jobicy.com/jobs/146611-manager-applications-adf-etl-ai",
-    "date": "2026-08-17",
+    "description": "Job Summary: Molina Healthcare is seeking a Manager, Applications to lead a high-impact team responsible for ETL development, reporting support, and technical enablement across key TCIM workstreams. This is a people leadership role for a team with 10 direct reports and a blend of business and technical skill sets. The team develops ETL packages and reporting templates, provides...",
+    "source": "Jobicy Network",
     "is_featured": false
   },
   {
@@ -26,7 +17,8 @@
     "city": "Remote / Global",
     "category": "Python / Backend",
     "url": "https://jobicy.com/jobs/142198-java-backend-engineer-ai-llm-chatbot-customer-service",
-    "date": "2026-08-17",
+    "description": "Binance is the leading global blockchain ecosystem and cryptocurrency infrastructure provider whose suite of financial products includes the world\u2019s largest digital-asset exchange.Our mission is to accelerate cryptocurrency adoption and increase the freedom of money. If you\u2019re looking for a fast-paced, mission-driven organization where opportunities to learn and excel are endle...",
+    "source": "Jobicy Network",
     "is_featured": false
   },
   {
@@ -34,9 +26,10 @@
     "title": "Database Engineer",
     "company": "Ruby Labs",
     "city": "Remote / Global",
-    "category": "General / Other",
+    "category": "Admin & Operations",
     "url": "https://jobicy.com/jobs/146614-database-engineer",
-    "date": "2026-08-17",
+    "description": "About us Ruby Labs is a leading tech company that creates and operates innovative consumer products. We offer a diverse range of opportunities across the health, education, and entertainment industries. Our innovative teams are driving the future of consumer-led products, and we're always looking for passionate individuals to join us. Learn more about our story at: https://ruby...",
+    "source": "Jobicy Network",
     "is_featured": false
   },
   {
@@ -46,7 +39,8 @@
     "city": "Remote / Global",
     "category": "Marketing & Sales",
     "url": "https://jobicy.com/jobs/149391-sales-engineer-ii",
-    "date": "2026-08-17",
+    "description": "Description As a leading provider of comprehensive digital signage solutions, Spectrio empowers clients to transform their business locations into modern, dynamic destinations for customers and employees. Headquartered in Tampa, Florida, and serving more than 150,000 global client locations across industries including automotive, healthcare, and financial services, Spectrio con...",
+    "source": "Jobicy Network",
     "is_featured": false
   },
   {
@@ -54,9 +48,10 @@
     "title": "Senior Payroll Implementation Specialist - NL & Belgium",
     "company": "Remote",
     "city": "Remote / Global",
-    "category": "General / Other",
+    "category": "Admin & Operations",
     "url": "https://jobicy.com/jobs/149364-senior-payroll-implementation-specialist-nl-belgium",
-    "date": "2026-08-17",
+    "description": "About Remote Remote is solving modern organizations\u2019 biggest challenge \u2013 navigating global employment compliantly with ease. We make it possible for businesses of all sizes to recruit, pay, and manage international teams. With our core values at heart and future focused work culture, our team works tirelessly on ambitious problems, asynchronously, around the world. You can find...",
+    "source": "Jobicy Network",
     "is_featured": false
   },
   {
@@ -64,9 +59,10 @@
     "title": "Travel Consultant (GDS Sabre)",
     "company": "BCD Travel",
     "city": "Remote / Global",
-    "category": "General / Other",
+    "category": "Admin & Operations",
     "url": "https://jobicy.com/jobs/146618-travel-consultant-gds-sabre",
-    "date": "2026-08-17",
+    "description": "Start your journey with BCD: Grow, connect, collaborate and celebrate with our global team T ravel Agent- GDS Sabre (Remote) Full time, Spain, Poland and Spain As a Travel Consultant, you are the face of our company. You\u2019ll communicate and respond to requests for dedicated client, helping them travel smart and achieve more. Do you communicate effortlessly and have customer serv...",
+    "source": "Jobicy Network",
     "is_featured": false
   },
   {
@@ -74,9 +70,10 @@
     "title": "Vulnerability Operation Center Lead",
     "company": "Nebius",
     "city": "Remote / Global",
-    "category": "General / Other",
+    "category": "Admin & Operations",
     "url": "https://jobicy.com/jobs/149362-vulnerability-operation-center-lead",
-    "date": "2026-08-17",
+    "description": "About Nebius: Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-house AI/ML infrastructure. Built by engineers, for engineers. From large-scale GPU...",
+    "source": "Jobicy Network",
     "is_featured": false
   },
   {
@@ -84,9 +81,10 @@
     "title": "Senior Technical Product Manager, Token Factory",
     "company": "Nebius",
     "city": "Remote / Global",
-    "category": "Admin & Management",
+    "category": "Admin & Operations",
     "url": "https://jobicy.com/jobs/149361-senior-technical-product-manager-token-factory",
-    "date": "2026-08-17",
+    "description": "About Nebius: Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-house AI/ML infrastructure. Built by engineers, for engineers. From large-scale GPU...",
+    "source": "Jobicy Network",
     "is_featured": false
   },
   {
@@ -94,9 +92,10 @@
     "title": "Growth Manager (Conversion Rate Optimization)",
     "company": "Ruby Labs",
     "city": "Remote / Global",
-    "category": "Admin & Management",
+    "category": "Admin & Operations",
     "url": "https://jobicy.com/jobs/149368-growth-manager-conversion-rate-optimization",
-    "date": "2026-08-17",
+    "description": "About us Ruby Labs is a leading tech company that creates and operates innovative consumer products. We offer a diverse range of opportunities across the health, education, and entertainment industries. Our innovative teams are driving the future of consumer-led products, and we're always looking for passionate individuals to join us. Learn more about our story at: https://ruby...",
+    "source": "Jobicy Network",
     "is_featured": false
   },
   {
@@ -104,9 +103,10 @@
     "title": "Offensive Security Lead",
     "company": "Nebius",
     "city": "Remote / Global",
-    "category": "General / Other",
+    "category": "Admin & Operations",
     "url": "https://jobicy.com/jobs/149365-offensive-security-lead",
-    "date": "2026-08-17",
+    "description": "About Nebius: Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-house AI/ML infrastructure. Built by engineers, for engineers. From large-scale GPU...",
+    "source": "Jobicy Network",
     "is_featured": false
   },
   {
@@ -116,7 +116,8 @@
     "city": "Remote / Global",
     "category": "Marketing & Sales",
     "url": "https://jobicy.com/jobs/149377-sales-director-healthcare",
-    "date": "2026-08-17",
+    "description": "About us At Sierra, we\u2019re creating a platform to help businesses build better, more human customer experiences with AI. We are primarily an in-person company based in San Francisco, with growing offices in Atlanta, New York, London, Paris, Madrid, Munich, Singapore, Tokyo, and Sydney. We are guided by a set of values that are at the core of our actions and define our culture: T...",
+    "source": "Jobicy Network",
     "is_featured": false
   },
   {
@@ -126,7 +127,8 @@
     "city": "Remote / Global",
     "category": "Marketing & Sales",
     "url": "https://jobicy.com/jobs/149376-sales-director-retail",
-    "date": "2026-08-17",
+    "description": "About us At Sierra, we\u2019re creating a platform to help businesses build better, more human customer experiences with AI. We are primarily an in-person company based in San Francisco, with growing offices in Atlanta, New York, London, Paris, Madrid, Munich, Singapore, Tokyo, and Sydney. We are guided by a set of values that are at the core of our actions and define our culture: T...",
+    "source": "Jobicy Network",
     "is_featured": false
   },
   {
@@ -136,7 +138,8 @@
     "city": "Remote / Global",
     "category": "Design & Creative",
     "url": "https://jobicy.com/jobs/149375-senior-principal-sales-compensation-design-strategy",
-    "date": "2026-08-17",
+    "description": "About Us At Cloudflare, we are on a mission to help build a better Internet. Today the company runs one of the world\u2019s largest networks that powers millions of websites and other Internet properties for customers ranging from individual bloggers to SMBs to Fortune 500 companies. Cloudflare protects and accelerates any Internet application online without adding hardware, install...",
+    "source": "Jobicy Network",
     "is_featured": false
   },
   {
@@ -146,7 +149,8 @@
     "city": "Remote / Global",
     "category": "Marketing & Sales",
     "url": "https://jobicy.com/jobs/149390-sales-development-representative-bilingual-spanish-and-italian-uk-remote",
-    "date": "2026-08-17",
+    "description": "Company Description When you join Turnitin, you'll be welcomed into a company that is a recognized innovator in global education. For over 25 years, Turnitin has partnered with educators and institutions to develop learning integrity solutions that recognize the enduring value of critical thinking in a rapidly changing world. Over 16,000 academic institutions, publishers, and c...",
+    "source": "Jobicy Network",
     "is_featured": false
   },
   {
@@ -156,7 +160,8 @@
     "city": "Remote / Global",
     "category": "Marketing & Sales",
     "url": "https://jobicy.com/jobs/149387-ecosystem-sales-manager-carahsoft-washington-dc",
-    "date": "2026-08-17",
+    "description": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster. The same ...",
+    "source": "Jobicy Network",
     "is_featured": false
   },
   {
@@ -164,9 +169,10 @@
     "title": "Sales Development Representative - API/CPaaS (NwPS)",
     "company": "Vonage",
     "city": "Remote / Global",
-    "category": "Marketing & Sales",
+    "category": "Python / Backend",
     "url": "https://jobicy.com/jobs/149389-sales-development-representative-api-cpaas-nwps",
-    "date": "2026-08-17",
+    "description": "Join Vonage and help us innovate cloud communications for businesses worldwide! Vonage Communications APIs: As an emerging leader in the $10B+ communications API market, we empower global brands to connect better with their customers, employees, and partners through transformative communications experiences. For example, Vonage API solutions empower organizations to build their...",
+    "source": "Jobicy Network",
     "is_featured": false
   },
   {
@@ -174,9 +180,10 @@
     "title": "Enterprise Account Executive, Iberia",
     "company": "Cresta",
     "city": "Remote / Global",
-    "category": "General / Other",
+    "category": "Admin & Operations",
     "url": "https://jobicy.com/jobs/150870-enterprise-account-executive-iberia",
-    "date": "2026-08-16",
+    "description": "Cresta unlocks the true potential of the customer experience, turning every conversation into a competitive advantage. Cresta\u2019s unified AI platform combines conversational AI agents, real-time human agent augmentation, and comprehensive conversation intelligence to drive revenue and efficiency gains across every channel. The world\u2019s leading companies, including United Airlines,...",
+    "source": "Jobicy Network",
     "is_featured": false
   },
   {
@@ -184,9 +191,10 @@
     "title": "Enterprise Account Executive, EMEA",
     "company": "Cresta",
     "city": "Remote / Global",
-    "category": "General / Other",
+    "category": "Admin & Operations",
     "url": "https://jobicy.com/jobs/150869-enterprise-account-executive-emea",
-    "date": "2026-08-16",
+    "description": "Cresta unlocks the true potential of the customer experience, turning every conversation into a competitive advantage. Cresta\u2019s unified AI platform combines conversational AI agents, real-time human agent augmentation, and comprehensive conversation intelligence to drive revenue and efficiency gains across every channel. The world\u2019s leading companies, including United Airlines,...",
+    "source": "Jobicy Network",
     "is_featured": false
   },
   {
@@ -194,9 +202,10 @@
     "title": "Account Executive",
     "company": "SiteMinder",
     "city": "Remote / Global",
-    "category": "General / Other",
+    "category": "Admin & Operations",
     "url": "https://jobicy.com/jobs/150868-account-executive-3",
-    "date": "2026-08-16",
+    "description": "At SiteMinder we believe the individual contributions of our employees are what drive our success. That\u2019s why we hire and encourage diverse teams that include and respect a variety of voices, identities, backgrounds, experiences and perspectives. Our diverse and inclusive culture enables our employees to bring their unique selves to work and be proud of doing so. It\u2019s in our di...",
+    "source": "Jobicy Network",
     "is_featured": false
   },
   {
@@ -204,349 +213,252 @@
     "title": "Enterprise Account Executive, APAC",
     "company": "Cresta",
     "city": "Remote / Global",
-    "category": "General / Other",
+    "category": "Admin & Operations",
     "url": "https://jobicy.com/jobs/150867-enterprise-account-executive-apac",
-    "date": "2026-08-16",
+    "description": "Cresta unlocks the true potential of the customer experience, turning every conversation into a competitive advantage. Cresta\u2019s unified AI platform combines conversational AI agents, real-time human agent augmentation, and comprehensive conversation intelligence to drive revenue and efficiency gains across every channel. The world\u2019s leading companies, including United Airlines,...",
+    "source": "Jobicy Network",
     "is_featured": false
   },
   {
-    "id": "arbeit-o-au-pinneberg-18389",
-    "title": "\ud835\udde3\ud835\uddf2\ud835\uddff\ud835\ude00\u00f6\ud835\uddfb\ud835\uddf9\ud835\uddf6\ud835\uddf0\ud835\uddf5\ud835\uddf2\ud835\uddff \ud835\udde5\ud835\uddf2\ud835\uddf3\ud835\uddf2\ud835\uddff\ud835\uddf2\ud835\uddfb\ud835\ude01 \ud835\uddf1\ud835\uddf2\ud835\ude00 \ud835\uddda\ud835\uddf2\ud835\ude00\ud835\uddf0\ud835\uddf5\u00e4\ud835\uddf3\ud835\ude01\ud835\ude00\ud835\uddf3\u00fc\ud835\uddf5\ud835\uddff\ud835\uddf2\ud835\uddff\ud835\ude00 (\ud835\uddfa/\ud835\ude04/\ud835\uddf1)",
-    "company": "KURT Personal GmbH",
+    "id": "jobicy-150866",
+    "title": "Embedded AI Expert",
+    "company": "Cresta",
     "city": "Remote / Global",
-    "category": "General / Other",
-    "url": "https://www.arbeitnow.com/jobs/companies/kurt-personal-gmbh/o-au-pinneberg-18389",
-    "date": "2026-08-17",
+    "category": "Admin & Operations",
+    "url": "https://jobicy.com/jobs/150866-embedded-ai-expert",
+    "description": "Cresta unlocks the true potential of the customer experience, turning every conversation into a competitive advantage. Cresta\u2019s unified AI platform combines conversational AI agents, real-time human agent augmentation, and comprehensive conversation intelligence to drive revenue and efficiency gains across every channel. The world\u2019s leading companies, including United Airlines,...",
+    "source": "Jobicy Network",
     "is_featured": false
   },
   {
-    "id": "arbeit-geschaftsfuhrerin-ceo-dusseldorf-428192",
-    "title": "Gesch\u00e4ftsf\u00fchrer:in / CEO (m/w/d)",
-    "company": "Workdate GmbH",
-    "city": "Remote / Global",
-    "category": "Admin & Management",
-    "url": "https://www.arbeitnow.com/jobs/companies/workdate-gmbh/geschaftsfuhrerin-ceo-dusseldorf-428192",
-    "date": "2026-08-17",
-    "is_featured": false
-  },
-  {
-    "id": "arbeit-director-policy-development-berlin-68950",
-    "title": "Director, Policy Development",
-    "company": "wolt",
-    "city": "Remote / Global",
-    "category": "General / Other",
-    "url": "https://www.arbeitnow.com/jobs/companies/wolt/director-policy-development-berlin-68950",
-    "date": "2026-08-17",
-    "is_featured": false
-  },
-  {
-    "id": "arbeit-go-to-market-lead-dach-berlin-301129",
-    "title": "Go To Market Lead, DACH",
-    "company": "Gigs",
-    "city": "Remote / Global",
-    "category": "General / Other",
-    "url": "https://www.arbeitnow.com/jobs/companies/gigs/go-to-market-lead-dach-berlin-301129",
-    "date": "2026-08-17",
-    "is_featured": false
-  },
-  {
-    "id": "arbeit-growth-lead-berlin-241704",
-    "title": "Growth Lead - Berlin",
-    "company": "Almedia",
-    "city": "Remote / Global",
-    "category": "General / Other",
-    "url": "https://www.arbeitnow.com/jobs/companies/almedia/growth-lead-berlin-241704",
-    "date": "2026-08-17",
-    "is_featured": false
-  },
-  {
-    "id": "arbeit-senior-legal-counsel-germany-austria-munich-422217",
-    "title": "Senior Legal Counsel \u2013 Germany & Austria (m/w/d)",
-    "company": "Rohlik",
-    "city": "Remote / Global",
-    "category": "General / Other",
-    "url": "https://www.arbeitnow.com/jobs/companies/rohlik/senior-legal-counsel-germany-austria-munich-422217",
-    "date": "2026-08-17",
-    "is_featured": false
-  },
-  {
-    "id": "arbeit-head-of-product-design-berlin-213978",
-    "title": "Head of Product Design",
-    "company": "n8n",
-    "city": "Remote / Global",
-    "category": "Design & Creative",
-    "url": "https://www.arbeitnow.com/jobs/companies/n8n/head-of-product-design-berlin-213978",
-    "date": "2026-08-17",
-    "is_featured": false
-  },
-  {
-    "id": "arbeit-chief-of-staff-strategy-marketing-vollzeit-koln-start-november-26-cologne-90062",
-    "title": "Chief of Staff -Strategy & Marketing (m/w/d) - Vollzeit-K\u00f6ln-Start November 26",
-    "company": "rheingold GmbH & Co. KG",
+    "id": "jobicy-150865",
+    "title": "Senior Sales Executive",
+    "company": "SiteMinder",
     "city": "Remote / Global",
     "category": "Marketing & Sales",
-    "url": "https://www.arbeitnow.com/jobs/companies/rheingold-gmbh-co-kg/chief-of-staff-strategy-marketing-vollzeit-koln-start-november-26-cologne-90062",
-    "date": "2026-08-17",
+    "url": "https://jobicy.com/jobs/150865-senior-sales-executive",
+    "description": "At SiteMinder we believe the individual contributions of our employees are what drive our success. That\u2019s why we hire and encourage diverse teams that include and respect a variety of voices, identities, backgrounds, experiences and perspectives. Our diverse and inclusive culture enables our employees to bring their unique selves to work and be proud of doing so. It\u2019s in our di...",
+    "source": "Jobicy Network",
     "is_featured": false
   },
   {
-    "id": "arbeit-werkstudentin-quereinstieg-kosmetikerin-waxing-brows-dusseldorf-9223",
-    "title": "Werkstudent*in Quereinstieg Kosmetikerin (m/w/d) | Waxing & Brows",
-    "company": "Waxcat GmbH",
+    "id": "jobicy-150864",
+    "title": "Business Development Manager, DACH",
+    "company": "SiteMinder",
     "city": "Remote / Global",
-    "category": "General / Other",
-    "url": "https://www.arbeitnow.com/jobs/companies/waxcat-gmbh/werkstudentin-quereinstieg-kosmetikerin-waxing-brows-dusseldorf-9223",
-    "date": "2026-08-17",
+    "category": "Admin & Operations",
+    "url": "https://jobicy.com/jobs/150864-business-development-manager-dach",
+    "description": "At SiteMinder we believe the individual contributions of our employees are what drive our success. That\u2019s why we hire and encourage diverse teams that include and respect a variety of voices, identities, backgrounds, experiences and perspectives. Our diverse and inclusive culture enables our employees to bring their unique selves to work and be proud of doing so. It\u2019s in our di...",
+    "source": "Jobicy Network",
     "is_featured": false
   },
   {
-    "id": "arbeit-ausbildungsplatz-schiffsmechaniker-rostock-44643",
-    "title": "Ausbildungsplatz Schiffsmechaniker (m/w/d)",
-    "company": "F. Laeisz Group",
+    "id": "jobicy-150863",
+    "title": "Data Science Intern (Customer Success)",
+    "company": "Cresta",
     "city": "Remote / Global",
-    "category": "General / Other",
-    "url": "https://www.arbeitnow.com/jobs/companies/f-laeisz-group/ausbildungsplatz-schiffsmechaniker-rostock-44643",
-    "date": "2026-08-17",
+    "category": "Admin & Operations",
+    "url": "https://jobicy.com/jobs/150863-data-science-intern-customer-success",
+    "description": "Cresta unlocks the true potential of the customer experience, turning every conversation into a competitive advantage. Cresta\u2019s unified AI platform combines conversational AI agents, real-time human agent augmentation, and comprehensive conversation intelligence to drive revenue and efficiency gains across every channel. The world\u2019s leading companies, including United Airlines,...",
+    "source": "Jobicy Network",
     "is_featured": false
   },
   {
-    "id": "arbeit-remote-senior-data-scientist-berlin-371753",
-    "title": "Senior Data Scientist (m/f/x)",
-    "company": "Makersite GmbH",
+    "id": "jobicy-150862",
+    "title": "AI Deployment Manager",
+    "company": "Cresta",
     "city": "Remote / Global",
-    "category": "General / Other",
-    "url": "https://www.arbeitnow.com/jobs/companies/makersite-gmbh/remote-senior-data-scientist-berlin-371753",
-    "date": "2026-08-17",
+    "category": "Admin & Operations",
+    "url": "https://jobicy.com/jobs/150862-ai-deployment-manager",
+    "description": "Cresta unlocks the true potential of the customer experience, turning every conversation into a competitive advantage. Cresta\u2019s unified AI platform combines conversational AI agents, real-time human agent augmentation, and comprehensive conversation intelligence to drive revenue and efficiency gains across every channel. The world\u2019s leading companies, including United Airlines,...",
+    "source": "Jobicy Network",
     "is_featured": false
   },
   {
-    "id": "arbeit-remote-kubernetes-administrator-private-cloud-engineer-karlsruhe-430852",
-    "title": "Kubernetes Administrator/Private Cloud Engineer (m/w/d)",
-    "company": "virtual7 GmbH",
+    "id": "jobicy-150861",
+    "title": "Senior Public Relations Manager",
+    "company": "AudioEye",
     "city": "Remote / Global",
-    "category": "Admin & Management",
-    "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-kubernetes-administrator-private-cloud-engineer-karlsruhe-430852",
-    "date": "2026-08-17",
+    "category": "Admin & Operations",
+    "url": "https://jobicy.com/jobs/150861-senior-public-relations-manager",
+    "description": "About the Team At AudioEye, we believe access to digital content is a fundamental right, not a privilege. Our mission is clear: eliminate every barrier to digital accessibility so that everyone, regardless of ability, can experience the web without limitations. We are a team of passionate problem-solvers who are driven by purpose and impact. Every challenge we tackle moves us c...",
+    "source": "Jobicy Network",
     "is_featured": false
   },
   {
-    "id": "arbeit-senior-java-fullstack-developer-kaarst-387824",
-    "title": "Senior Java Fullstack Developer (m/w/d)",
-    "company": "virtual7 GmbH",
+    "id": "jobicy-150860",
+    "title": "Account Executive (SaaS)",
+    "company": "Housecall Pro",
     "city": "Remote / Global",
+    "category": "Admin & Operations",
+    "url": "https://jobicy.com/jobs/150860-account-executive-saas",
+    "description": "Why Housecall Pro? Help us build solutions that build better lives. At Housecall Pro, we show up to work every day to make a difference for real people: the home service professionals that support America\u2019s 100 million homes. We\u2019re all about the Pro, and dedicate our days to helping them streamline operations, scale their businesses, and\u2014ultimately\u2014save time so they can be with...",
+    "source": "Jobicy Network",
+    "is_featured": false
+  },
+  {
+    "id": "jobicy-150859",
+    "title": "Account Executive, New Logo",
+    "company": "Temporal Technologies",
+    "city": "Remote / Global",
+    "category": "Admin & Operations",
+    "url": "https://jobicy.com/jobs/150859-account-executive-new-logo",
+    "description": "About Us Temporal is an open source programming model that can simplify code, make applications more reliable, and help developers focus on the important things like delivering features faster. We are on a mission to be the reliable foundation of every developer\u2019s toolbox, and are building the team that will make that happen. Our values guide us \u2014they are present in how we show...",
+    "source": "Jobicy Network",
+    "is_featured": false
+  },
+  {
+    "id": "jobicy-150858",
+    "title": "Account Executive, Partners",
+    "company": "Housecall Pro",
+    "city": "Remote / Global",
+    "category": "Admin & Operations",
+    "url": "https://jobicy.com/jobs/150858-account-executive-partners",
+    "description": "Why Housecall Pro? Help us build solutions that build better lives. At Housecall Pro, we show up to work every day to make a difference for real people: the home service professionals that support America\u2019s 100 million homes. We\u2019re all about the Pro, and dedicate our days to helping them streamline operations, scale their businesses, and\u2014ultimately\u2014save time so they can be with...",
+    "source": "Jobicy Network",
+    "is_featured": false
+  },
+  {
+    "id": "jobicy-150857",
+    "title": "Clinical Operations Lead (Clinical Trial Manager)",
+    "company": "Alimentiv",
+    "city": "Remote / Global",
+    "category": "Admin & Operations",
+    "url": "https://jobicy.com/jobs/150857-clinical-operations-lead-clinical-trial-manager",
+    "description": "Responsible for the clinical operations of a project within a defined regional/global level. Provides oversight of project deliverables, assigned Clinical Research Associate (CRAs) and Investigator sites in accordance with the Monitoring Plan, Protocol, Good Clinical Practice (GCP), ICH guidelines and local regulations. The COL acts as a primary liaison between the CRAs and the...",
+    "source": "Jobicy Network",
+    "is_featured": false
+  },
+  {
+    "id": "jobicy-150856",
+    "title": "Account Executive (Key Accounts)",
+    "company": "Housecall Pro",
+    "city": "Remote / Global",
+    "category": "Admin & Operations",
+    "url": "https://jobicy.com/jobs/150856-account-executive-key-accounts",
+    "description": "Why Housecall Pro? Help us build solutions that build better lives. At Housecall Pro, we show up to work every day to make a difference for real people: the home service professionals that support America\u2019s 100 million homes. We\u2019re all about the Pro, and dedicate our days to helping them streamline operations, scale their businesses, and\u2014ultimately\u2014save time so they can be with...",
+    "source": "Jobicy Network",
+    "is_featured": false
+  },
+  {
+    "id": "jobicy-150855",
+    "title": "Clinical Operations Lead",
+    "company": "Alimentiv",
+    "city": "Remote / Global",
+    "category": "Admin & Operations",
+    "url": "https://jobicy.com/jobs/150855-clinical-operations-lead",
+    "description": "Responsible for the clinical operations of a project within a defined regional/global level. Provides oversight of project deliverables, assigned Clinical Research Associate (CRAs) and Investigator sites in accordance with the Monitoring Plan, Protocol, Good Clinical Practice (GCP), ICH guidelines and local regulations. The COL acts as a primary liaison between the CRAs and the...",
+    "source": "Jobicy Network",
+    "is_featured": false
+  },
+  {
+    "id": "jobicy-150854",
+    "title": "Chief Financial Officer",
+    "company": "Grove Collaborative",
+    "city": "Remote / Global",
+    "category": "Admin & Operations",
+    "url": "https://jobicy.com/jobs/150854-chief-financial-officer",
+    "description": "Grove Collaborative is a sustainability-focused consumer products company creating household and personal care essentials that are effective, beautifully designed, and healthier for people and the planet. We are a certified B Corp, plastic-neutral, and on a mission to transform the CPG industry for good. The Pitch We'll start with the upside, because it\u2019s real. Grove has done t...",
+    "source": "Jobicy Network",
+    "is_featured": false
+  },
+  {
+    "id": "jobicy-150853",
+    "title": "Account Executive, EMEA",
+    "company": "Temporal Technologies",
+    "city": "Remote / Global",
+    "category": "Admin & Operations",
+    "url": "https://jobicy.com/jobs/150853-account-executive-emea",
+    "description": "About Us Temporal is an open source programming model that can simplify code, make applications more reliable, and help developers focus on the important things like delivering features faster. We are on a mission to be the reliable foundation of every developer\u2019s toolbox, and are building the team that will make that happen. Our values guide us \u2014they are present in how we show...",
+    "source": "Jobicy Network",
+    "is_featured": false
+  },
+  {
+    "id": "jobicy-150852",
+    "title": "Account Executive",
+    "company": "Housecall Pro",
+    "city": "Remote / Global",
+    "category": "Admin & Operations",
+    "url": "https://jobicy.com/jobs/150852-account-executive-2",
+    "description": "Why Housecall Pro? Help us build solutions that build better lives. At Housecall Pro, we show up to work every day to make a difference for real people: the home service professionals that support America\u2019s 100 million homes. We\u2019re all about the Pro, and dedicate our days to helping them streamline operations, scale their businesses, and\u2014ultimately\u2014save time so they can be with...",
+    "source": "Jobicy Network",
+    "is_featured": false
+  },
+  {
+    "id": "jobicy-150851",
+    "title": "AI-First Android Engineer",
+    "company": "Grove Collaborative",
+    "city": "Remote / Global",
+    "category": "Admin & Operations",
+    "url": "https://jobicy.com/jobs/150851-ai-first-android-engineer",
+    "description": "Grove Collaborative is a sustainability-focused consumer products company creating household and personal care essentials that are effective, beautifully designed, and healthier for people and the planet. We are a certified B Corp, plastic-neutral, and on a mission to transform the CPG industry for good. THE ROLE Grove is hiring an AI-First Android Engineer \u2014 a senior, single-t...",
+    "source": "Jobicy Network",
+    "is_featured": false
+  },
+  {
+    "id": "jobicy-150850",
+    "title": "Manager, Software Engineering - Platform",
+    "company": "NetDocuments",
+    "city": "Remote / Global",
+    "category": "Admin & Operations",
+    "url": "https://jobicy.com/jobs/150850-manager-software-engineering-platform",
+    "description": "NetDocuments is committed to providing an excellent candidate experience and will never ask you to engage in recruitment activity without phone, video, and in person meetings and communications from emails using the @netdocuments.com domain. If you have any concerns or questions about communications you have received, please send them to hrgroup@netdocuments.com so our team mem...",
+    "source": "Jobicy Network",
+    "is_featured": false
+  },
+  {
+    "id": "jobicy-150849",
+    "title": "Manager, Software Engineering - AI Assistant",
+    "company": "NetDocuments",
+    "city": "Remote / Global",
+    "category": "Admin & Operations",
+    "url": "https://jobicy.com/jobs/150849-manager-software-engineering-ai-assistant",
+    "description": "NetDocuments is committed to providing an excellent candidate experience and will never ask you to engage in recruitment activity without phone, video, and in person meetings and communications from emails using the @netdocuments.com domain. If you have any concerns or questions about communications you have received, please send them to hrgroup@netdocuments.com so our team mem...",
+    "source": "Jobicy Network",
+    "is_featured": false
+  },
+  {
+    "id": "jobicy-150848",
+    "title": "Legal Innovation Partner - APAC",
+    "company": "NetDocuments",
+    "city": "Remote / Global",
+    "category": "Admin & Operations",
+    "url": "https://jobicy.com/jobs/150848-legal-innovation-partner-apac",
+    "description": "NetDocuments is committed to providing an excellent candidate experience and will never ask you to engage in recruitment activity without phone, video, and in person meetings and communications from emails using the @netdocuments.com domain. If you have any concerns or questions about communications you have received, please send them to hrgroup@netdocuments.com so our team mem...",
+    "source": "Jobicy Network",
+    "is_featured": false
+  },
+  {
+    "id": "jobicy-150847",
+    "title": "Site Reliability Engineer (f/m/d)",
+    "company": "ecosio",
+    "city": "Remote / Global",
+    "category": "Admin & Operations",
+    "url": "https://jobicy.com/jobs/150847-site-reliability-engineer-f-m-d",
+    "description": "Company Description ecosio is a fast-growing, innovative service company and a leading provider of B2B integration, specialising in electronic data interchange (EDI), Web EDI and e-invoicing. ecosio is part of Vertex, Inc., a leading global provider of indirect tax solutions listed on Nasdaq (VERX). Our brand slogan is Connections That Work as we believe strong connections are ...",
+    "source": "Jobicy Network",
+    "is_featured": false
+  },
+  {
+    "id": "indeed-pk-1",
+    "title": "Software Engineer (On-Site)",
+    "company": "Local Tech Solutions",
+    "city": "Lahore",
     "category": "Python / Backend",
-    "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/senior-java-fullstack-developer-kaarst-387824",
-    "date": "2026-08-17",
+    "url": "https://pk.indeed.com/jobs?q=Software+Engineer&l=Lahore",
+    "description": "Physical role requiring Python and database management. Apply on Indeed.",
+    "source": "Indeed Pakistan (Search)",
     "is_featured": false
   },
   {
-    "id": "arbeit-senior-java-fullstack-developer-mit-technischem-fokus-kaarst-444616",
-    "title": "Senior Java Fullstack Developer mit technischem Fokus (m/w/d)",
-    "company": "virtual7 GmbH",
-    "city": "Remote / Global",
-    "category": "Python / Backend",
-    "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/senior-java-fullstack-developer-mit-technischem-fokus-kaarst-444616",
-    "date": "2026-08-17",
-    "is_featured": false
-  },
-  {
-    "id": "arbeit-remote-ai-solution-architect-nurnberg-mittelfranken-234638",
-    "title": "AI Solution Architect (m/w/d)",
-    "company": "virtual7 GmbH",
-    "city": "Remote / Global",
-    "category": "General / Other",
-    "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-ai-solution-architect-nurnberg-mittelfranken-234638",
-    "date": "2026-08-17",
-    "is_featured": false
-  },
-  {
-    "id": "arbeit-account-executive-regional-sales-manager-software-b2b-munchen-unterhaching-496217",
-    "title": "Account Executive / Regional Sales Manager (m/w/d) Software B2B",
-    "company": "Membrain",
-    "city": "Remote / Global",
+    "id": "indeed-pk-2",
+    "title": "Digital Marketing Executive",
+    "company": "Creative Agency PK",
+    "city": "Karachi",
     "category": "Marketing & Sales",
-    "url": "https://www.arbeitnow.com/jobs/companies/membrain/account-executive-regional-sales-manager-software-b2b-munchen-unterhaching-496217",
-    "date": "2026-08-17",
-    "is_featured": false
-  },
-  {
-    "id": "arbeit-account-executive-b2b-software-aufbau-einer-neuen-vertriebsregion-hannover-492435",
-    "title": "Account Executive (m/w/d) B2B Software & Aufbau einer neuen Vertriebsregion",
-    "company": "Membrain",
-    "city": "Remote / Global",
-    "category": "General / Other",
-    "url": "https://www.arbeitnow.com/jobs/companies/membrain/account-executive-b2b-software-aufbau-einer-neuen-vertriebsregion-hannover-492435",
-    "date": "2026-08-17",
-    "is_featured": false
-  },
-  {
-    "id": "arbeit-werkstudent-ai-consulting-infrastructure-leipzig-361351",
-    "title": "Werkstudent AI Consulting & Infrastructure (m/w/d)",
-    "company": "bitaggregat GmbH",
-    "city": "Remote / Global",
-    "category": "General / Other",
-    "url": "https://www.arbeitnow.com/jobs/companies/bitaggregat-gmbh/werkstudent-ai-consulting-infrastructure-leipzig-361351",
-    "date": "2026-08-17",
-    "is_featured": false
-  },
-  {
-    "id": "arbeit-praktikum-online-marketing-marketing-ki-ai-bielefeld-273441",
-    "title": "Praktikum Online-Marketing / Marketing / KI / AI",
-    "company": "SEOMATIK GmbH",
-    "city": "Remote / Global",
-    "category": "Marketing & Sales",
-    "url": "https://www.arbeitnow.com/jobs/companies/seomatik-gmbh/praktikum-online-marketing-marketing-ki-ai-bielefeld-273441",
-    "date": "2026-08-17",
-    "is_featured": false
-  },
-  {
-    "id": "arbeit-consultant-und-sales-manager-m365-rostock-234009",
-    "title": "Consultant- und Sales-Manager M365 (m/w/d)",
-    "company": "GECKO mbH",
-    "city": "Remote / Global",
-    "category": "Marketing & Sales",
-    "url": "https://www.arbeitnow.com/jobs/companies/gecko-mbh/consultant-und-sales-manager-m365-rostock-234009",
-    "date": "2026-08-17",
-    "is_featured": false
-  },
-  {
-    "id": "remotive-2069746",
-    "title": "Tech Lead Full-Stack Rails Engineer",
-    "company": "Mitre Media",
-    "city": "Remote / Global",
-    "category": "General / Other",
-    "url": "https://remotive.com/remote-jobs/software-development/tech-lead-full-stack-rails-engineer-2069746",
-    "date": "2026-08-14",
-    "is_featured": false
-  },
-  {
-    "id": "remotive-2091093",
-    "title": "Face Deduplication Collection",
-    "company": "TELUS Digital",
-    "city": "Remote / Global",
-    "category": "General / Other",
-    "url": "https://remotive.com/remote-jobs/all-others/face-deduplication-collection-2091093",
-    "date": "2026-08-13",
-    "is_featured": false
-  },
-  {
-    "id": "remotive-1680495",
-    "title": "Remote Office Assistant",
-    "company": "Coalition Technologies ",
-    "city": "Remote / Global",
-    "category": "Admin & Management",
-    "url": "https://remotive.com/remote-jobs/marketing/remote-office-assistant-1680495",
-    "date": "2026-08-11",
-    "is_featured": false
-  },
-  {
-    "id": "remotive-2086540",
-    "title": "Inside Sales Contractor",
-    "company": "Credit Wellness, LLC",
-    "city": "Remote / Global",
-    "category": "Marketing & Sales",
-    "url": "https://remotive.com/remote-jobs/sales/inside-sales-contractor-2086540",
-    "date": "2026-08-08",
-    "is_featured": false
-  },
-  {
-    "id": "remotive-2091045",
-    "title": "Tier III Service Desk Engineer",
-    "company": "Unio Digital",
-    "city": "Remote / Global",
-    "category": "General / Other",
-    "url": "https://remotive.com/remote-jobs/information-technology/tier-iii-service-desk-engineer-2091045",
-    "date": "2026-08-07",
-    "is_featured": false
-  },
-  {
-    "id": "remotive-2091088",
-    "title": "Sales Jedi",
-    "company": "Creative Force ",
-    "city": "Remote / Global",
-    "category": "Marketing & Sales",
-    "url": "https://remotive.com/remote-jobs/sales/sales-jedi-2091088",
-    "date": "2026-08-05",
-    "is_featured": false
-  },
-  {
-    "id": "remotive-2091087",
-    "title": "SaaS Product Support Jedi",
-    "company": "Creative Force",
-    "city": "Remote / Global",
-    "category": "General / Other",
-    "url": "https://remotive.com/remote-jobs/customer-service/saas-product-support-jedi-2091087",
-    "date": "2026-08-05",
-    "is_featured": false
-  },
-  {
-    "id": "remotive-1185979",
-    "title": "Freelance Writer",
-    "company": "IAPWE",
-    "city": "Remote / Global",
-    "category": "General / Other",
-    "url": "https://remotive.com/remote-jobs/writing/freelance-writer-1185979",
-    "date": "2026-08-04",
-    "is_featured": false
-  },
-  {
-    "id": "remotive-1749306",
-    "title": "Freelance Copywriter",
-    "company": "Coalition Technologies ",
-    "city": "Remote / Global",
-    "category": "Marketing & Sales",
-    "url": "https://remotive.com/remote-jobs/writing/freelance-copywriter-1749306",
-    "date": "2026-08-02",
-    "is_featured": false
-  },
-  {
-    "id": "remotive-2091081",
-    "title": "Senior Graphic Designer",
-    "company": "Lemon.io",
-    "city": "Remote / Global",
-    "category": "Design & Creative",
-    "url": "https://remotive.com/remote-jobs/design/senior-graphic-designer-2091081",
-    "date": "2026-07-28",
-    "is_featured": false
-  },
-  {
-    "id": "remotive-2090903",
-    "title": "Data Labeling Specialists",
-    "company": "Workada",
-    "city": "Remote / Global",
-    "category": "General / Other",
-    "url": "https://remotive.com/remote-jobs/data/data-labeling-specialists-2090903",
-    "date": "2026-07-26",
-    "is_featured": false
-  },
-  {
-    "id": "remotive-2091075",
-    "title": "Business Development Representative",
-    "company": "Outsite",
-    "city": "Remote / Global",
-    "category": "General / Other",
-    "url": "https://remotive.com/remote-jobs/sales/business-development-representative-2091075",
-    "date": "2026-07-23",
-    "is_featured": false
-  },
-  {
-    "id": "remotive-2091074",
-    "title": "Content Reviewer - United States",
-    "company": "TELUS Digital",
-    "city": "Remote / Global",
-    "category": "Marketing & Sales",
-    "url": "https://remotive.com/remote-jobs/all-others/content-reviewer-united-states-2091074",
-    "date": "2026-07-23",
-    "is_featured": false
-  },
-  {
-    "id": "remotive-2091069",
-    "title": "Patient Care Specialist",
-    "company": "STATLINX",
-    "city": "Remote / Global",
-    "category": "General / Other",
-    "url": "https://remotive.com/remote-jobs/medical/patient-care-specialist-2091069",
-    "date": "2026-07-16",
+    "url": "https://pk.indeed.com/jobs?q=Marketing&l=Karachi",
+    "description": "Manage social media campaigns and SEO strategies. Physical office in Karachi.",
+    "source": "Indeed Pakistan (Search)",
     "is_featured": false
   }
 ]
