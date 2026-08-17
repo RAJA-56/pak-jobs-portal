@@ -55,17 +55,6 @@
     "is_featured": false
   },
   {
-    "id": "jobicy-146614",
-    "title": "Database Engineer",
-    "company": "Ruby Labs",
-    "city": "Remote / Global",
-    "category": "Admin & Operations",
-    "url": "https://jobicy.com/jobs/146614-database-engineer",
-    "description": "About us Ruby Labs is a leading tech company that creates and operates innovative consumer products. We offer a diverse range of opportunities across the health, education, and entertainment industries. Our innovative teams are driving the future of consumer-led products, and we're always looking for passionate individuals to join us. Learn more about our story at: https://ruby...",
-    "source": "Jobicy Network",
-    "is_featured": false
-  },
-  {
     "id": "jobicy-149391",
     "title": "Sales Engineer II",
     "company": "Spectrio",
@@ -435,6 +424,17 @@
     "city": "Remote / Global",
     "category": "Admin & Operations",
     "url": "https://jobicy.com/jobs/150850-manager-software-engineering-platform",
+    "description": "NetDocuments is committed to providing an excellent candidate experience and will never ask you to engage in recruitment activity without phone, video, and in person meetings and communications from emails using the @netdocuments.com domain. If you have any concerns or questions about communications you have received, please send them to hrgroup@netdocuments.com so our team mem...",
+    "source": "Jobicy Network",
+    "is_featured": false
+  },
+  {
+    "id": "jobicy-150849",
+    "title": "Manager, Software Engineering - AI Assistant",
+    "company": "NetDocuments",
+    "city": "Remote / Global",
+    "category": "Admin & Operations",
+    "url": "https://jobicy.com/jobs/150849-manager-software-engineering-ai-assistant",
     "description": "NetDocuments is committed to providing an excellent candidate experience and will never ask you to engage in recruitment activity without phone, video, and in person meetings and communications from emails using the @netdocuments.com domain. If you have any concerns or questions about communications you have received, please send them to hrgroup@netdocuments.com so our team mem...",
     "source": "Jobicy Network",
     "is_featured": false
