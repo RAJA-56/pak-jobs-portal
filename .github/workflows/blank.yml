@@ -1,0 +1,32 @@
+name: Hourly Job Sync
+
+on:
+  schedule:
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+jobs:
+  run-scraper:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Execute Scraper Script
+        run: python scraper.py
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "PakJobs-Automation-Bot"
+          git config --global user.email "bot@pakjobshub.local"
+          git add jobs.json
+          git commit -m "Auto-update hourly job data" || exit 0
+          git push
