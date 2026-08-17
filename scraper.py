@@ -1,20 +1,35 @@
 import requests
 import json
+import re
+
+def clean_html(text):
+    """Strip raw HTML tags so clean plain text descriptions show up on the web page"""
+    if not text:
+        return "Click 'Apply Direct' to view complete details on the hiring site."
+    clean = re.sub(r'<[^>]+>', ' ', str(text))
+    clean = ' '.join(clean.split())
+    return clean[:450] + "..." if len(clean) > 450 else clean
 
 def categorize_job(title):
     t = str(title).lower()
-    if any(k in t for k in ['python', 'backend', 'django', 'fastapi', 'sql', 'node', 'java', 'c++', 'php']):
+    if any(k in t for k in ['python', 'backend', 'django', 'fastapi', 'node', 'java', 'c++', 'php', 'golang']):
         return "Python / Backend"
-    elif any(k in t for k in ['react', 'vue', 'frontend', 'web', 'html', 'css', 'javascript', 'wordpress']):
+    elif any(k in t for k in ['react', 'vue', 'frontend', 'web', 'html', 'css', 'javascript', 'typescript', 'wordpress']):
         return "Web Development"
-    elif any(k in t for k in ['design', 'ui', 'ux', 'graphic', 'figma', 'video', 'animator']):
+    elif any(k in t for k in ['android', 'ios', 'flutter', 'react native', 'mobile']):
+        return "Mobile Development"
+    elif any(k in t for k in ['ai', 'data', 'machine learning', 'nlp', 'analyst', 'python']):
+        return "Data & AI"
+    elif any(k in t for k in ['design', 'ui', 'ux', 'graphic', 'figma', 'video']):
         return "Design & Creative"
     elif any(k in t for k in ['sales', 'marketing', 'seo', 'content', 'social media', 'copywriter']):
         return "Marketing & Sales"
-    elif any(k in t for k in ['admin', 'hr', 'manager', 'accountant', 'customer support', 'assistant']):
-        return "Admin & Management"
+    elif any(k in t for k in ['support', 'customer', 'chat', 'service']):
+        return "Customer Support"
+    elif any(k in t for k in ['admin', 'hr', 'manager', 'accountant', 'operations', 'assistant']):
+        return "Admin & Operations"
     else:
-        return "Software & Tech"
+        return "Web Development"
 
 def detect_city(location_str):
     loc = str(location_str).lower()
@@ -29,21 +44,41 @@ def detect_city(location_str):
 def fetch_jobicy():
     jobs = []
     try:
-        res = requests.get("https://jobicy.com/api/v2/remote-jobs?count=30", timeout=10)
+        res = requests.get("https://jobicy.com/api/v2/remote-jobs?count=40", timeout=10)
         if res.status_code == 200:
-            for job in res.json().get('jobs', []):
+            for item in res.json().get('jobs', []):
                 jobs.append({
-                    "id": f"jobicy-{job.get('id', '')}",
-                    "title": job.get('jobTitle', 'Software Position'),
-                    "company": job.get('companyName', 'Company'),
-                    "city": detect_city(job.get('jobGeo', 'Remote')),
-                    "category": categorize_job(job.get('jobTitle', '')),
-                    "url": job.get('url', '#'),
-                    "date": "Recent",
+                    "id": f"jobicy-{item.get('id')}",
+                    "title": item.get('jobTitle', 'Position'),
+                    "company": item.get('companyName', 'Tech Company'),
+                    "city": detect_city(item.get('jobGeo', 'Remote')),
+                    "category": categorize_job(item.get('jobTitle', '')),
+                    "url": item.get('url', '#'),
+                    "description": clean_html(item.get('jobDescription', '')),
+                    "source": "Jobicy Network",
                     "is_featured": False
                 })
-    except Exception as e:
-        print(f"Jobicy Error: {e}")
+    except Exception as e: print(f"Jobicy Error: {e}")
+    return jobs
+
+def fetch_remotive():
+    jobs = []
+    try:
+        res = requests.get("https://remotive.com/api/remote-jobs?limit=40", timeout=10)
+        if res.status_code == 200:
+            for item in res.json().get('jobs', []):
+                jobs.append({
+                    "id": f"remotive-{item.get('id')}",
+                    "title": item.get('title', 'Position'),
+                    "company": item.get('company_name', 'Company'),
+                    "city": detect_city(item.get('candidate_required_location', 'Remote')),
+                    "category": categorize_job(item.get('title', '')),
+                    "url": item.get('url', '#'),
+                    "description": clean_html(item.get('description', '')),
+                    "source": "Remotive",
+                    "is_featured": False
+                })
+    except Exception as e: print(f"Remotive Error: {e}")
     return jobs
 
 def fetch_arbeitnow():
@@ -51,68 +86,48 @@ def fetch_arbeitnow():
     try:
         res = requests.get("https://www.arbeitnow.com/api/job-board-api", timeout=10)
         if res.status_code == 200:
-            for job in res.json().get('data', [])[:30]:
+            for item in res.json().get('data', []):
                 jobs.append({
-                    "id": f"arbeit-{job.get('slug', '')}",
-                    "title": job.get('title', 'Position'),
-                    "company": job.get('company_name', 'Company'),
-                    "city": detect_city(job.get('location', 'Remote')),
-                    "category": categorize_job(job.get('title', '')),
-                    "url": job.get('url', '#'),
-                    "date": "Recent",
+                    "id": f"arbeit-{item.get('slug')}",
+                    "title": item.get('title', 'Position'),
+                    "company": item.get('company_name', 'Company'),
+                    "city": detect_city(item.get('location', 'Remote')),
+                    "category": categorize_job(item.get('title', '')),
+                    "url": item.get('url', '#'),
+                    "description": clean_html(item.get('description', '')),
+                    "source": "Arbeitnow",
                     "is_featured": False
                 })
-    except Exception as e:
-        print(f"Arbeitnow Error: {e}")
-    return jobs
-
-def fetch_remotive():
-    jobs = []
-    try:
-        res = requests.get("https://remotive.com/api/remote-jobs?limit=30", timeout=10)
-        if res.status_code == 200:
-            for job in res.json().get('jobs', [])[:30]:
-                jobs.append({
-                    "id": f"remotive-{job.get('id', '')}",
-                    "title": job.get('title', 'Position'),
-                    "company": job.get('company_name', 'Company'),
-                    "city": detect_city(job.get('candidate_required_location', 'Remote')),
-                    "category": categorize_job(job.get('title', '')),
-                    "url": job.get('url', '#'),
-                    "date": "Recent",
-                    "is_featured": False
-                })
-    except Exception as e:
-        print(f"Remotive Error: {e}")
+    except Exception as e: print(f"Arbeitnow Error: {e}")
     return jobs
 
 def main():
     all_jobs = []
     
-    # Gather jobs from live web APIs
+    # 1. Scrape from all 3 API networks
     all_jobs.extend(fetch_jobicy())
-    all_jobs.extend(fetch_arbeitnow())
     all_jobs.extend(fetch_remotive())
+    all_jobs.extend(fetch_arbeitnow())
 
-    # Optional: Featured banner slot for direct monetization (points to WhatsApp)
+    # 2. Add pinned sponsor spot
     featured_spot = {
         "id": "feat-101",
-        "title": "Promote Your Company Job Here (Paid Listing)",
+        "title": "Featured Job Slot: Promote Your Vacancy Here",
         "company": "PakJobs Hub Sponsorship",
         "city": "Lahore / Remote",
-        "category": "Admin & Management",
+        "category": "Admin & Operations",
         "url": "https://wa.me/923000000000?text=Hi,%20I%20want%20to%20feature%20a%20job",
-        "date": "Pinned",
+        "description": "Get your job posting pinned at the top of PakJobs Hub for max exposure across developers in Pakistan. Instant WhatsApp application delivery.",
+        "source": "PakJobs Direct",
         "is_featured": True
     }
-    
     all_jobs.insert(0, featured_spot)
 
-    # Overwrite jobs.json with clean data
+    # Save to JSON
     with open("jobs.json", "w", encoding="utf-8") as f:
         json.dump(all_jobs, f, indent=2)
 
-    print(f"Successfully saved {len(all_jobs)} live jobs to jobs.json.")
+    print(f"Updated jobs.json with {len(all_jobs)} rich job entries.")
 
 if __name__ == "__main__":
     main()
