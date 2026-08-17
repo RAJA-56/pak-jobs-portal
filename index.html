@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PakJobs Hub | Direct Local & Remote Tech Jobs</title>
+    <style>
+        body { font-family: sans-serif; background: #f8fafc; color: #334155; margin: 0; padding: 0; }
+        header { background: #0f172a; color: white; padding: 2rem 1rem; text-align: center; }
+        .container { max-width: 900px; margin: 0 auto; padding: 1.5rem 1rem; }
+        .sponsor-box { background: #eff6ff; border: 1px dashed #2563eb; padding: 1rem; text-align: center; margin-bottom: 1.5rem; border-radius: 8px; }
+        .controls { display: grid; grid-template-columns: 2fr 1fr 1fr; gap: 10px; margin-bottom: 1.5rem; }
+        input, select { padding: 0.65rem; border: 1px solid #cbd5e1; border-radius: 6px; }
+        .job-card { background: white; border-radius: 8px; padding: 1.25rem; margin-bottom: 1rem; border: 1px solid #e2e8f0; }
+        .job-card.featured { border-left: 4px solid #16a34a; background: #f0fdf4; }
+        .apply-btn { background: #2563eb; color: white; text-decoration: none; padding: 0.4rem 0.8rem; border-radius: 6px; float: right; }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>PakJobs Hub</h1>
+        <p>Tech and developer jobs across Pakistan & global remote teams</p>
+    </header>
+
+    <div class="container">
+        <div class="sponsor-box">
+            📢 <strong>Hiring for your team?</strong> Feature your job listing here for PKR 3,000 / $10. 
+            <a href="https://wa.me/923000000000?text=Hi,%20I%20want%20to%20feature%20a%20job" target="_blank">Post a Job via WhatsApp →</a>
+        </div>
+
+        <div class="controls">
+            <input type="text" id="keyword" placeholder="Search title or company..." onkeyup="filterJobs()">
+            <select id="citySelect" onchange="filterJobs()">
+                <option value="All">All Locations</option>
+                <option value="Lahore">Lahore</option>
+                <option value="Karachi">Karachi</option>
+                <option value="Islamabad">Islamabad</option>
+                <option value="Remote / Global">Remote</option>
+            </select>
+            <select id="catSelect" onchange="filterJobs()">
+                <option value="All">All Categories</option>
+                <option value="Python / Backend">Python / Backend</option>
+                <option value="Web Development">Web Development</option>
+                <option value="Design & Creative">Design & Creative</option>
+            </select>
+        </div>
+
+        <div id="jobListings">Loading job listings...</div>
+    </div>
+
+    <script>
+        let allJobs = [];
+        fetch('jobs.json')
+            .then(res => res.json())
+            .then(data => { allJobs = data; renderJobs(allJobs); })
+            .catch(() => { document.getElementById('jobListings').innerHTML = 'Error loading jobs.'; });
+
+        function renderJobs(jobs) {
+            const container = document.getElementById('jobListings');
+            container.innerHTML = '';
+            if (jobs.length === 0) {
+                container.innerHTML = '<p>No jobs found.</p>';
+                return;
+            }
+            jobs.forEach(job => {
+                const card = document.createElement('div');
+                card.className = `job-card ${job.is_featured ? 'featured' : ''}`;
+                card.innerHTML = `
+                    <a href="${job.url}" target="_blank" class="apply-btn">Apply Direct</a>
+                    <h3>${job.title} ${job.is_featured ? '⭐ [FEATURED]' : ''}</h3>
+                    <p><strong>${job.company}</strong> | 📍 ${job.city} | 🏷️ ${job.category}</p>
+                `;
+                container.appendChild(card);
+            });
+        }
+
+        function filterJobs() {
+            const keyword = document.getElementById('keyword').value.toLowerCase();
+            const city = document.getElementById('citySelect').value;
+            const category = document.getElementById('catSelect').value;
+
+            const filtered = allJobs.filter(job => {
+                const matchesKeyword = job.title.toLowerCase().includes(keyword) || job.company.toLowerCase().includes(keyword);
+                const matchesCity = (city === 'All' || job.city === city);
+                const matchesCat = (category === 'All' || job.category === category);
+                return matchesKeyword && matchesCity && matchesCat;
+            });
+
+            renderJobs(filtered);
+        }
+    </script>
+</body>
+</html>
