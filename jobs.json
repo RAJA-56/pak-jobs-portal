@@ -1,12 +1,552 @@
 [
   {
-    "id": "feat-101",
-    "title": "Senior Python & Automation Developer",
-    "company": "PakTech Solutions",
+    "id": "pk-loc-101",
+    "title": "Office Admin & Operations Executive (Physical)",
+    "company": "Apex Logistics Pakistan",
     "city": "Lahore",
-    "category": "Python / Backend",
+    "category": "Admin & Management",
     "url": "https://wa.me/923000000000",
     "date": "2026-08-17",
     "is_featured": true
+  },
+  {
+    "id": "jobicy-146611",
+    "title": "Manager, Applications - ADF/ETL/AI",
+    "company": "Molina Healthcare",
+    "city": "Remote / Global",
+    "category": "Admin & Management",
+    "url": "https://jobicy.com/jobs/146611-manager-applications-adf-etl-ai",
+    "date": "2026-08-17",
+    "is_featured": false
+  },
+  {
+    "id": "jobicy-142198",
+    "title": "Java Backend Engineer (AI/LLM Chatbot, Customer Service)",
+    "company": "Binance",
+    "city": "Remote / Global",
+    "category": "Python / Backend",
+    "url": "https://jobicy.com/jobs/142198-java-backend-engineer-ai-llm-chatbot-customer-service",
+    "date": "2026-08-17",
+    "is_featured": false
+  },
+  {
+    "id": "jobicy-146614",
+    "title": "Database Engineer",
+    "company": "Ruby Labs",
+    "city": "Remote / Global",
+    "category": "General / Other",
+    "url": "https://jobicy.com/jobs/146614-database-engineer",
+    "date": "2026-08-17",
+    "is_featured": false
+  },
+  {
+    "id": "jobicy-149391",
+    "title": "Sales Engineer II",
+    "company": "Spectrio",
+    "city": "Remote / Global",
+    "category": "Marketing & Sales",
+    "url": "https://jobicy.com/jobs/149391-sales-engineer-ii",
+    "date": "2026-08-17",
+    "is_featured": false
+  },
+  {
+    "id": "jobicy-149364",
+    "title": "Senior Payroll Implementation Specialist - NL & Belgium",
+    "company": "Remote",
+    "city": "Remote / Global",
+    "category": "General / Other",
+    "url": "https://jobicy.com/jobs/149364-senior-payroll-implementation-specialist-nl-belgium",
+    "date": "2026-08-17",
+    "is_featured": false
+  },
+  {
+    "id": "jobicy-146618",
+    "title": "Travel Consultant (GDS Sabre)",
+    "company": "BCD Travel",
+    "city": "Remote / Global",
+    "category": "General / Other",
+    "url": "https://jobicy.com/jobs/146618-travel-consultant-gds-sabre",
+    "date": "2026-08-17",
+    "is_featured": false
+  },
+  {
+    "id": "jobicy-149362",
+    "title": "Vulnerability Operation Center Lead",
+    "company": "Nebius",
+    "city": "Remote / Global",
+    "category": "General / Other",
+    "url": "https://jobicy.com/jobs/149362-vulnerability-operation-center-lead",
+    "date": "2026-08-17",
+    "is_featured": false
+  },
+  {
+    "id": "jobicy-149361",
+    "title": "Senior Technical Product Manager, Token Factory",
+    "company": "Nebius",
+    "city": "Remote / Global",
+    "category": "Admin & Management",
+    "url": "https://jobicy.com/jobs/149361-senior-technical-product-manager-token-factory",
+    "date": "2026-08-17",
+    "is_featured": false
+  },
+  {
+    "id": "jobicy-149368",
+    "title": "Growth Manager (Conversion Rate Optimization)",
+    "company": "Ruby Labs",
+    "city": "Remote / Global",
+    "category": "Admin & Management",
+    "url": "https://jobicy.com/jobs/149368-growth-manager-conversion-rate-optimization",
+    "date": "2026-08-17",
+    "is_featured": false
+  },
+  {
+    "id": "jobicy-149365",
+    "title": "Offensive Security Lead",
+    "company": "Nebius",
+    "city": "Remote / Global",
+    "category": "General / Other",
+    "url": "https://jobicy.com/jobs/149365-offensive-security-lead",
+    "date": "2026-08-17",
+    "is_featured": false
+  },
+  {
+    "id": "jobicy-149377",
+    "title": "Sales Director - Healthcare",
+    "company": "Sierra",
+    "city": "Remote / Global",
+    "category": "Marketing & Sales",
+    "url": "https://jobicy.com/jobs/149377-sales-director-healthcare",
+    "date": "2026-08-17",
+    "is_featured": false
+  },
+  {
+    "id": "jobicy-149376",
+    "title": "Sales Director - Retail",
+    "company": "Sierra",
+    "city": "Remote / Global",
+    "category": "Marketing & Sales",
+    "url": "https://jobicy.com/jobs/149376-sales-director-retail",
+    "date": "2026-08-17",
+    "is_featured": false
+  },
+  {
+    "id": "jobicy-149375",
+    "title": "Senior Principal, Sales Compensation Design & Strategy",
+    "company": "Cloudflare, Inc.",
+    "city": "Remote / Global",
+    "category": "Design & Creative",
+    "url": "https://jobicy.com/jobs/149375-senior-principal-sales-compensation-design-strategy",
+    "date": "2026-08-17",
+    "is_featured": false
+  },
+  {
+    "id": "jobicy-149390",
+    "title": "Sales Development Representative - Bilingual Spanish and Italian (UK Remote)",
+    "company": "Turnitin, LLC",
+    "city": "Remote / Global",
+    "category": "Marketing & Sales",
+    "url": "https://jobicy.com/jobs/149390-sales-development-representative-bilingual-spanish-and-italian-uk-remote",
+    "date": "2026-08-17",
+    "is_featured": false
+  },
+  {
+    "id": "jobicy-149387",
+    "title": "Ecosystem Sales Manager, Carahsoft (Washington DC)",
+    "company": "GitLab",
+    "city": "Remote / Global",
+    "category": "Marketing & Sales",
+    "url": "https://jobicy.com/jobs/149387-ecosystem-sales-manager-carahsoft-washington-dc",
+    "date": "2026-08-17",
+    "is_featured": false
+  },
+  {
+    "id": "jobicy-149389",
+    "title": "Sales Development Representative - API/CPaaS (NwPS)",
+    "company": "Vonage",
+    "city": "Remote / Global",
+    "category": "Marketing & Sales",
+    "url": "https://jobicy.com/jobs/149389-sales-development-representative-api-cpaas-nwps",
+    "date": "2026-08-17",
+    "is_featured": false
+  },
+  {
+    "id": "jobicy-150870",
+    "title": "Enterprise Account Executive, Iberia",
+    "company": "Cresta",
+    "city": "Remote / Global",
+    "category": "General / Other",
+    "url": "https://jobicy.com/jobs/150870-enterprise-account-executive-iberia",
+    "date": "2026-08-16",
+    "is_featured": false
+  },
+  {
+    "id": "jobicy-150869",
+    "title": "Enterprise Account Executive, EMEA",
+    "company": "Cresta",
+    "city": "Remote / Global",
+    "category": "General / Other",
+    "url": "https://jobicy.com/jobs/150869-enterprise-account-executive-emea",
+    "date": "2026-08-16",
+    "is_featured": false
+  },
+  {
+    "id": "jobicy-150868",
+    "title": "Account Executive",
+    "company": "SiteMinder",
+    "city": "Remote / Global",
+    "category": "General / Other",
+    "url": "https://jobicy.com/jobs/150868-account-executive-3",
+    "date": "2026-08-16",
+    "is_featured": false
+  },
+  {
+    "id": "jobicy-150867",
+    "title": "Enterprise Account Executive, APAC",
+    "company": "Cresta",
+    "city": "Remote / Global",
+    "category": "General / Other",
+    "url": "https://jobicy.com/jobs/150867-enterprise-account-executive-apac",
+    "date": "2026-08-16",
+    "is_featured": false
+  },
+  {
+    "id": "arbeit-o-au-pinneberg-18389",
+    "title": "\ud835\udde3\ud835\uddf2\ud835\uddff\ud835\ude00\u00f6\ud835\uddfb\ud835\uddf9\ud835\uddf6\ud835\uddf0\ud835\uddf5\ud835\uddf2\ud835\uddff \ud835\udde5\ud835\uddf2\ud835\uddf3\ud835\uddf2\ud835\uddff\ud835\uddf2\ud835\uddfb\ud835\ude01 \ud835\uddf1\ud835\uddf2\ud835\ude00 \ud835\uddda\ud835\uddf2\ud835\ude00\ud835\uddf0\ud835\uddf5\u00e4\ud835\uddf3\ud835\ude01\ud835\ude00\ud835\uddf3\u00fc\ud835\uddf5\ud835\uddff\ud835\uddf2\ud835\uddff\ud835\ude00 (\ud835\uddfa/\ud835\ude04/\ud835\uddf1)",
+    "company": "KURT Personal GmbH",
+    "city": "Remote / Global",
+    "category": "General / Other",
+    "url": "https://www.arbeitnow.com/jobs/companies/kurt-personal-gmbh/o-au-pinneberg-18389",
+    "date": "2026-08-17",
+    "is_featured": false
+  },
+  {
+    "id": "arbeit-geschaftsfuhrerin-ceo-dusseldorf-428192",
+    "title": "Gesch\u00e4ftsf\u00fchrer:in / CEO (m/w/d)",
+    "company": "Workdate GmbH",
+    "city": "Remote / Global",
+    "category": "Admin & Management",
+    "url": "https://www.arbeitnow.com/jobs/companies/workdate-gmbh/geschaftsfuhrerin-ceo-dusseldorf-428192",
+    "date": "2026-08-17",
+    "is_featured": false
+  },
+  {
+    "id": "arbeit-director-policy-development-berlin-68950",
+    "title": "Director, Policy Development",
+    "company": "wolt",
+    "city": "Remote / Global",
+    "category": "General / Other",
+    "url": "https://www.arbeitnow.com/jobs/companies/wolt/director-policy-development-berlin-68950",
+    "date": "2026-08-17",
+    "is_featured": false
+  },
+  {
+    "id": "arbeit-go-to-market-lead-dach-berlin-301129",
+    "title": "Go To Market Lead, DACH",
+    "company": "Gigs",
+    "city": "Remote / Global",
+    "category": "General / Other",
+    "url": "https://www.arbeitnow.com/jobs/companies/gigs/go-to-market-lead-dach-berlin-301129",
+    "date": "2026-08-17",
+    "is_featured": false
+  },
+  {
+    "id": "arbeit-growth-lead-berlin-241704",
+    "title": "Growth Lead - Berlin",
+    "company": "Almedia",
+    "city": "Remote / Global",
+    "category": "General / Other",
+    "url": "https://www.arbeitnow.com/jobs/companies/almedia/growth-lead-berlin-241704",
+    "date": "2026-08-17",
+    "is_featured": false
+  },
+  {
+    "id": "arbeit-senior-legal-counsel-germany-austria-munich-422217",
+    "title": "Senior Legal Counsel \u2013 Germany & Austria (m/w/d)",
+    "company": "Rohlik",
+    "city": "Remote / Global",
+    "category": "General / Other",
+    "url": "https://www.arbeitnow.com/jobs/companies/rohlik/senior-legal-counsel-germany-austria-munich-422217",
+    "date": "2026-08-17",
+    "is_featured": false
+  },
+  {
+    "id": "arbeit-head-of-product-design-berlin-213978",
+    "title": "Head of Product Design",
+    "company": "n8n",
+    "city": "Remote / Global",
+    "category": "Design & Creative",
+    "url": "https://www.arbeitnow.com/jobs/companies/n8n/head-of-product-design-berlin-213978",
+    "date": "2026-08-17",
+    "is_featured": false
+  },
+  {
+    "id": "arbeit-chief-of-staff-strategy-marketing-vollzeit-koln-start-november-26-cologne-90062",
+    "title": "Chief of Staff -Strategy & Marketing (m/w/d) - Vollzeit-K\u00f6ln-Start November 26",
+    "company": "rheingold GmbH & Co. KG",
+    "city": "Remote / Global",
+    "category": "Marketing & Sales",
+    "url": "https://www.arbeitnow.com/jobs/companies/rheingold-gmbh-co-kg/chief-of-staff-strategy-marketing-vollzeit-koln-start-november-26-cologne-90062",
+    "date": "2026-08-17",
+    "is_featured": false
+  },
+  {
+    "id": "arbeit-werkstudentin-quereinstieg-kosmetikerin-waxing-brows-dusseldorf-9223",
+    "title": "Werkstudent*in Quereinstieg Kosmetikerin (m/w/d) | Waxing & Brows",
+    "company": "Waxcat GmbH",
+    "city": "Remote / Global",
+    "category": "General / Other",
+    "url": "https://www.arbeitnow.com/jobs/companies/waxcat-gmbh/werkstudentin-quereinstieg-kosmetikerin-waxing-brows-dusseldorf-9223",
+    "date": "2026-08-17",
+    "is_featured": false
+  },
+  {
+    "id": "arbeit-ausbildungsplatz-schiffsmechaniker-rostock-44643",
+    "title": "Ausbildungsplatz Schiffsmechaniker (m/w/d)",
+    "company": "F. Laeisz Group",
+    "city": "Remote / Global",
+    "category": "General / Other",
+    "url": "https://www.arbeitnow.com/jobs/companies/f-laeisz-group/ausbildungsplatz-schiffsmechaniker-rostock-44643",
+    "date": "2026-08-17",
+    "is_featured": false
+  },
+  {
+    "id": "arbeit-remote-senior-data-scientist-berlin-371753",
+    "title": "Senior Data Scientist (m/f/x)",
+    "company": "Makersite GmbH",
+    "city": "Remote / Global",
+    "category": "General / Other",
+    "url": "https://www.arbeitnow.com/jobs/companies/makersite-gmbh/remote-senior-data-scientist-berlin-371753",
+    "date": "2026-08-17",
+    "is_featured": false
+  },
+  {
+    "id": "arbeit-remote-kubernetes-administrator-private-cloud-engineer-karlsruhe-430852",
+    "title": "Kubernetes Administrator/Private Cloud Engineer (m/w/d)",
+    "company": "virtual7 GmbH",
+    "city": "Remote / Global",
+    "category": "Admin & Management",
+    "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-kubernetes-administrator-private-cloud-engineer-karlsruhe-430852",
+    "date": "2026-08-17",
+    "is_featured": false
+  },
+  {
+    "id": "arbeit-senior-java-fullstack-developer-kaarst-387824",
+    "title": "Senior Java Fullstack Developer (m/w/d)",
+    "company": "virtual7 GmbH",
+    "city": "Remote / Global",
+    "category": "Python / Backend",
+    "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/senior-java-fullstack-developer-kaarst-387824",
+    "date": "2026-08-17",
+    "is_featured": false
+  },
+  {
+    "id": "arbeit-senior-java-fullstack-developer-mit-technischem-fokus-kaarst-444616",
+    "title": "Senior Java Fullstack Developer mit technischem Fokus (m/w/d)",
+    "company": "virtual7 GmbH",
+    "city": "Remote / Global",
+    "category": "Python / Backend",
+    "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/senior-java-fullstack-developer-mit-technischem-fokus-kaarst-444616",
+    "date": "2026-08-17",
+    "is_featured": false
+  },
+  {
+    "id": "arbeit-remote-ai-solution-architect-nurnberg-mittelfranken-234638",
+    "title": "AI Solution Architect (m/w/d)",
+    "company": "virtual7 GmbH",
+    "city": "Remote / Global",
+    "category": "General / Other",
+    "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-ai-solution-architect-nurnberg-mittelfranken-234638",
+    "date": "2026-08-17",
+    "is_featured": false
+  },
+  {
+    "id": "arbeit-account-executive-regional-sales-manager-software-b2b-munchen-unterhaching-496217",
+    "title": "Account Executive / Regional Sales Manager (m/w/d) Software B2B",
+    "company": "Membrain",
+    "city": "Remote / Global",
+    "category": "Marketing & Sales",
+    "url": "https://www.arbeitnow.com/jobs/companies/membrain/account-executive-regional-sales-manager-software-b2b-munchen-unterhaching-496217",
+    "date": "2026-08-17",
+    "is_featured": false
+  },
+  {
+    "id": "arbeit-account-executive-b2b-software-aufbau-einer-neuen-vertriebsregion-hannover-492435",
+    "title": "Account Executive (m/w/d) B2B Software & Aufbau einer neuen Vertriebsregion",
+    "company": "Membrain",
+    "city": "Remote / Global",
+    "category": "General / Other",
+    "url": "https://www.arbeitnow.com/jobs/companies/membrain/account-executive-b2b-software-aufbau-einer-neuen-vertriebsregion-hannover-492435",
+    "date": "2026-08-17",
+    "is_featured": false
+  },
+  {
+    "id": "arbeit-werkstudent-ai-consulting-infrastructure-leipzig-361351",
+    "title": "Werkstudent AI Consulting & Infrastructure (m/w/d)",
+    "company": "bitaggregat GmbH",
+    "city": "Remote / Global",
+    "category": "General / Other",
+    "url": "https://www.arbeitnow.com/jobs/companies/bitaggregat-gmbh/werkstudent-ai-consulting-infrastructure-leipzig-361351",
+    "date": "2026-08-17",
+    "is_featured": false
+  },
+  {
+    "id": "arbeit-praktikum-online-marketing-marketing-ki-ai-bielefeld-273441",
+    "title": "Praktikum Online-Marketing / Marketing / KI / AI",
+    "company": "SEOMATIK GmbH",
+    "city": "Remote / Global",
+    "category": "Marketing & Sales",
+    "url": "https://www.arbeitnow.com/jobs/companies/seomatik-gmbh/praktikum-online-marketing-marketing-ki-ai-bielefeld-273441",
+    "date": "2026-08-17",
+    "is_featured": false
+  },
+  {
+    "id": "arbeit-consultant-und-sales-manager-m365-rostock-234009",
+    "title": "Consultant- und Sales-Manager M365 (m/w/d)",
+    "company": "GECKO mbH",
+    "city": "Remote / Global",
+    "category": "Marketing & Sales",
+    "url": "https://www.arbeitnow.com/jobs/companies/gecko-mbh/consultant-und-sales-manager-m365-rostock-234009",
+    "date": "2026-08-17",
+    "is_featured": false
+  },
+  {
+    "id": "remotive-2069746",
+    "title": "Tech Lead Full-Stack Rails Engineer",
+    "company": "Mitre Media",
+    "city": "Remote / Global",
+    "category": "General / Other",
+    "url": "https://remotive.com/remote-jobs/software-development/tech-lead-full-stack-rails-engineer-2069746",
+    "date": "2026-08-14",
+    "is_featured": false
+  },
+  {
+    "id": "remotive-2091093",
+    "title": "Face Deduplication Collection",
+    "company": "TELUS Digital",
+    "city": "Remote / Global",
+    "category": "General / Other",
+    "url": "https://remotive.com/remote-jobs/all-others/face-deduplication-collection-2091093",
+    "date": "2026-08-13",
+    "is_featured": false
+  },
+  {
+    "id": "remotive-1680495",
+    "title": "Remote Office Assistant",
+    "company": "Coalition Technologies ",
+    "city": "Remote / Global",
+    "category": "Admin & Management",
+    "url": "https://remotive.com/remote-jobs/marketing/remote-office-assistant-1680495",
+    "date": "2026-08-11",
+    "is_featured": false
+  },
+  {
+    "id": "remotive-2086540",
+    "title": "Inside Sales Contractor",
+    "company": "Credit Wellness, LLC",
+    "city": "Remote / Global",
+    "category": "Marketing & Sales",
+    "url": "https://remotive.com/remote-jobs/sales/inside-sales-contractor-2086540",
+    "date": "2026-08-08",
+    "is_featured": false
+  },
+  {
+    "id": "remotive-2091045",
+    "title": "Tier III Service Desk Engineer",
+    "company": "Unio Digital",
+    "city": "Remote / Global",
+    "category": "General / Other",
+    "url": "https://remotive.com/remote-jobs/information-technology/tier-iii-service-desk-engineer-2091045",
+    "date": "2026-08-07",
+    "is_featured": false
+  },
+  {
+    "id": "remotive-2091088",
+    "title": "Sales Jedi",
+    "company": "Creative Force ",
+    "city": "Remote / Global",
+    "category": "Marketing & Sales",
+    "url": "https://remotive.com/remote-jobs/sales/sales-jedi-2091088",
+    "date": "2026-08-05",
+    "is_featured": false
+  },
+  {
+    "id": "remotive-2091087",
+    "title": "SaaS Product Support Jedi",
+    "company": "Creative Force",
+    "city": "Remote / Global",
+    "category": "General / Other",
+    "url": "https://remotive.com/remote-jobs/customer-service/saas-product-support-jedi-2091087",
+    "date": "2026-08-05",
+    "is_featured": false
+  },
+  {
+    "id": "remotive-1185979",
+    "title": "Freelance Writer",
+    "company": "IAPWE",
+    "city": "Remote / Global",
+    "category": "General / Other",
+    "url": "https://remotive.com/remote-jobs/writing/freelance-writer-1185979",
+    "date": "2026-08-04",
+    "is_featured": false
+  },
+  {
+    "id": "remotive-1749306",
+    "title": "Freelance Copywriter",
+    "company": "Coalition Technologies ",
+    "city": "Remote / Global",
+    "category": "Marketing & Sales",
+    "url": "https://remotive.com/remote-jobs/writing/freelance-copywriter-1749306",
+    "date": "2026-08-02",
+    "is_featured": false
+  },
+  {
+    "id": "remotive-2091081",
+    "title": "Senior Graphic Designer",
+    "company": "Lemon.io",
+    "city": "Remote / Global",
+    "category": "Design & Creative",
+    "url": "https://remotive.com/remote-jobs/design/senior-graphic-designer-2091081",
+    "date": "2026-07-28",
+    "is_featured": false
+  },
+  {
+    "id": "remotive-2090903",
+    "title": "Data Labeling Specialists",
+    "company": "Workada",
+    "city": "Remote / Global",
+    "category": "General / Other",
+    "url": "https://remotive.com/remote-jobs/data/data-labeling-specialists-2090903",
+    "date": "2026-07-26",
+    "is_featured": false
+  },
+  {
+    "id": "remotive-2091075",
+    "title": "Business Development Representative",
+    "company": "Outsite",
+    "city": "Remote / Global",
+    "category": "General / Other",
+    "url": "https://remotive.com/remote-jobs/sales/business-development-representative-2091075",
+    "date": "2026-07-23",
+    "is_featured": false
+  },
+  {
+    "id": "remotive-2091074",
+    "title": "Content Reviewer - United States",
+    "company": "TELUS Digital",
+    "city": "Remote / Global",
+    "category": "Marketing & Sales",
+    "url": "https://remotive.com/remote-jobs/all-others/content-reviewer-united-states-2091074",
+    "date": "2026-07-23",
+    "is_featured": false
+  },
+  {
+    "id": "remotive-2091069",
+    "title": "Patient Care Specialist",
+    "company": "STATLINX",
+    "city": "Remote / Global",
+    "category": "General / Other",
+    "url": "https://remotive.com/remote-jobs/medical/patient-care-specialist-2091069",
+    "date": "2026-07-16",
+    "is_featured": false
   }
 ]
