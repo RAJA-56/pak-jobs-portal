@@ -1,5 +1,38 @@
 [
   {
+    "id": "jobicy-150885",
+    "title": "Contract Senior Web Engineer",
+    "company": "Fueled",
+    "city": "Remote / Global",
+    "category": "Web Development",
+    "url": "https://jobicy.com/jobs/150885-contract-senior-web-engineer",
+    "description": "Location: Remote \u2014 Anywhere (Open to applicants located anywhere around the globe.) Fueled is a leading digital strategy, design, and engineering agency. We are a 300+ person team that has designed and built hundreds of digital products and experiences for brands like Google, Apple, The New York Times, ESPN, Victoria\u2019s Secret, MGM Resorts, Albertsons, and CLEAR. As a Contract S...",
+    "source": "Jobicy Network",
+    "is_featured": false
+  },
+  {
+    "id": "jobicy-150884",
+    "title": "Accountant",
+    "company": "Remote",
+    "city": "Remote / Global",
+    "category": "Admin & Operations",
+    "url": "https://jobicy.com/jobs/150884-accountant",
+    "description": "About Remote Remote is solving modern organizations\u2019 biggest challenge \u2013 navigating global employment compliantly with ease. We make it possible for businesses of all sizes to recruit, pay, and manage international teams. With our core values at heart and future focused work culture, our team works tirelessly on ambitious problems, asynchronously, around the world. You can find...",
+    "source": "Jobicy Network",
+    "is_featured": false
+  },
+  {
+    "id": "jobicy-150883",
+    "title": "Contract Senior Front End Engineer",
+    "company": "Fueled",
+    "city": "Remote / Global",
+    "category": "Admin & Operations",
+    "url": "https://jobicy.com/jobs/150883-contract-senior-front-end-engineer",
+    "description": "Location: Remote \u2014 Anywhere (Open to applicants located anywhere around the globe) Fueled is a leading digital strategy, design, and engineering agency. We are a 300+ person team that has designed and built hundreds of digital products and experiences for brands like Google, Apple, The New York Times, ESPN, Victoria\u2019s Secret, MGM Resorts, Albertsons, and CLEAR. As a Contract Se...",
+    "source": "Jobicy Network",
+    "is_featured": false
+  },
+  {
     "id": "jobicy-146611",
     "title": "Manager, Applications - ADF/ETL/AI",
     "company": "Molina Healthcare",
@@ -403,39 +436,6 @@
     "category": "Admin & Operations",
     "url": "https://jobicy.com/jobs/150850-manager-software-engineering-platform",
     "description": "NetDocuments is committed to providing an excellent candidate experience and will never ask you to engage in recruitment activity without phone, video, and in person meetings and communications from emails using the @netdocuments.com domain. If you have any concerns or questions about communications you have received, please send them to hrgroup@netdocuments.com so our team mem...",
-    "source": "Jobicy Network",
-    "is_featured": false
-  },
-  {
-    "id": "jobicy-150849",
-    "title": "Manager, Software Engineering - AI Assistant",
-    "company": "NetDocuments",
-    "city": "Remote / Global",
-    "category": "Admin & Operations",
-    "url": "https://jobicy.com/jobs/150849-manager-software-engineering-ai-assistant",
-    "description": "NetDocuments is committed to providing an excellent candidate experience and will never ask you to engage in recruitment activity without phone, video, and in person meetings and communications from emails using the @netdocuments.com domain. If you have any concerns or questions about communications you have received, please send them to hrgroup@netdocuments.com so our team mem...",
-    "source": "Jobicy Network",
-    "is_featured": false
-  },
-  {
-    "id": "jobicy-150848",
-    "title": "Legal Innovation Partner - APAC",
-    "company": "NetDocuments",
-    "city": "Remote / Global",
-    "category": "Admin & Operations",
-    "url": "https://jobicy.com/jobs/150848-legal-innovation-partner-apac",
-    "description": "NetDocuments is committed to providing an excellent candidate experience and will never ask you to engage in recruitment activity without phone, video, and in person meetings and communications from emails using the @netdocuments.com domain. If you have any concerns or questions about communications you have received, please send them to hrgroup@netdocuments.com so our team mem...",
-    "source": "Jobicy Network",
-    "is_featured": false
-  },
-  {
-    "id": "jobicy-150847",
-    "title": "Site Reliability Engineer (f/m/d)",
-    "company": "ecosio",
-    "city": "Remote / Global",
-    "category": "Admin & Operations",
-    "url": "https://jobicy.com/jobs/150847-site-reliability-engineer-f-m-d",
-    "description": "Company Description ecosio is a fast-growing, innovative service company and a leading provider of B2B integration, specialising in electronic data interchange (EDI), Web EDI and e-invoicing. ecosio is part of Vertex, Inc., a leading global provider of indirect tax solutions listed on Nasdaq (VERX). Our brand slogan is Connections That Work as we believe strong connections are ...",
     "source": "Jobicy Network",
     "is_featured": false
   },
