@@ -1,5 +1,82 @@
 [
   {
+    "id": "jobicy-151026",
+    "title": "Security Engineer",
+    "company": "Figma",
+    "city": "Remote / Global",
+    "category": "Admin & Operations",
+    "url": "https://jobicy.com/jobs/151026-security-engineer",
+    "description": "Figma is growing our team of passionate creatives and builders on a mission to make design accessible to all. Figma\u2019s platform helps teams bring ideas to life\u2014whether you're brainstorming, creating a prototype, translating designs into code, or iterating with AI. From idea to product, Figma empowers teams to streamline workflows, move faster, and work together in real time from...",
+    "source": "Jobicy Network",
+    "is_featured": false
+  },
+  {
+    "id": "jobicy-151025",
+    "title": "Marketing Engineer",
+    "company": "Figma",
+    "city": "Remote / Global",
+    "category": "Marketing & Sales",
+    "url": "https://jobicy.com/jobs/151025-marketing-engineer",
+    "description": "Figma is growing our team of passionate creatives and builders on a mission to make design accessible to all. Figma\u2019s platform helps teams bring ideas to life\u2014whether you're brainstorming, creating a prototype, translating designs into code, or iterating with AI. From idea to product, Figma empowers teams to streamline workflows, move faster, and work together in real time from...",
+    "source": "Jobicy Network",
+    "is_featured": false
+  },
+  {
+    "id": "jobicy-151024",
+    "title": "Manager, Strategic Sales",
+    "company": "Figma",
+    "city": "Remote / Global",
+    "category": "Marketing & Sales",
+    "url": "https://jobicy.com/jobs/151024-manager-strategic-sales",
+    "description": "Figma is growing our team of passionate creatives and builders on a mission to make design accessible to all. Figma\u2019s platform helps teams bring ideas to life\u2014whether you're brainstorming, creating a prototype, translating designs into code, or iterating with AI. From idea to product, Figma empowers teams to streamline workflows, move faster, and work together in real time from...",
+    "source": "Jobicy Network",
+    "is_featured": false
+  },
+  {
+    "id": "jobicy-151023",
+    "title": "Executive Assistant, Design",
+    "company": "Figma",
+    "city": "Remote / Global",
+    "category": "Design & Creative",
+    "url": "https://jobicy.com/jobs/151023-executive-assistant-design",
+    "description": "Figma is growing our team of passionate creatives and builders on a mission to make design accessible to all. Figma\u2019s platform helps teams bring ideas to life\u2014whether you're brainstorming, creating a prototype, translating designs into code, or iterating with AI. From idea to product, Figma empowers teams to streamline workflows, move faster, and work together in real time from...",
+    "source": "Jobicy Network",
+    "is_featured": false
+  },
+  {
+    "id": "jobicy-151022",
+    "title": "Customer Enablement Manager (Berlin, Germany)",
+    "company": "Figma",
+    "city": "Remote / Global",
+    "category": "Admin & Operations",
+    "url": "https://jobicy.com/jobs/151022-customer-enablement-manager-berlin-germany",
+    "description": "Figma is growing our team of passionate creatives and builders on a mission to make design accessible to all. Figma\u2019s platform helps teams bring ideas to life\u2014whether you're brainstorming, creating a prototype, translating designs into code, or iterating with AI. From idea to product, Figma empowers teams to streamline workflows, move faster, and work together in real time from...",
+    "source": "Jobicy Network",
+    "is_featured": false
+  },
+  {
+    "id": "jobicy-151020",
+    "title": "Infrastructure Engineer (Brazil)",
+    "company": "Articul8",
+    "city": "Remote / Global",
+    "category": "Admin & Operations",
+    "url": "https://jobicy.com/jobs/151020-infrastructure-engineer-brazil",
+    "description": "About us: Articul8 was born from a simple belief: GenAI should work for the enterprise, not the other way around. Our platform \u2014 combining domain-specific models, autonomous agentic reasoning (ModelMesh\u2122), reliable model evaluation (LLM-IQ\u2122), and multimodal understanding \u2014 serves regulated industries such energy, semiconductor, finance, aerospace, supply chain, and more. Truste...",
+    "source": "Jobicy Network",
+    "is_featured": false
+  },
+  {
+    "id": "jobicy-151018",
+    "title": "Bilingual Applicant Coordinator (Spanish)",
+    "company": "CCOF",
+    "city": "Remote / Global",
+    "category": "Admin & Operations",
+    "url": "https://jobicy.com/jobs/151018-bilingual-applicant-coordinator-spanish",
+    "description": "Who we are: CCOF advances organic agriculture for a healthy world. We advocate on behalf of our members for organic policies, support the growth of organic through education and grants, and provide organic certification that is personal and accessible. CCOF is a nonprofit organization governed by the people who grow and make our food. Founded in California over 53 years ago, ou...",
+    "source": "Jobicy Network",
+    "is_featured": false
+  },
+  {
     "id": "jobicy-151016",
     "title": "Devices & IOT Field Engineering Manager (Americas)",
     "company": "Canonical Ltd.",
@@ -154,17 +231,6 @@
     "is_featured": false
   },
   {
-    "id": "jobicy-151002",
-    "title": "Senior BI Engineer",
-    "company": "Sporty Group",
-    "city": "Remote / Global",
-    "category": "Admin & Operations",
-    "url": "https://jobicy.com/jobs/151002-senior-bi-engineer",
-    "description": "About the role We are looking for a Senior BI Engineer to design, build and maintain our business intelligence platform. You will be responsible for transforming data into trusted, actionable insights by developing semantic data models, defining business metrics and delivering intuitive dashboards. You will work closely with business stakeholders and Data Engineers to ensure re...",
-    "source": "Jobicy Network",
-    "is_featured": false
-  },
-  {
     "id": "jobicy-151001",
     "title": "Sr Account Manager, EMEA",
     "company": "Customer.io",
@@ -183,17 +249,6 @@
     "category": "Admin & Operations",
     "url": "https://jobicy.com/jobs/151000-head-of-strategic-institutions",
     "description": "Who We Are At OKX, we believe that the future will be reshaped by crypto, and ultimately contribute to every individual's freedom. OKX is a leading crypto exchange, and the developer of OKX Wallet, giving millions access to crypto trading and decentralized crypto applications (dApps). OKX is also a trusted brand by hundreds of large institutions seeking access to crypto markets...",
-    "source": "Jobicy Network",
-    "is_featured": false
-  },
-  {
-    "id": "jobicy-150999",
-    "title": "Senior AI Scientist",
-    "company": "Sporty Group",
-    "city": "Remote / Global",
-    "category": "Admin & Operations",
-    "url": "https://jobicy.com/jobs/150999-senior-ai-scientist",
-    "description": "About the role We are looking for a Senior AI Scientist to continuously improve the quality, accuracy and effectiveness of our AI-powered products. You will analyse AI interactions, identify improvement opportunities and optimise conversational behaviour, prompting strategies and retrieval mechanisms. Working closely with AI Engineers, you will drive measurable improvements in ...",
     "source": "Jobicy Network",
     "is_featured": false
   },
@@ -363,17 +418,6 @@
     "is_featured": false
   },
   {
-    "id": "jobicy-150981",
-    "title": "Senior AI Engineer",
-    "company": "Sporty Group",
-    "city": "Remote / Global",
-    "category": "Admin & Operations",
-    "url": "https://jobicy.com/jobs/150981-senior-ai-engineer-6",
-    "description": "About the role We are looking for a Senior AI Engineer to develop and enhance AI-powered capabilities across our existing products. You will implement new AI features, integrate emerging AI technologies and ensure our conversational and voice AI solutions remain reliable, scalable and performant. Working closely with AI Scientists, Product Managers and engineering teams, you wi...",
-    "source": "Jobicy Network",
-    "is_featured": false
-  },
-  {
     "id": "jobicy-150980",
     "title": "User Acquisition Manager (Meta & SnapChat)",
     "company": "Ruby Labs",
@@ -392,50 +436,6 @@
     "category": "Marketing & Sales",
     "url": "https://jobicy.com/jobs/150979-head-of-marketing-2",
     "description": "This role is part of our Seobility team, one of the brands in saas.group\u2019s growing portfolio. Seobility is one of the brands that showed tremendous growth since joining saas.group in 2022. Seobility has been empowering the SEO scene with its all-in-one software, helping website owners and marketers worldwide boost their website rankings. Starting off in 2013 with a small but fo...",
-    "source": "Jobicy Network",
-    "is_featured": false
-  },
-  {
-    "id": "jobicy-150978",
-    "title": "CX Operations Manager, Tooling",
-    "company": "Remote",
-    "city": "Remote / Global",
-    "category": "Admin & Operations",
-    "url": "https://jobicy.com/jobs/150978-cx-operations-manager-tooling",
-    "description": "About Remote Remote is solving modern organizations\u2019 biggest challenge \u2013 navigating global employment compliantly with ease. We make it possible for businesses of all sizes to recruit, pay, and manage international teams. With our core values at heart and future focused work culture, our team works tirelessly on ambitious problems, asynchronously, around the world. You can find...",
-    "source": "Jobicy Network",
-    "is_featured": false
-  },
-  {
-    "id": "jobicy-150977",
-    "title": "Chief Executive Officer [B2B SaaS] - Commercial Focus",
-    "company": "saas.group",
-    "city": "Remote / Global",
-    "category": "Admin & Operations",
-    "url": "https://jobicy.com/jobs/150977-chief-executive-officer-b2b-saas-commercial-focus",
-    "description": "What is saas.group? This posting is tied to a live search for one of saas.group's upcoming acquisitions. The deal is not yet public, so we can't share the company name or product yet, but we expect the acquisition to close within the coming months, with the incoming CEO ideally starting around Q4 2026. What is saas.group? Think of us as the driving catalyst behind your favorite...",
-    "source": "Jobicy Network",
-    "is_featured": false
-  },
-  {
-    "id": "jobicy-150976",
-    "title": "Senior IOS Engineer",
-    "company": "Ruby Labs",
-    "city": "Remote / Global",
-    "category": "Admin & Operations",
-    "url": "https://jobicy.com/jobs/150976-senior-ios-engineer-3",
-    "description": "About us Ruby Labs is a leading tech company that creates and operates innovative consumer products. We offer a diverse range of opportunities across the health, education, and entertainment industries. Our innovative teams are driving the future of consumer-led products, and we're always looking for passionate individuals to join us. Learn more about our story at: https://ruby...",
-    "source": "Jobicy Network",
-    "is_featured": false
-  },
-  {
-    "id": "jobicy-150975",
-    "title": "Backend Software Engineer",
-    "company": "Northflank",
-    "city": "Remote / Global",
-    "category": "Python / Backend",
-    "url": "https://jobicy.com/jobs/150975-backend-software-engineer-2",
-    "description": "Northflank is a cutting-edge cloud platform enabling developers to build and ship highly scalable, full-stack applications faster than ever before. We are a venture-backed company, and our platform is used by tens of thousands of developers worldwide in production. We are currently looking for a backend software engineer to join our team of passionate, dedicated professionals. ...",
     "source": "Jobicy Network",
     "is_featured": false
   },
