@@ -1,5 +1,60 @@
 [
   {
+    "id": "jobicy-151415",
+    "title": "Full Stack Engineer",
+    "company": "Roboflow",
+    "city": "Remote / Global",
+    "category": "Admin & Operations",
+    "url": "https://jobicy.com/jobs/151415-full-stack-engineer",
+    "description": "Who We Are Our mission is to make the world programmable. Sight is one of the key ways we understand the world, and soon this will be true for the software we use, too. We\u2019re building the tools, community, and resources needed to make the world programmable with artificial intelligence. Roboflow simplifies building and using computer vision models. Today, over 1M+ developers, i...",
+    "source": "Jobicy Network",
+    "is_featured": false
+  },
+  {
+    "id": "jobicy-151414",
+    "title": "Digital Marketing & AI Specialist",
+    "company": "Manay CPA Inc.",
+    "city": "Remote / Global",
+    "category": "Marketing & Sales",
+    "url": "https://jobicy.com/jobs/151414-digital-marketing-ai-specialist",
+    "description": "Are you ready to elevate our digital presence and leverage cutting-edge AI tools to scale high-quality marketing campaigns? We\u2019re looking for a motivated, fast-paced professional who understands digital marketing fundamentals but also knows how to use AI tools efficiently to create, optimize, repurpose, and drive brand growth across multiple channels. Who We Are Manay CPA is a ...",
+    "source": "Jobicy Network",
+    "is_featured": false
+  },
+  {
+    "id": "jobicy-151413",
+    "title": "Senior Director, Ecosystem & Solution Architectures - Technical Alliances",
+    "company": "Tenable",
+    "city": "Remote / Global",
+    "category": "Admin & Operations",
+    "url": "https://jobicy.com/jobs/151413-senior-director-ecosystem-solution-architectures-technical-alliances",
+    "description": "Who is Tenable? Tenable\u00ae is the Exposure Management company. Over 40,000 organizations around the globe rely on Tenable to understand and reduce cyber risk. Our global employees support 65 percent of the Fortune 500, 50 percent of the Global 2000, and large government agencies. Come be part of our journey! What makes Tenable such a great place to work? Ask a member of our team ...",
+    "source": "Jobicy Network",
+    "is_featured": false
+  },
+  {
+    "id": "jobicy-151412",
+    "title": "Developer Advocate",
+    "company": "Roboflow",
+    "city": "Remote / Global",
+    "category": "Admin & Operations",
+    "url": "https://jobicy.com/jobs/151412-developer-advocate",
+    "description": "Who We Are Our mission is to make the world programmable. Sight is one of the key ways we understand the world, and soon this will be true for the software we use, too. We\u2019re building the tools, community, and resources needed to make the world programmable with artificial intelligence. Roboflow simplifies building and using computer vision models. Today, over 1M+ developers, i...",
+    "source": "Jobicy Network",
+    "is_featured": false
+  },
+  {
+    "id": "jobicy-151411",
+    "title": "Audit Associate (Remote, USA-Based)",
+    "company": "Manay CPA Inc.",
+    "city": "Remote / Global",
+    "category": "Admin & Operations",
+    "url": "https://jobicy.com/jobs/151411-audit-associate-remote-usa-based",
+    "description": "Are you ready to expand your expertise in U.S. accounting and tax practices while working with a diverse client base across multiple industries? We\u2019re looking for motivated professionals who enjoy variety in their work and are eager to build hands-on experience with U.S. GAAP, tax codes, and business operations. Who We Are Manay CPA is a global, full-service accounting and advi...",
+    "source": "Jobicy Network",
+    "is_featured": false
+  },
+  {
     "id": "jobicy-149557",
     "title": "Senior Site Reliability Engineer",
     "company": "Canonical Ltd.",
@@ -381,61 +436,6 @@
     "category": "Admin & Operations",
     "url": "https://jobicy.com/jobs/149581-graduate-software-engineer-open-source-and-linux-canonical-ubuntu",
     "description": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders ...",
-    "source": "Jobicy Network",
-    "is_featured": false
-  },
-  {
-    "id": "jobicy-149579",
-    "title": "IoT Solutions Architecture Manager (Americas only)",
-    "company": "Canonical Ltd.",
-    "city": "Remote / Global",
-    "category": "Admin & Operations",
-    "url": "https://jobicy.com/jobs/149579-iot-solutions-architecture-manager-americas-only",
-    "description": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders i...",
-    "source": "Jobicy Network",
-    "is_featured": false
-  },
-  {
-    "id": "jobicy-149578",
-    "title": "Senior Security Operations Engineer",
-    "company": "Canonical Ltd.",
-    "city": "Remote / Global",
-    "category": "Admin & Operations",
-    "url": "https://jobicy.com/jobs/149578-senior-security-operations-engineer",
-    "description": "The Canonical Security Operations team is hiring for a Senior or Staff engineer. The Security Operations team is responsible for designing, building, and operating a world-class Security Operations Center, and the successful candidate will provide leadership, mentorship, expertise, and outstanding individual contributions towards those ends. This role involves aspects of: Tradi...",
-    "source": "Jobicy Network",
-    "is_featured": false
-  },
-  {
-    "id": "jobicy-149520",
-    "title": "Junior Linux Kernel Engineer - Ubuntu",
-    "company": "Canonical Ltd.",
-    "city": "Remote / Global",
-    "category": "Admin & Operations",
-    "url": "https://jobicy.com/jobs/149520-junior-linux-kernel-engineer-ubuntu",
-    "description": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders ...",
-    "source": "Jobicy Network",
-    "is_featured": false
-  },
-  {
-    "id": "jobicy-149522",
-    "title": "Senior/Staff/Principal Engineer",
-    "company": "Canonical Ltd.",
-    "city": "Remote / Global",
-    "category": "Admin & Operations",
-    "url": "https://jobicy.com/jobs/149522-senior-staff-principal-engineer",
-    "description": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders ...",
-    "source": "Jobicy Network",
-    "is_featured": false
-  },
-  {
-    "id": "jobicy-149523",
-    "title": "Cloud Field Engineer",
-    "company": "Canonical Ltd.",
-    "city": "Remote / Global",
-    "category": "Admin & Operations",
-    "url": "https://jobicy.com/jobs/149523-cloud-field-engineer",
-    "description": "Help global companies embrace the latest private cloud infrastructure, Linux and cloud native operations, and open source applications. Our team applies expert insights to real-world customer problems, enabling the enterprise adoption of Linux Ubuntu, OpenStack, Kubernetes and a wide range of associated technology. This role has very diverse responsibilities. The team members a...",
     "source": "Jobicy Network",
     "is_featured": false
   },
