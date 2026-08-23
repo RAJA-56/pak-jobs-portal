@@ -1,5 +1,60 @@
 [
   {
+    "id": "jobicy-151436",
+    "title": "Pre-Sales Solutions Engineer (EST or PST)",
+    "company": "Deepgram",
+    "city": "Remote / Global",
+    "category": "Marketing & Sales",
+    "url": "https://jobicy.com/jobs/151436-pre-sales-solutions-engineer-est-or-pst",
+    "description": "Company Overview Deepgram is the leading platform underpinning the emerging trillion-dollar Voice AI economy, providing real-time APIs for speech-to-text (STT), text-to-speech (TTS), and building production-grade voice agents at scale. More than 200,000 developers and 1,300+ organizations build voice offerings that are \u2018Powered by Deepgram\u2019, including Twilio, Cloudflare, Sierra...",
+    "source": "Jobicy Network",
+    "is_featured": false
+  },
+  {
+    "id": "jobicy-151435",
+    "title": "Director, Utility Delivery & Coordination",
+    "company": "Cologix, Inc.",
+    "city": "Remote / Global",
+    "category": "Admin & Operations",
+    "url": "https://jobicy.com/jobs/151435-director-utility-delivery-coordination",
+    "description": "About Our Company: Headquartered in Denver, Colorado, Cologix is a leading North America network-neutral interconnection and hyperscale edge data center company. Our platform gives customers access to 45+ digital edge and Scalelogix\u2120 hyperscale edge data centers in 13 markets across the United States and Canada along with a carrier-dense ecosystem of 710+ networks, 360+ cloud p...",
+    "source": "Jobicy Network",
+    "is_featured": false
+  },
+  {
+    "id": "jobicy-151434",
+    "title": "Account Manager | Mid-Market",
+    "company": "Ramp",
+    "city": "Remote / Global",
+    "category": "Admin & Operations",
+    "url": "https://jobicy.com/jobs/151434-account-manager-mid-market",
+    "description": "About Ramp Ramp is building the smart infrastructure for finance teams, embedded in the transaction flow of every dollar a business spends. We automate how over $200B in annualized spend flows in and out of 70,000+ companies: authorizing payments, flagging risk, categorizing spend, and closing books. The problems are high-stakes, data-dense, and unforgiving. We hire people with...",
+    "source": "Jobicy Network",
+    "is_featured": false
+  },
+  {
+    "id": "jobicy-151433",
+    "title": "Account Executive III",
+    "company": "Teachable",
+    "city": "Remote / Global",
+    "category": "Admin & Operations",
+    "url": "https://jobicy.com/jobs/151433-account-executive-iii",
+    "description": "What is Teachable? Teachable is the platform for experts and businesses who take education seriously. In a world where anyone can ask AI for information, we're the home for those who educate with purpose, modernity, and humanity. We help experts and businesses scale their impact and operations through courses, coaching, and digital downloads that students actually love. From a ...",
+    "source": "Jobicy Network",
+    "is_featured": false
+  },
+  {
+    "id": "jobicy-151432",
+    "title": "Enterprise Customer Success Manager",
+    "company": "SOCi",
+    "city": "Remote / Global",
+    "category": "Admin & Operations",
+    "url": "https://jobicy.com/jobs/151432-enterprise-customer-success-manager-5",
+    "description": "SOCi, the leader in AI-powered marketing solutions for multi-location businesses, is currently looking for an experienced Enterprise Customer Success Manage r to serve as the strategic account leader, driving transformative initiatives and building enduring relationships with our top-tier customers. Your role will encompass preemptive churn mitigation, revenue growth initiative...",
+    "source": "Jobicy Network",
+    "is_featured": false
+  },
+  {
     "id": "jobicy-149030",
     "title": "Senior Customer Success Manager - Quora",
     "company": "Quora",
@@ -380,61 +435,6 @@
     "city": "Remote / Global",
     "category": "Admin & Operations",
     "url": "https://jobicy.com/jobs/149562-lead-linux-kernel-engineer-ubuntu",
-    "description": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders ...",
-    "source": "Jobicy Network",
-    "is_featured": false
-  },
-  {
-    "id": "jobicy-149560",
-    "title": "Software Engineer - Solutions Engineering",
-    "company": "Canonical Ltd.",
-    "city": "Remote / Global",
-    "category": "Admin & Operations",
-    "url": "https://jobicy.com/jobs/149560-software-engineer-solutions-engineering",
-    "description": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders ...",
-    "source": "Jobicy Network",
-    "is_featured": false
-  },
-  {
-    "id": "jobicy-149561",
-    "title": "Engineering Manager - Data Platform",
-    "company": "Canonical Ltd.",
-    "city": "Remote / Global",
-    "category": "Admin & Operations",
-    "url": "https://jobicy.com/jobs/149561-engineering-manager-data-platform",
-    "description": "Canonical is building a comprehensive suite of multi-cloud and on-premise data solutions for the enterprise. We want to make it easy to operate any database on any cloud, or on premise. The data platform team covers the full range of data stores and data technologies, spanning from big data, NoSQL, cache-layer capabilities, and analytics; all the way to structured SQL engines l...",
-    "source": "Jobicy Network",
-    "is_featured": false
-  },
-  {
-    "id": "jobicy-149564",
-    "title": "Security Risk Management Specialist",
-    "company": "Canonical Ltd.",
-    "city": "Remote / Global",
-    "category": "Admin & Operations",
-    "url": "https://jobicy.com/jobs/149564-security-risk-management-specialist",
-    "description": "In security risk management we\u2019re looking to harness the power of industry best practice combined with driving new innovation on how we do security risk assessments and modelling. Our security risk management team is the primary owner of the strategy and practices of how we identify, track and reduce our security risk across everything we do. To support this we need to use indu...",
-    "source": "Jobicy Network",
-    "is_featured": false
-  },
-  {
-    "id": "jobicy-149566",
-    "title": "Rust Engineering Lead - Linux and Open Source",
-    "company": "Canonical Ltd.",
-    "city": "Remote / Global",
-    "category": "Admin & Operations",
-    "url": "https://jobicy.com/jobs/149566-rust-engineering-lead-linux-and-open-source",
-    "description": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders ...",
-    "source": "Jobicy Network",
-    "is_featured": false
-  },
-  {
-    "id": "jobicy-149565",
-    "title": "Ubuntu Security Engineer",
-    "company": "Canonical Ltd.",
-    "city": "Remote / Global",
-    "category": "Admin & Operations",
-    "url": "https://jobicy.com/jobs/149565-ubuntu-security-engineer",
     "description": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders ...",
     "source": "Jobicy Network",
     "is_featured": false
