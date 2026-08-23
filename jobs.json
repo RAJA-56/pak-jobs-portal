@@ -1,5 +1,27 @@
 [
   {
+    "id": "jobicy-149873",
+    "title": "Associate Billing Specialist - Portugal",
+    "company": "Cloudbeds",
+    "city": "Remote / Global",
+    "category": "Admin & Operations",
+    "url": "https://jobicy.com/jobs/149873-associate-billing-specialist-portugal",
+    "description": "What Makes Us Unique At Cloudbeds, we're not just building software, we\u2019re transforming hospitality. Our intelligently designed platform powers properties across 150 countries, processing billions in bookings annually. From independent properties to hotel groups, we help hoteliers transform operations and uplevel their commercial strategy through a unified platform that integra...",
+    "source": "Jobicy Network",
+    "is_featured": false
+  },
+  {
+    "id": "jobicy-148108",
+    "title": "Senior Site Reliability Engineer",
+    "company": "Remote",
+    "city": "Remote / Global",
+    "category": "Admin & Operations",
+    "url": "https://jobicy.com/jobs/148108-senior-site-reliability-engineer",
+    "description": "About Remote Remote is solving modern organizations\u2019 biggest challenge \u2013 navigating global employment compliantly with ease. We make it possible for businesses of all sizes to recruit, pay, and manage international teams. With our core values at heart and future focused work culture, our team works tirelessly on ambitious problems, asynchronously, around the world. You can find...",
+    "source": "Jobicy Network",
+    "is_featured": false
+  },
+  {
     "id": "jobicy-147795",
     "title": "AutoCad Drafter",
     "company": "ManTech",
@@ -414,28 +436,6 @@
     "category": "Python / Backend",
     "url": "https://jobicy.com/jobs/149563-python-and-kubernetes-software-engineer-data-workflows-ai-ml-analytics",
     "description": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders i...",
-    "source": "Jobicy Network",
-    "is_featured": false
-  },
-  {
-    "id": "jobicy-149567",
-    "title": "Embedded & Desktop Linux Systems Engineer - Optimisation",
-    "company": "Canonical Ltd.",
-    "city": "Remote / Global",
-    "category": "Admin & Operations",
-    "url": "https://jobicy.com/jobs/149567-embedded-desktop-linux-systems-engineer-optimisation",
-    "description": "Work across the full Linux stack from kernel through GUI to optimise Ubuntu, the world\u2019s most widely used Linux desktop and server, for the latest silicon. The role is a fast-paced, problem-solving role that\u2019s challenging yet very exciting. The right candidate must be resourceful, articulate, and able to deliver on a wide variety of solutions across PC and IoT technologies. Our...",
-    "source": "Jobicy Network",
-    "is_featured": false
-  },
-  {
-    "id": "jobicy-149570",
-    "title": "Engineering Manager - Ubuntu Linux Kernel",
-    "company": "Canonical Ltd.",
-    "city": "Remote / Global",
-    "category": "Admin & Operations",
-    "url": "https://jobicy.com/jobs/149570-engineering-manager-ubuntu-linux-kernel",
-    "description": "Canonical, the company behind the Ubuntu Linux distribution, is searching for highly skilled senior software engineers, tech leads, or team leads who are ready to take the next step in their careers by transitioning into engineering management. As a Kernel Engineering Manager, you will step into a pivotal leadership role overseeing the engineers who build, maintain, and optimiz...",
     "source": "Jobicy Network",
     "is_featured": false
   },
