@@ -1,5 +1,93 @@
 [
   {
+    "id": "jobicy-151565",
+    "title": "Director, Finance & Billing Operations",
+    "company": "Rockbot",
+    "city": "Remote / Global",
+    "category": "Admin & Operations",
+    "url": "https://jobicy.com/jobs/151565-director-finance-billing-operations",
+    "description": "We are seeking our first Director, Finance &amp; Billing Operations to join Rockbot, bringing a passion for operational excellence, systems design, and scalable revenue infrastructure. As Rockbot continues transforming how revenue flows through the business with Salesforce, MuleSoft, and Ironclad, this role will play a critical role in connecting the dots behind the scenes. You...",
+    "source": "Jobicy Network",
+    "is_featured": false
+  },
+  {
+    "id": "jobicy-151564",
+    "title": "Sales Executive New Business - Nordics",
+    "company": "Emburse",
+    "city": "Remote / Global",
+    "category": "Marketing & Sales",
+    "url": "https://jobicy.com/jobs/151564-sales-executive-new-business-nordics",
+    "description": "Who We Are: At Emburse, you\u2019ll not just imagine the future \u2013 you\u2019ll build it. As a leader in expense intelligence, we are creating a future where technology drives business value and inspires extraordinary results. Our AI-powered platform helps organizations modernize financial operations, increase visibility, and optimize spend across the enterprise. This is a foundational hir...",
+    "source": "Jobicy Network",
+    "is_featured": false
+  },
+  {
+    "id": "jobicy-151562",
+    "title": "Alliance Manager, Translational Medicine",
+    "company": "Natera",
+    "city": "Remote / Global",
+    "category": "Admin & Operations",
+    "url": "https://jobicy.com/jobs/151562-alliance-manager-translational-medicine",
+    "description": "Position Summary The Alliance Manager will play a critical role in enabling successful external collaborations that accelerate the translation of scientific discoveries into clinically actionable molecular solutions. This individual combines a strong scientific understanding of translational medicine with exceptional relationship management, legal/contracting acumen, and strate...",
+    "source": "Jobicy Network",
+    "is_featured": false
+  },
+  {
+    "id": "jobicy-151561",
+    "title": "Lead UX Designer | EMEA | Contract",
+    "company": "Fueled",
+    "city": "Remote / Global",
+    "category": "Design & Creative",
+    "url": "https://jobicy.com/jobs/151561-lead-ux-designer-emea-contract",
+    "description": "Location: Remote \u2014 EMEA (Open to applicants in Europe, the Middle East and Africa) Fueled is a leading digital strategy, design, and engineering agency. We are a 300+ person team that has designed and built hundreds of digital products and experiences for brands like Google, Apple, The New York Times, ESPN, Victoria\u2019s Secret, MGM Resorts, Albertsons, and CLEAR. As a Lead UX Des...",
+    "source": "Jobicy Network",
+    "is_featured": false
+  },
+  {
+    "id": "jobicy-151560",
+    "title": "Director, Brand and Creative Services",
+    "company": "Rockbot",
+    "city": "Remote / Global",
+    "category": "Admin & Operations",
+    "url": "https://jobicy.com/jobs/151560-director-brand-and-creative-services",
+    "description": "The world of digital retail media, music, and television is in the midst of explosive growth as brick-and-mortar businesses seek to create savvy, personalized, and engaging experiences for their customers, patrons, and members. And Rockbot wants the same. We\u2019re seeking an agency-grade Director, Brand and Creative Services who sets\u2014and defends\u2014an uncompromising standard of excel...",
+    "source": "Jobicy Network",
+    "is_featured": false
+  },
+  {
+    "id": "jobicy-151559",
+    "title": "Account Executive - Velocity",
+    "company": "Emburse",
+    "city": "Remote / Global",
+    "category": "Admin & Operations",
+    "url": "https://jobicy.com/jobs/151559-account-executive-velocity",
+    "description": "Who We Are: At Emburse, you\u2019ll not just imagine the future \u2013 you\u2019ll build it. As a leader in expense intelligence, we are creating a future where technology drives business value and inspires extraordinary results. Our AI-powered platform helps organizations modernize financial operations, increase visibility, and optimize spend across the enterprise. Account Executives will fo...",
+    "source": "Jobicy Network",
+    "is_featured": false
+  },
+  {
+    "id": "jobicy-151557",
+    "title": "Account Manager",
+    "company": "Natera",
+    "city": "Remote / Global",
+    "category": "Admin & Operations",
+    "url": "https://jobicy.com/jobs/151557-account-manager-2",
+    "description": "Account Manager \u2013 Oncology (Japan) Location: Japan (specific territory to be defined; remote within designated territory) Reports to: National Director of Sales, Oncology \u2013 Japan Position Overview The Account Manager (AM) is responsible for driving adoption and growth of Natera\u2019s oncology testing portfolio within oncology centers, university hospitals, general hospitals, and ou...",
+    "source": "Jobicy Network",
+    "is_featured": false
+  },
+  {
+    "id": "jobicy-151556",
+    "title": "Lead UX Designer",
+    "company": "Fueled",
+    "city": "Remote / Global",
+    "category": "Design & Creative",
+    "url": "https://jobicy.com/jobs/151556-lead-ux-designer-2",
+    "description": "Location: Remote \u2013 United States (Open to applicants located anywhere in the US or overlapping timezones) Fueled is a leading digital strategy, design, and engineering agency. We are a 300+ person team that has designed and built hundreds of digital products and experiences for brands like Google, Apple, The New York Times, ESPN, Victoria\u2019s Secret, MGM Resorts, Albertsons, and ...",
+    "source": "Jobicy Network",
+    "is_featured": false
+  },
+  {
     "id": "jobicy-151552",
     "title": "Support (ERP System)",
     "company": "Ajax Systems",
@@ -348,94 +436,6 @@
     "category": "Admin & Operations",
     "url": "https://jobicy.com/jobs/147559-manufacturing-quality-engineer",
     "description": "This role is responsible for the generation, implementation, and management of a Manufacturing focused Meta Quality Program, by establishing a Quality Program that is focused on people, processes and accountability through influential vendor management and effective partnerships with site-based stakeholders (General Contractor Teams, Vendor Teams, Trade Partners, and Infra-Data...",
-    "source": "Jobicy Network",
-    "is_featured": false
-  },
-  {
-    "id": "jobicy-149690",
-    "title": "Senior Software Engineer (Storage) - remote in the US",
-    "company": "Mirantis",
-    "city": "Remote / Global",
-    "category": "Admin & Operations",
-    "url": "https://jobicy.com/jobs/149690-senior-software-engineer-storage-remote-in-the-us",
-    "description": "Company Description About Mirantis Mirantis is the Kubernetes-native AI infrastructure company, enabling organizations to build and operate scalable, secure, and sovereign infrastructure for modern AI, machine learning, and data-intensive applications. By combining open source innovation with deep expertise in Kubernetes orchestration, Mirantis empowers platform engineering tea...",
-    "source": "Jobicy Network",
-    "is_featured": false
-  },
-  {
-    "id": "jobicy-149695",
-    "title": "Senior Privacy & Compliance Program Manager",
-    "company": "Mozilla",
-    "city": "Remote / Global",
-    "category": "Admin & Operations",
-    "url": "https://jobicy.com/jobs/149695-senior-privacy-compliance-program-manager",
-    "description": "Why Thunderbird? Thunderbird is one of the world\u2019s most trusted open-source email applications, empowering more than 20 million people globally. At MZLA, the team behind Thunderbird, we build privacy-respecting communication and productivity tools that help people manage their digital lives while staying in control of their data. We are open source by design. Our products are d...",
-    "source": "Jobicy Network",
-    "is_featured": false
-  },
-  {
-    "id": "jobicy-147502",
-    "title": "Analista de Customer Service, Delivery Station Customer Support",
-    "company": "Amazon.com",
-    "city": "Remote / Global",
-    "category": "Admin & Operations",
-    "url": "https://jobicy.com/jobs/147502-analista-de-customer-service-delivery-station-customer-support",
-    "description": "This is a full-time, permanent, non-remote position based in Bayeux - PB and does not offer relocation benefits. Job applicants must be located and legally authorized to work in Brazil in order to be eligible for consideration.As a Delivery Station Customer Service Associate, you will help improve the customer experience by providing real-time, hands-on support at the station t...",
-    "source": "Jobicy Network",
-    "is_featured": false
-  },
-  {
-    "id": "jobicy-149686",
-    "title": "Training & Document Control Manager",
-    "company": "Natera",
-    "city": "Remote / Global",
-    "category": "Admin & Operations",
-    "url": "https://jobicy.com/jobs/149686-training-document-control-manager",
-    "description": "POSITION SUMMARY We are seeking a highly autonomous, tech-forward, and experienced Manager to lead the training and development efforts across our Patient Coordinator (inside sales), Billing Call Center, Patient Experience, and Document Control teams. This role requires a strong strategic mindset and a self-starter who thrives with little to no hand-holding. You will take owner...",
-    "source": "Jobicy Network",
-    "is_featured": false
-  },
-  {
-    "id": "jobicy-147503",
-    "title": "Customer Solutions Manager, EDU & SLG Western Region - CSM",
-    "company": "Amazon.com",
-    "city": "Remote / Global",
-    "category": "Admin & Operations",
-    "url": "https://jobicy.com/jobs/147503-customer-solutions-manager-edu-slg-western-region-csm",
-    "description": "Are you passionate about helping mission-driven organizations harness the power of cloud technology and AI to amplify their impact? Amazon Web Services (AWS) is seeking a Customer Solutions Manager (CSM) to join our EDU &amp; SLG Western Region team. In this role, you will serve as a trusted advisor to government and higher education organizations navigating their cloud adoptio...",
-    "source": "Jobicy Network",
-    "is_featured": false
-  },
-  {
-    "id": "jobicy-149683",
-    "title": "Senior Frontend Engineer, Ads Creative",
-    "company": "Reddit",
-    "city": "Remote / Global",
-    "category": "Web Development",
-    "url": "https://jobicy.com/jobs/149683-senior-frontend-engineer-ads-creative",
-    "description": "Reddit is a community of communities. It\u2019s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 126 million daily active unique visitors, Reddit is one of the internet\u2019s large...",
-    "source": "Jobicy Network",
-    "is_featured": false
-  },
-  {
-    "id": "jobicy-149688",
-    "title": "Head of Communications",
-    "company": "Deepgram",
-    "city": "Remote / Global",
-    "category": "Admin & Operations",
-    "url": "https://jobicy.com/jobs/149688-head-of-communications",
-    "description": "Company Overview Deepgram is the leading platform underpinning the emerging trillion-dollar Voice AI economy, providing real-time APIs for speech-to-text (STT), text-to-speech (TTS), and building production-grade voice agents at scale. More than 200,000 developers and 1,300+ organizations build voice offerings that are \u2018Powered by Deepgram\u2019, including Twilio, Cloudflare, Sierra...",
-    "source": "Jobicy Network",
-    "is_featured": false
-  },
-  {
-    "id": "jobicy-147512",
-    "title": "Ontology Architect",
-    "company": "Tiger Analytics",
-    "city": "Remote / Global",
-    "category": "Admin & Operations",
-    "url": "https://jobicy.com/jobs/147512-ontology-architect",
-    "description": "Tiger Analytics is an advanced analytics consulting firm. We are the trusted analytics partner for several Fortune 100 companies, enabling them to generate business value from data. Our consultants bring deep expertise in Data Science, Machine Learning, and AI. Our business value and leadership have been recognized by various market research firms, including Forrester and Gartn...",
     "source": "Jobicy Network",
     "is_featured": false
   },
