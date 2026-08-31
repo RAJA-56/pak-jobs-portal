@@ -121,17 +121,6 @@
     "is_featured": false
   },
   {
-    "id": "jobicy-152110",
-    "title": "Renewal Specialist - SaaS Contracts",
-    "company": "Sonatype",
-    "city": "Remote / Global",
-    "category": "Admin & Operations",
-    "url": "https://jobicy.com/jobs/152110-renewal-specialist-saas-contracts",
-    "description": "Sonatype is the software supply chain security company. We provide the world\u2019s best end-to-end software supply chain security solution, combining the only proactive protection against malicious open source, the only enterprise-grade SBOM management, and the leading open source dependency management platform. This empowers enterprises to create and maintain secure, quality, and ...",
-    "source": "Jobicy Network",
-    "is_featured": false
-  },
-  {
     "id": "jobicy-152109",
     "title": "Telephonic Interpreters",
     "company": "Language Services Associates",
@@ -436,6 +425,17 @@
     "category": "Admin & Operations",
     "url": "https://jobicy.com/jobs/152082-technical-program-manager-3",
     "description": "About the Role We\u2019re building out a Technical Program Management function to ensure our most important cross-team initiatives ship on time, with the visibility and data needed to support confident trade-off decisions across the organization. As our second TPM, you\u2019ll take ownership of the day-to-day execution of multiple company-critical programs. You\u2019ll work closely with Engin...",
+    "source": "Jobicy Network",
+    "is_featured": false
+  },
+  {
+    "id": "jobicy-152081",
+    "title": "QA Engineer \u533a\u5757\u94fe\u6d4b\u8bd5\u5de5\u7a0b\u5e08",
+    "company": "Windranger Labs",
+    "city": "Remote / Global",
+    "category": "Admin & Operations",
+    "url": "https://jobicy.com/jobs/152081-qa-engineer-%e5%8c%ba%e5%9d%97%e9%93%be%e6%b5%8b%e8%af%95%e5%b7%a5%e7%a8%8b%e5%b8%88",
+    "description": "Who we are Mantle is the entry point for institutions and traditional finance to access real-world assets on-chain. Backed by the world\u2019s largest community-owned treasury of over $4B, Mantle combines institutional-grade infrastructure with the scale and credibility to bring RWAs into Web3 with confidence. Mantle positions itself as the gateway for institutions and TradFi to mov...",
     "source": "Jobicy Network",
     "is_featured": false
   },
