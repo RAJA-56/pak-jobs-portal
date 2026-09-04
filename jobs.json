@@ -121,17 +121,6 @@
     "is_featured": false
   },
   {
-    "id": "jobicy-152544",
-    "title": "Senior Data Scientist",
-    "company": "Phantom",
-    "city": "Remote / Global",
-    "category": "Admin & Operations",
-    "url": "https://jobicy.com/jobs/152544-senior-data-scientist",
-    "description": "Phantom is on a mission to connect the world to the freedom of open markets. Tens of millions of people all over the world use Phantom to access global markets that never close, including perpetuals, prediction markets, tokenized assets, stablecoins and memes. Phantom users are able to discover the markets that matter and the cultural moments that shape them, building convictio...",
-    "source": "Jobicy Network",
-    "is_featured": false
-  },
-  {
     "id": "jobicy-152543",
     "title": "Strategic Partnerships Director",
     "company": "Demandbase, Inc.",
@@ -183,17 +172,6 @@
     "category": "Web Development",
     "url": "https://jobicy.com/jobs/152539-senior-software-engineer-frontend",
     "description": "Phantom is on a mission to connect the world to the freedom of open markets. Tens of millions of people all over the world use Phantom to access global markets that never close, including perpetuals, prediction markets, tokenized assets, stablecoins and memes. Phantom users are able to discover the markets that matter and the cultural moments that shape them, building convictio...",
-    "source": "Jobicy Network",
-    "is_featured": false
-  },
-  {
-    "id": "jobicy-152538",
-    "title": "Advertising Account Director, Enterprise",
-    "company": "Demandbase, Inc.",
-    "city": "Remote / Global",
-    "category": "Admin & Operations",
-    "url": "https://jobicy.com/jobs/152538-advertising-account-director-enterprise",
-    "description": "Introduction to Demandbase: Demandbase is the only pipeline AI platform that empowers GTM teams to automate growth at scale. With a unified view of data, insights, actions, and outcomes, B2B enterprises can seamlessly align and execute their account-based GTM strategies with confidence. Thousands of businesses trust Demandbase to maximize revenue, minimize waste, and consolidat...",
     "source": "Jobicy Network",
     "is_featured": false
   },
@@ -436,6 +414,28 @@
     "category": "Admin & Operations",
     "url": "https://jobicy.com/jobs/152512-senior-manager-director-finance",
     "description": "Senior Manager / Director, Finance Location: United States - Remote About Worldly Worldly is the world's most comprehensive impact intelligence platform \u2014 delivering real data to businesses on impacts within their supply chain. Worldly is trusted by 40,000 global brands, retailers, and manufacturers to provide the single source of ESG intelligence they need to accelerate busine...",
+    "source": "Jobicy Network",
+    "is_featured": false
+  },
+  {
+    "id": "jobicy-152510",
+    "title": "Partner Consultant, Accounting",
+    "company": "Ramp",
+    "city": "Remote / Global",
+    "category": "Admin & Operations",
+    "url": "https://jobicy.com/jobs/152510-partner-consultant-accounting",
+    "description": "About Ramp Ramp is building the smart infrastructure for finance teams, embedded in the transaction flow of every dollar a business spends. We automate how over $200B in annualized spend flows in and out of 70,000+ companies: authorizing payments, flagging risk, categorizing spend, and closing books. The problems are high-stakes, data-dense, and unforgiving. We hire people with...",
+    "source": "Jobicy Network",
+    "is_featured": false
+  },
+  {
+    "id": "jobicy-152509",
+    "title": "Vice President, Go-To-Market Operations",
+    "company": "HackerOne",
+    "city": "Remote / Global",
+    "category": "Admin & Operations",
+    "url": "https://jobicy.com/jobs/152509-vice-president-go-to-market-operations",
+    "description": "HackerOne is a global leader in Continuous Threat Exposure Management (CTEM). The HackerOne Platform unites agentic AI solutions with the ingenuity of the world\u2019s largest community of security researchers to continuously discover, validate, prioritize, and remediate exposures across code, cloud, and AI systems. Through solutions like bug bounty, vulnerability disclosure, agenti...",
     "source": "Jobicy Network",
     "is_featured": false
   },
