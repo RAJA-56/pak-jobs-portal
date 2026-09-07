@@ -1,5 +1,93 @@
 [
   {
+    "id": "jobicy-152767",
+    "title": "Member of Technical Staff (GPU Performance Engineer)",
+    "company": "Reka",
+    "city": "Remote / Global",
+    "category": "Admin & Operations",
+    "url": "https://jobicy.com/jobs/152767-member-of-technical-staff-gpu-performance-engineer",
+    "description": "We are seeking an experienced GPU Performance Engineer with a strong background in Python and large-scale model training. In this role, you will design and implement improvements to our training infrastructure and directly contribute to technical decisions that optimize performance of our models. You will also work on post-training processes, including reinforcement learning an...",
+    "source": "Jobicy Network",
+    "is_featured": false
+  },
+  {
+    "id": "jobicy-152765",
+    "title": "Manager, Field & Channel Marketing - NAMER",
+    "company": "Tines",
+    "city": "Remote / Global",
+    "category": "Marketing & Sales",
+    "url": "https://jobicy.com/jobs/152765-manager-field-channel-marketing-namer",
+    "description": "Founded in 2018 with co-headquarters in Dublin and Boston, Tines powers some of the world's most important workflows. Our intelligent workflow platform applies AI, automation, and integration with human ingenuity to drive real business results. Tines serves a diverse range of customers, from startups to public companies, including Canva, Databricks, Elastic, Kayak, Intercom, an...",
+    "source": "Jobicy Network",
+    "is_featured": false
+  },
+  {
+    "id": "jobicy-152764",
+    "title": "Project Specialist",
+    "company": "Appen",
+    "city": "Remote / Global",
+    "category": "Admin & Operations",
+    "url": "https://jobicy.com/jobs/152764-project-specialist",
+    "description": "Role Purpose Appen's GenAI Project Delivery team sits at the intersection of AI development and real-world data quality, executing the annotation, evaluation, and data collection work that shapes how frontier models perform. The purpose of this role is to drive end-to-end delivery excellence across GenAI projects by ensuring task configuration, contributor performance, and data...",
+    "source": "Jobicy Network",
+    "is_featured": false
+  },
+  {
+    "id": "jobicy-152763",
+    "title": "Member of Technical Staff (Applied AI)",
+    "company": "Reka",
+    "city": "Remote / Global",
+    "category": "Admin & Operations",
+    "url": "https://jobicy.com/jobs/152763-member-of-technical-staff-applied-ai",
+    "description": "As a Member of Technical Staff on Applied AI, you will: Productionize frontier AI models to solve complex real-world problems. Collaborate closely with researchers and other teammates on the latest advancements in AI and ML. Work closely with our customers to integrate our models into their technology stack. Make direct business impact with a high level of product ownership. Be...",
+    "source": "Jobicy Network",
+    "is_featured": false
+  },
+  {
+    "id": "jobicy-152761",
+    "title": "Project Associate, Qualification - Night Shift",
+    "company": "Appen",
+    "city": "Remote / Global",
+    "category": "Admin & Operations",
+    "url": "https://jobicy.com/jobs/152761-project-associate-qualification-night-shift",
+    "description": "About the Role As a Project Associate, you\u2019ll manage the processes that prepare contributors for AI, LLM, data collection, and relevance projects. You\u2019ll build and maintain onboarding workflows, learning materials, and readiness reporting while evaluating contributor performance to ensure they are prepared to begin work. You\u2019ll partner with Recruiting, Trust &amp; Safety, Deliv...",
+    "source": "Jobicy Network",
+    "is_featured": false
+  },
+  {
+    "id": "jobicy-152760",
+    "title": "Member of Technical Staff (ML)",
+    "company": "Reka",
+    "city": "Remote / Global",
+    "category": "Admin & Operations",
+    "url": "https://jobicy.com/jobs/152760-member-of-technical-staff-ml",
+    "description": "As a Member of Technical Staff on Machine Learning, you will: Contribute to the entire development cycle of our cutting-edge large deep learning models. Prepare datasets, design architectures, implement solutions, train and evaluate models to improve our products. Collaborate closely with engineers and researchers to translate cutting-edge research into practical applications. ...",
+    "source": "Jobicy Network",
+    "is_featured": false
+  },
+  {
+    "id": "jobicy-152759",
+    "title": "Dream Job - Commercial Department",
+    "company": "Who Gives A Crap",
+    "city": "Remote / Global",
+    "category": "Admin & Operations",
+    "url": "https://jobicy.com/jobs/152759-dream-job-commercial-department",
+    "description": "What to expect when applying for a Dream Job in our Commercial Department Want to challenge yourself at a purpose led organisation, but can't see your dream job listed here just yet? We've got you. We\u2019re entering into a big phase of hiring (particularly in our Australia and Philippines Hubs), and are so excited for more passionate people to join our team. Our Dream Job allows y...",
+    "source": "Jobicy Network",
+    "is_featured": false
+  },
+  {
+    "id": "jobicy-152758",
+    "title": "Account Executive",
+    "company": "Appen",
+    "city": "Remote / Global",
+    "category": "Admin & Operations",
+    "url": "https://jobicy.com/jobs/152758-account-executive-16",
+    "description": "Appen's Go to Market team sits at the center of the company's growth strategy, partnering with the world's most ambitious AI programs to deliver the data that makes models work. This role is responsible for acquiring net-new strategic logos and expanding high-value accounts across Big Tech, AI Labs, and Enterprise AI adopters. It's a high-visibility commercial role operating ac...",
+    "source": "Jobicy Network",
+    "is_featured": false
+  },
+  {
     "id": "jobicy-152755",
     "title": "Data Product Analyst, Corporate",
     "company": "YipitData",
@@ -348,94 +436,6 @@
     "category": "Admin & Operations",
     "url": "https://jobicy.com/jobs/152724-client-strategy-manager",
     "description": "About Us: YipitData is the leading market research and analytics firm for the disruptive economy and most recently raised $475M from The Carlyle Group at a valuation of over $1B. Every day, our proprietary technology analyzes billions of alternative data points to uncover actionable insights across sectors like software, AI, cloud, e-commerce, ridesharing, and payments. Our dat...",
-    "source": "Jobicy Network",
-    "is_featured": false
-  },
-  {
-    "id": "jobicy-152723",
-    "title": "Outbound Sales Development Representative",
-    "company": "Fleetio",
-    "city": "Remote / Global",
-    "category": "Marketing & Sales",
-    "url": "https://jobicy.com/jobs/152723-outbound-sales-development-representative",
-    "description": "A little about us\u2026Fleetio is a modern software platform that helps thousands of organizations worldwide manage their fleet operations. Transportation technology is a hot market, and we\u2019re leading the charge with raving fans and new customers signing up every day. We raised $450M in our Series D funding round in March of 2025 and are on an exciting trajectory as a company. Fleet...",
-    "source": "Jobicy Network",
-    "is_featured": false
-  },
-  {
-    "id": "jobicy-152722",
-    "title": "Senior Data Analyst, Risk Analytics",
-    "company": "SeatGeek",
-    "city": "Remote / Global",
-    "category": "Admin & Operations",
-    "url": "https://jobicy.com/jobs/152722-senior-data-analyst-risk-analytics",
-    "description": "SeatGeek believes live events are powerful experiences that unite humans. With our technological savvy and fan-first attitude we\u2019re simplifying and modernizing the ticketing industry. As a Senior Analyst on the Risk Analytics team, you will be the analytical engine behind our fraud prevention strategy. You will build models, run experiments, and develop tools that help us make ...",
-    "source": "Jobicy Network",
-    "is_featured": false
-  },
-  {
-    "id": "jobicy-152721",
-    "title": "Senior Account Executive, Public Sector Germany",
-    "company": "Dataiku",
-    "city": "Remote / Global",
-    "category": "Admin & Operations",
-    "url": "https://jobicy.com/jobs/152721-senior-account-executive-public-sector-germany",
-    "description": "Dataiku is the Platform for AI Success, the enterprise orchestration layer for building, deploying, and governing AI. In a single environment, teams design and operate analytics, machine learning, and AI agents with the transparency, collaboration, and control enterprises require. Sitting above data platforms, cloud infrastructure, and AI services, Dataiku connects the full ent...",
-    "source": "Jobicy Network",
-    "is_featured": false
-  },
-  {
-    "id": "jobicy-152720",
-    "title": "Enterprise Sales Engineer - FED",
-    "company": "Datadog",
-    "city": "Remote / Global",
-    "category": "Marketing & Sales",
-    "url": "https://jobicy.com/jobs/152720-enterprise-sales-engineer-fed",
-    "description": "As an Enterprise Sales Engineer, you'll partner with Sales to help customers understand the value of Datadog and how it solves their most important technical and business challenges. You'll lead technical evaluations, deliver compelling demos, and guide customers through the journey from discovery to successful adoption. You'll act as a trusted advisor, bridging business goals ...",
-    "source": "Jobicy Network",
-    "is_featured": false
-  },
-  {
-    "id": "jobicy-152719",
-    "title": "Associate Director of Product Development",
-    "company": "YipitData",
-    "city": "Remote / Global",
-    "category": "Admin & Operations",
-    "url": "https://jobicy.com/jobs/152719-associate-director-of-product-development",
-    "description": "About Us: YipitData is the leading market research and analytics firm for the disruptive economy and most recently raised $475M from The Carlyle Group at a valuation of over $1B. Every day, our proprietary technology analyzes billions of alternative data points to uncover actionable insights across sectors like software, AI, cloud, e-commerce, ridesharing, and payments. Our dat...",
-    "source": "Jobicy Network",
-    "is_featured": false
-  },
-  {
-    "id": "jobicy-152718",
-    "title": "Outbound Sales Development Manager",
-    "company": "Fleetio",
-    "city": "Remote / Global",
-    "category": "Marketing & Sales",
-    "url": "https://jobicy.com/jobs/152718-outbound-sales-development-manager",
-    "description": "A little about us\u2026Fleetio is a modern software platform that helps thousands of organizations worldwide manage their fleet operations. Transportation technology is a hot market, and we\u2019re leading the charge with raving fans and new customers signing up every day. We raised $450M in our Series D funding round in March of 2025 and are on an exciting trajectory as a company. Fleet...",
-    "source": "Jobicy Network",
-    "is_featured": false
-  },
-  {
-    "id": "jobicy-152717",
-    "title": "Paid Social & Programmatic Analyst",
-    "company": "SeatGeek",
-    "city": "Remote / Global",
-    "category": "Admin & Operations",
-    "url": "https://jobicy.com/jobs/152717-paid-social-programmatic-analyst",
-    "description": "SeatGeek believes live events are powerful experiences that unite humans. With our technological savvy and fan-first attitude we\u2019re simplifying and modernizing the ticketing industry. Social platforms are a critical component of SeatGeek's marketing strategy, because we need to meet live event fans where they are. As an Analyst on the Paid Social and Programmatic team, you'll p...",
-    "source": "Jobicy Network",
-    "is_featured": false
-  },
-  {
-    "id": "jobicy-152716",
-    "title": "Product Manager \u2013 Business Applications",
-    "company": "Dataiku",
-    "city": "Remote / Global",
-    "category": "Admin & Operations",
-    "url": "https://jobicy.com/jobs/152716-product-manager-business-applications",
-    "description": "Dataiku is the Platform for AI Success, the enterprise orchestration layer for building, deploying, and governing AI. In a single environment, teams design and operate analytics, machine learning, and AI agents with the transparency, collaboration, and control enterprises require. Sitting above data platforms, cloud infrastructure, and AI services, Dataiku connects the full ent...",
     "source": "Jobicy Network",
     "is_featured": false
   },
