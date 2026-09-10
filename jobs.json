@@ -33,17 +33,6 @@
     "is_featured": false
   },
   {
-    "id": "jobicy-149013",
-    "title": "Junior Program Control Analyst",
-    "company": "ManTech",
-    "city": "Remote / Global",
-    "category": "Admin & Operations",
-    "url": "https://jobicy.com/jobs/149013-junior-program-control-analyst",
-    "description": "General information Requisition # R69140 Locations USA-Remote Work Posting Date 07/07/2026 Security Clearance Required Confidential Remote Type Fully Remote Time Type Full time Description &amp; Requirements Shape the future of defense with MANTECH! Join a team dedicated to safeguarding our nation through advanced tech and innovative solutions. Since 1968, we\u2019ve been a trusted ...",
-    "source": "Jobicy Network",
-    "is_featured": false
-  },
-  {
     "id": "jobicy-149010",
     "title": "Medical Health Physicist",
     "company": "Fortive",
@@ -436,6 +425,17 @@
     "category": "Admin & Operations",
     "url": "https://jobicy.com/jobs/150376-work-from-home-as-a-private-online-german-tutor-for-ukrainians-part-time",
     "description": "At Nachhilfeunterricht, we are actively seeking tutors to provide private German lessons for Ukrainian-speaking students. We are looking for individuals passionate about languages and teaching, eager to support students in their German learning journey. No prior teaching experience is required to apply, only the completion of compulsory higher education. Teach from home or at t...",
+    "source": "Jobicy Network",
+    "is_featured": false
+  },
+  {
+    "id": "jobicy-150360",
+    "title": "Open Source Networking Software Engineer - ToR Switch / SmartNIC / DPU",
+    "company": "Canonical",
+    "city": "Remote / Global",
+    "category": "Admin & Operations",
+    "url": "https://jobicy.com/jobs/150360-open-source-networking-software-engineer-tor-switch-smartnic-dpu",
+    "description": "Software has moved to play a central role in network technology. From outstanding routing implementations like Bird and FRR to overlay networking technology such as OVN/OVS and Cilium, from kernel with SwitchDev to userspace with DPDK, from P4 to OpenFlow, the relationship between network innovation and software continues to deepen. We are building teams to bring the very best ...",
     "source": "Jobicy Network",
     "is_featured": false
   },
