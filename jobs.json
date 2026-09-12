@@ -121,17 +121,6 @@
     "is_featured": false
   },
   {
-    "id": "jobicy-153060",
-    "title": "Japanese - English PPC Freelancer (remote freelance)",
-    "company": "Brafton",
-    "city": "Remote / Global",
-    "category": "Admin & Operations",
-    "url": "https://jobicy.com/jobs/153060-japanese-english-ppc-freelancer-remote-freelance",
-    "description": "Brafton is one of the world's leading content marketing firms, with offices in Boston, London, Toronto and Sydney. We aspire to continually raise the bar on what people consider \"marketing content.\" We create result-focused strategies and content to drive SEO, social engagement and leads for our clients. Our teams continuously build expertise across new media formats, including...",
-    "source": "Jobicy Network",
-    "is_featured": false
-  },
-  {
     "id": "jobicy-153065",
     "title": "Regional VP, Sales",
     "company": "Sierra",
@@ -231,23 +220,23 @@
     "is_featured": false
   },
   {
-    "id": "jobicy-153055",
-    "title": "Senior Product Manager - Createspace, Canada Based",
-    "company": "D2L",
-    "city": "Remote / Global",
-    "category": "Admin & Operations",
-    "url": "https://jobicy.com/jobs/153055-senior-product-manager-createspace-canada-based",
-    "description": "D2L is a cloud company that is modernizing education and building the Future of Work. The old models of teaching and learning are in the midst of the largest transformation in history, and D2L is at the heart of that fundamental shift. New models of teaching and learning enable a personalized, student-centric experience \u2013 and deliver improved retention, engagement, satisfaction...",
-    "source": "Jobicy Network",
-    "is_featured": false
-  },
-  {
     "id": "jobicy-153059",
     "title": "Senior Product Manager - Createspace, USA Based",
     "company": "D2L",
     "city": "Remote / Global",
     "category": "Admin & Operations",
     "url": "https://jobicy.com/jobs/153059-senior-product-manager-createspace-usa-based",
+    "description": "D2L is a cloud company that is modernizing education and building the Future of Work. The old models of teaching and learning are in the midst of the largest transformation in history, and D2L is at the heart of that fundamental shift. New models of teaching and learning enable a personalized, student-centric experience \u2013 and deliver improved retention, engagement, satisfaction...",
+    "source": "Jobicy Network",
+    "is_featured": false
+  },
+  {
+    "id": "jobicy-153055",
+    "title": "Senior Product Manager - Createspace, Canada Based",
+    "company": "D2L",
+    "city": "Remote / Global",
+    "category": "Admin & Operations",
+    "url": "https://jobicy.com/jobs/153055-senior-product-manager-createspace-canada-based",
     "description": "D2L is a cloud company that is modernizing education and building the Future of Work. The old models of teaching and learning are in the midst of the largest transformation in history, and D2L is at the heart of that fundamental shift. New models of teaching and learning enable a personalized, student-centric experience \u2013 and deliver improved retention, engagement, satisfaction...",
     "source": "Jobicy Network",
     "is_featured": false
@@ -436,6 +425,17 @@
     "category": "Admin & Operations",
     "url": "https://jobicy.com/jobs/153041-director-information-security-and-it",
     "description": "Luna is seeking a Director of Information Security &amp; IT to lead the strategy, execution, and continuous evolution of the company's enterprise technology and information security programs. Reporting to the Chief Strategy &amp; Product Officer, this leader will be responsible for enterprise cybersecurity, IT operations, healthcare technology systems, identity and access manag...",
+    "source": "Jobicy Network",
+    "is_featured": false
+  },
+  {
+    "id": "jobicy-153037",
+    "title": "AI Senior Engineer (Graph)",
+    "company": "Able",
+    "city": "Remote / Global",
+    "category": "Admin & Operations",
+    "url": "https://jobicy.com/jobs/153037-ai-senior-engineer-graph",
+    "description": "Back in 2012, we were a group of engineers and designers who decided we wanted to build things\u2014so we did. Able started as an engineering and product hub building for a portfolio of early-stage startups. We built many relationships while developing products that were thoughtful, effective, and genuinely useful. But, since then, we\u2019ve grown\u2026 and so has our ambition. Now, we\u2019re en...",
     "source": "Jobicy Network",
     "is_featured": false
   },
