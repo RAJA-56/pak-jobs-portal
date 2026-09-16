@@ -1,12 +1,78 @@
 [
   {
-    "id": "jobicy-153335",
-    "title": "Marketplace Operations Manager II",
-    "company": "Wheel",
+    "id": "jobicy-149329",
+    "title": "SMB, Customer Success Manager",
+    "company": "DeleteMe",
     "city": "Remote / Global",
     "category": "Admin & Operations",
-    "url": "https://jobicy.com/jobs/153335-marketplace-operations-manager-ii",
-    "description": "Job Title: Marketplace Operations Manager II Job Location (Remote): Remote, USA About the Company Wheel is evolving the traditional care ecosystem by equipping the nation's most innovative companies with a premier platform to deliver high-quality virtual care at scale. We offer proven strategies and cutting-edge technologies to foster consumer engagement, build brand loyalty, a...",
+    "url": "https://jobicy.com/jobs/149329-smb-customer-success-manager",
+    "description": "About DeleteMe: DeleteMe is the leader in proactive privacy protection. We help security teams reduce their human attack surface by continuously monitoring and removing exposed personal data (PII) from the open web \u2014 the very data threat actors use to launch social engineering, phishing, Gen-AI deepfake, doxxing campaigns, physical threats, and identity fraud. Operating as a fa...",
+    "source": "Jobicy Network",
+    "is_featured": false
+  },
+  {
+    "id": "jobicy-149313",
+    "title": "Technical Adoption Specialist, Civil 3D, French speaking",
+    "company": "Autodesk",
+    "city": "Remote / Global",
+    "category": "Admin & Operations",
+    "url": "https://jobicy.com/jobs/149313-technical-adoption-specialist-civil-3d-french-speaking",
+    "description": "Job Requisition ID # 26WD99616 Position overview Autodesk Customer Success is looking for highly motivated trusted advisors to help our customers optimize their product investment and achieve measurable business outcomes. We are looking for a professional from Civil Engineering experience, supporting a broad range of technologies in large-scale environments. This person will wo...",
+    "source": "Jobicy Network",
+    "is_featured": false
+  },
+  {
+    "id": "jobicy-149301",
+    "title": "Garment Manufacturing QC Specialist - Freelance AI Trainer Project",
+    "company": "Invisible Technologies",
+    "city": "Remote / Global",
+    "category": "Admin & Operations",
+    "url": "https://jobicy.com/jobs/149301-garment-manufacturing-qc-specialist-freelance-ai-trainer-project",
+    "description": "Are you experienced in garment manufacturing quality control and interested in helping train the next generation of AI systems? As AI models are increasingly applied to global manufacturing, supply chain monitoring, and production analysis, their ability to reason about quality standards, inspection processes, and factory workflows depends on accurate, real-world training data....",
+    "source": "Jobicy Network",
+    "is_featured": false
+  },
+  {
+    "id": "jobicy-149324",
+    "title": "Customer Success Lead - Western Europe",
+    "company": "Elevenlabs",
+    "city": "Remote / Global",
+    "category": "Admin & Operations",
+    "url": "https://jobicy.com/jobs/149324-customer-success-lead-western-europe",
+    "description": "About ElevenLabs ElevenLabs is an AI research and product company transforming how we interact with technology. We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-growing startups to large enterprises like Deutsche Telekom and Meta. Our investors are some of the world's most prominent, ...",
+    "source": "Jobicy Network",
+    "is_featured": false
+  },
+  {
+    "id": "jobicy-149315",
+    "title": "Senior Customer Success Manager",
+    "company": "EDB",
+    "city": "Remote / Global",
+    "category": "Admin & Operations",
+    "url": "https://jobicy.com/jobs/149315-senior-customer-success-manager-2",
+    "description": "A Little About Us EDB provides a data and AI platform that enables organizations to harness the full power of Postgres for transactional, analytical, and AI workloads across any cloud, anywhere. EDB empowers enterprises to control risk, manage costs and scale efficiently for a data and AI led world. Serving more than 1,500 customers globally and as the leading contributor to th...",
+    "source": "Jobicy Network",
+    "is_featured": false
+  },
+  {
+    "id": "jobicy-149307",
+    "title": "Legal Consultant - Japanese Speakers (to be based in Hong Kong)",
+    "company": "Axiom",
+    "city": "Remote / Global",
+    "category": "Admin & Operations",
+    "url": "https://jobicy.com/jobs/149307-legal-consultant-japanese-speakers-to-be-based-in-hong-kong",
+    "description": "We are currently seeking to hire Legal Consultant with excellent/native Japanese language skills to join our ranks and support multiple Fortune 500 clients across financial services and corporates, role to be based in Hong Kong. This position requires being based in / relocation to Hong Kong. We will sponsor visa. Responsibilities Working side by side with the legal and busines...",
+    "source": "Jobicy Network",
+    "is_featured": false
+  },
+  {
+    "id": "jobicy-149306",
+    "title": "Support Engineering Manager (APAC)",
+    "company": "Supabase",
+    "city": "Remote / Global",
+    "category": "Admin & Operations",
+    "url": "https://jobicy.com/jobs/149306-support-engineering-manager-apac-2",
+    "description": "About Supabase Supabase is the Postgres development platform: Database, Auth, Storage, Edge Functions, Realtime, and Vector, deeply integrated and built for teams that need their backend to grow with them. We're open source, we move fast, and our users are developers who notice when things are off. About this role We're hiring a Support Manager on our global Support leadership ...",
     "source": "Jobicy Network",
     "is_featured": false
   },
@@ -22,13 +88,13 @@
     "is_featured": false
   },
   {
-    "id": "jobicy-153337",
-    "title": "Sales Engineer, Enterprise",
-    "company": "Socket",
+    "id": "jobicy-153335",
+    "title": "Marketplace Operations Manager II",
+    "company": "Wheel",
     "city": "Remote / Global",
-    "category": "Marketing & Sales",
-    "url": "https://jobicy.com/jobs/153337-sales-engineer-enterprise-2",
-    "description": "About Us Socket helps devs and security teams ship faster by cutting out security busywork. Thousands of orgs use Socket to safely find, audit, and manage open source code. Our customers - from Anthropic to xAI, and Figma to Vercel - love Socket (just check out their tweets to see for yourself!) Founded by Feross Aboukhadijeh , a long-time open source maintainer with software d...",
+    "category": "Admin & Operations",
+    "url": "https://jobicy.com/jobs/153335-marketplace-operations-manager-ii",
+    "description": "Job Title: Marketplace Operations Manager II Job Location (Remote): Remote, USA About the Company Wheel is evolving the traditional care ecosystem by equipping the nation's most innovative companies with a premier platform to deliver high-quality virtual care at scale. We offer proven strategies and cutting-edge technologies to foster consumer engagement, build brand loyalty, a...",
     "source": "Jobicy Network",
     "is_featured": false
   },
@@ -40,6 +106,17 @@
     "category": "Admin & Operations",
     "url": "https://jobicy.com/jobs/153338-staff-software-engineer-ai-native-systems",
     "description": "Staff Software Engineer, AI-Native Systems (Tech Lead) Location: Remote (US) We are Virtual care only works if the infrastructure behind it does. Wheel builds that infrastructure \u2014 the systems that let telehealth run at scale for the patients, clinicians, and companies depending on it. We're not bolting AI onto old workflows; we're rebuilding them from the ground up. Our missio...",
+    "source": "Jobicy Network",
+    "is_featured": false
+  },
+  {
+    "id": "jobicy-153337",
+    "title": "Sales Engineer, Enterprise",
+    "company": "Socket",
+    "city": "Remote / Global",
+    "category": "Marketing & Sales",
+    "url": "https://jobicy.com/jobs/153337-sales-engineer-enterprise-2",
+    "description": "About Us Socket helps devs and security teams ship faster by cutting out security busywork. Thousands of orgs use Socket to safely find, audit, and manage open source code. Our customers - from Anthropic to xAI, and Figma to Vercel - love Socket (just check out their tweets to see for yourself!) Founded by Feross Aboukhadijeh , a long-time open source maintainer with software d...",
     "source": "Jobicy Network",
     "is_featured": false
   },
@@ -132,13 +209,13 @@
     "is_featured": false
   },
   {
-    "id": "jobicy-153329",
-    "title": "Customer Solution Architect, Team Lead",
-    "company": "Supabase",
+    "id": "jobicy-153322",
+    "title": "Director, Portfolio Management (Mozilla.org)",
+    "company": "Mozilla",
     "city": "Remote / Global",
     "category": "Admin & Operations",
-    "url": "https://jobicy.com/jobs/153329-customer-solution-architect-team-lead",
-    "description": "Supabase is the Postgres development platform, built by developers for developers. We provide a complete backend solution including Database, Auth, Storage, Edge Functions, Realtime, and Vector Search. All services are deeply integrated and designed for growth. We\u2019re seeking a Customer Solution Architect Team Lead to captain a high-performing team of Customer Solutions Architec...",
+    "url": "https://jobicy.com/jobs/153322-director-portfolio-management-mozilla-org",
+    "description": "About Mozilla.org Mozilla is a mission-driven portfolio of companies and organizations working together to shape an internet that serves people and the public good. Currently, this portfolio includes: the Mozilla Foundation, which champions our mission through philanthropic risk capital; Mozilla Corporation, which makes Firefox; MZLA, which makes Thunderbird; Mozilla Ventures, ...",
     "source": "Jobicy Network",
     "is_featured": false
   },
@@ -154,17 +231,6 @@
     "is_featured": false
   },
   {
-    "id": "jobicy-153327",
-    "title": "Digital Designer",
-    "company": "Who Gives A Crap",
-    "city": "Remote / Global",
-    "category": "Design & Creative",
-    "url": "https://jobicy.com/jobs/153327-digital-designer",
-    "description": "Digital Designer PH location / Remote first Want to challenge yourself at a purpose-led scale up AND make a difference in the world? Come join the revolootion! Funny name, serious business We make eco-friendly products and donate 50% of our profits to provide clean water and help build toilets for the billions of people who lack proper access. So far, we\u2019ve contributed over $18...",
-    "source": "Jobicy Network",
-    "is_featured": false
-  },
-  {
     "id": "jobicy-153325",
     "title": "Territory Manager (North East, Nebraska)",
     "company": "Halter",
@@ -176,13 +242,24 @@
     "is_featured": false
   },
   {
-    "id": "jobicy-153322",
-    "title": "Director, Portfolio Management (Mozilla.org)",
-    "company": "Mozilla",
+    "id": "jobicy-153329",
+    "title": "Customer Solution Architect, Team Lead",
+    "company": "Supabase",
     "city": "Remote / Global",
     "category": "Admin & Operations",
-    "url": "https://jobicy.com/jobs/153322-director-portfolio-management-mozilla-org",
-    "description": "About Mozilla.org Mozilla is a mission-driven portfolio of companies and organizations working together to shape an internet that serves people and the public good. Currently, this portfolio includes: the Mozilla Foundation, which champions our mission through philanthropic risk capital; Mozilla Corporation, which makes Firefox; MZLA, which makes Thunderbird; Mozilla Ventures, ...",
+    "url": "https://jobicy.com/jobs/153329-customer-solution-architect-team-lead",
+    "description": "Supabase is the Postgres development platform, built by developers for developers. We provide a complete backend solution including Database, Auth, Storage, Edge Functions, Realtime, and Vector Search. All services are deeply integrated and designed for growth. We\u2019re seeking a Customer Solution Architect Team Lead to captain a high-performing team of Customer Solutions Architec...",
+    "source": "Jobicy Network",
+    "is_featured": false
+  },
+  {
+    "id": "jobicy-153327",
+    "title": "Digital Designer",
+    "company": "Who Gives A Crap",
+    "city": "Remote / Global",
+    "category": "Design & Creative",
+    "url": "https://jobicy.com/jobs/153327-digital-designer",
+    "description": "Digital Designer PH location / Remote first Want to challenge yourself at a purpose-led scale up AND make a difference in the world? Come join the revolootion! Funny name, serious business We make eco-friendly products and donate 50% of our profits to provide clean water and help build toilets for the billions of people who lack proper access. So far, we\u2019ve contributed over $18...",
     "source": "Jobicy Network",
     "is_featured": false
   },
@@ -358,83 +435,6 @@
     "city": "Remote / Global",
     "category": "Admin & Operations",
     "url": "https://jobicy.com/jobs/150768-account-executive-mid-market",
-    "description": "A little about us\u2026Fleetio is a modern software platform that helps thousands of organizations worldwide manage their fleet operations. Transportation technology is a hot market, and we\u2019re leading the charge with raving fans and new customers signing up every day. We raised $450M in our Series D funding round in March of 2025 and are on an exciting trajectory as a company. Fleet...",
-    "source": "Jobicy Network",
-    "is_featured": false
-  },
-  {
-    "id": "jobicy-150820",
-    "title": "Director, Platform and AI Sales",
-    "company": "League",
-    "city": "Remote / Global",
-    "category": "Marketing & Sales",
-    "url": "https://jobicy.com/jobs/150820-director-platform-and-ai-sales",
-    "description": "About League League is one of the fastest-growing technology companies in Canada and the leading healthcare experience platform. Getting healthcare is often the easy part \u2014 finishing it is where things fall apart: people book the appointment and skip the follow-up, fill the prescription and stop taking it, get the referral and never make the call. That gap costs health plans an...",
-    "source": "Jobicy Network",
-    "is_featured": false
-  },
-  {
-    "id": "jobicy-150767",
-    "title": "AI Technical Mentor - Independent Contractor (US Canada, Europe, MENA, APAC)",
-    "company": "Udacity",
-    "city": "Remote / Global",
-    "category": "Admin & Operations",
-    "url": "https://jobicy.com/jobs/150767-ai-technical-mentor-independent-contractor-us-canada-europe-mena-india-apac-timezones",
-    "description": "About Us Udacity is now an Accenture company, and exciting things are happening! We are on a mission of forging futures in tech through radical talent transformation in digital technologies. We offer a unique and immersive online learning platform, powering corporate technical training in fields such as Artificial Intelligence, Machine Learning, Data Science, Autonomous Systems...",
-    "source": "Jobicy Network",
-    "is_featured": false
-  },
-  {
-    "id": "jobicy-150818",
-    "title": "Director, Growth Marketing",
-    "company": "League",
-    "city": "Remote / Global",
-    "category": "Marketing & Sales",
-    "url": "https://jobicy.com/jobs/150818-director-growth-marketing",
-    "description": "About League League is one of the fastest-growing technology companies in Canada and the leading healthcare experience platform. Getting healthcare is often the easy part \u2014 finishing it is where things fall apart: people book the appointment and skip the follow-up, fill the prescription and stop taking it, get the referral and never make the call. That gap costs health plans an...",
-    "source": "Jobicy Network",
-    "is_featured": false
-  },
-  {
-    "id": "jobicy-150748",
-    "title": "IT Administrator",
-    "company": "Kalshi",
-    "city": "Remote / Global",
-    "category": "Admin & Operations",
-    "url": "https://jobicy.com/jobs/150748-it-administrator",
-    "description": "Kalshi is defining a new category Kalshi has defined a new category: prediction markets. Kalshi allows people to trade on the outcome of any events and turn any question about the future into a financial asset. Kalshi fought for years and legalized prediction markets in the US for the first time in history. Kalshi is currently the fastest growing financial market in America, an...",
-    "source": "Jobicy Network",
-    "is_featured": false
-  },
-  {
-    "id": "jobicy-150773",
-    "title": "Staff Product Designer",
-    "company": "OpenSea",
-    "city": "Remote / Global",
-    "category": "Design & Creative",
-    "url": "https://jobicy.com/jobs/150773-staff-product-designer-5",
-    "description": "OpenSea is building the gateway to the onchain economy - a rich world of communities, assets &amp; creative expression uniquely possible with native digital ownership. Our products support millions of users and have helped shape onchain markets that exist today\u2014and we're just getting started. Our goal is to build the highest-leverage, most AI-native team in crypto (and ideally ...",
-    "source": "Jobicy Network",
-    "is_featured": false
-  },
-  {
-    "id": "jobicy-150765",
-    "title": "AI Mentor (Independent Contractor) - Business Leader Programs",
-    "company": "Udacity",
-    "city": "Remote / Global",
-    "category": "Admin & Operations",
-    "url": "https://jobicy.com/jobs/150765-ai-mentor-independent-contractor-business-leader-programs",
-    "description": "About Us Udacity is now an Accenture company, and exciting things are happening! We are on a mission of forging futures in tech through radical talent transformation in digital technologies. We offer a unique and immersive online learning platform, powering corporate technical training in fields such as Artificial Intelligence, Machine Learning, Data Science, Autonomous Systems...",
-    "source": "Jobicy Network",
-    "is_featured": false
-  },
-  {
-    "id": "jobicy-150772",
-    "title": "Director of Engineering, Leverage",
-    "company": "Fleetio",
-    "city": "Remote / Global",
-    "category": "Admin & Operations",
-    "url": "https://jobicy.com/jobs/150772-director-of-engineering-leverage",
     "description": "A little about us\u2026Fleetio is a modern software platform that helps thousands of organizations worldwide manage their fleet operations. Transportation technology is a hot market, and we\u2019re leading the charge with raving fans and new customers signing up every day. We raised $450M in our Series D funding round in March of 2025 and are on an exciting trajectory as a company. Fleet...",
     "source": "Jobicy Network",
     "is_featured": false
