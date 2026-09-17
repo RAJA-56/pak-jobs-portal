@@ -22,6 +22,17 @@
     "is_featured": false
   },
   {
+    "id": "jobicy-153476",
+    "title": "Mexico Major AE",
+    "company": "Samsara",
+    "city": "Remote / Global",
+    "category": "Admin & Operations",
+    "url": "https://jobicy.com/jobs/153476-mexico-major-ae",
+    "description": "Who we are Samsara (NYSE: IOT) is the pioneer of the Connected Operations\u2122 Cloud, which is a platform that enables organizations that depend on physical operations to harness Internet of Things (IoT) data to develop actionable insights and improve their operations. At Samsara, we are helping improve the safety, efficiency and sustainability of the physical operations that power...",
+    "source": "Jobicy Network",
+    "is_featured": false
+  },
+  {
     "id": "jobicy-153474",
     "title": "Commercial Account Executive, Southern Cone",
     "company": "GitLab",
@@ -51,17 +62,6 @@
     "category": "Admin & Operations",
     "url": "https://jobicy.com/jobs/153469-senior-qa-automation-engineer-product-latam",
     "description": "Upgrade helps customers move in the right direction with affordable and responsible financial products. Since 2017, we\u2019ve helped over 7.5 million customers access over $42 billion in consumer credit. With a relentless focus on improving our customers' financial well-being, we build products that put more money in their pocket and support their journey toward a better financial ...",
-    "source": "Jobicy Network",
-    "is_featured": false
-  },
-  {
-    "id": "jobicy-153476",
-    "title": "Mexico Major AE",
-    "company": "Samsara",
-    "city": "Remote / Global",
-    "category": "Admin & Operations",
-    "url": "https://jobicy.com/jobs/153476-mexico-major-ae",
-    "description": "Who we are Samsara (NYSE: IOT) is the pioneer of the Connected Operations\u2122 Cloud, which is a platform that enables organizations that depend on physical operations to harness Internet of Things (IoT) data to develop actionable insights and improve their operations. At Samsara, we are helping improve the safety, efficiency and sustainability of the physical operations that power...",
     "source": "Jobicy Network",
     "is_featured": false
   },
@@ -106,17 +106,6 @@
     "category": "Admin & Operations",
     "url": "https://jobicy.com/jobs/153458-data-center-engineer-in-atlanta-ga",
     "description": "Join us in bringing joy to customer experience. Five9 is a leading provider of cloud contact center software, bringing the power of cloud innovation to customers worldwide. Living our values everyday results in our team-first culture and enables us to innovate, grow, and thrive while enjoying the journey together. We celebrate diversity and foster an inclusive environment, empo...",
-    "source": "Jobicy Network",
-    "is_featured": false
-  },
-  {
-    "id": "jobicy-153465",
-    "title": "Senior Manager, Talent Strategy and HR Business Partnerships",
-    "company": "HackerOne",
-    "city": "Remote / Global",
-    "category": "Admin & Operations",
-    "url": "https://jobicy.com/jobs/153465-senior-manager-talent-strategy-and-hr-business-partnerships",
-    "description": "HackerOne is a global leader in Continuous Threat Exposure Management (CTEM). The HackerOne Platform unites agentic AI solutions with the ingenuity of the world\u2019s largest community of security researchers to continuously discover, validate, prioritize, and remediate exposures across code, cloud, and AI systems. Through solutions like bug bounty, vulnerability disclosure, agenti...",
     "source": "Jobicy Network",
     "is_featured": false
   },
@@ -231,13 +220,13 @@
     "is_featured": false
   },
   {
-    "id": "jobicy-153449",
-    "title": "Software Engineer - Auth",
+    "id": "jobicy-153451",
+    "title": "Software Engineer: IaC Platform Experience",
     "company": "Supabase",
     "city": "Remote / Global",
     "category": "Admin & Operations",
-    "url": "https://jobicy.com/jobs/153449-software-engineer-auth",
-    "description": "About Supabase Supabase is the Postgres development platform, built by developers for developers. We provide a complete backend solution including Database, Auth, Storage, Edge Functions, Realtime, and Vector Search. All services are deeply integrated and designed for growth. About the role Auth , written in Go (server) and with client libraries for TypeScript , SSR and for oth...",
+    "url": "https://jobicy.com/jobs/153451-software-engineer-iac-platform-experience",
+    "description": "About Supabase Supabase is the Postgres development platform, built by developers for developers. We provide a complete backend solution including Database, Auth, Storage, Edge Functions, Realtime, and Vector Search. All services are deeply integrated and designed for growth. About the Role We are looking for a Software Engineer: IaC Platform Experience to join our Interfaces t...",
     "source": "Jobicy Network",
     "is_featured": false
   },
@@ -253,13 +242,13 @@
     "is_featured": false
   },
   {
-    "id": "jobicy-153451",
-    "title": "Software Engineer: IaC Platform Experience",
+    "id": "jobicy-153449",
+    "title": "Software Engineer - Auth",
     "company": "Supabase",
     "city": "Remote / Global",
     "category": "Admin & Operations",
-    "url": "https://jobicy.com/jobs/153451-software-engineer-iac-platform-experience",
-    "description": "About Supabase Supabase is the Postgres development platform, built by developers for developers. We provide a complete backend solution including Database, Auth, Storage, Edge Functions, Realtime, and Vector Search. All services are deeply integrated and designed for growth. About the Role We are looking for a Software Engineer: IaC Platform Experience to join our Interfaces t...",
+    "url": "https://jobicy.com/jobs/153449-software-engineer-auth",
+    "description": "About Supabase Supabase is the Postgres development platform, built by developers for developers. We provide a complete backend solution including Database, Auth, Storage, Edge Functions, Realtime, and Vector Search. All services are deeply integrated and designed for growth. About the role Auth , written in Go (server) and with client libraries for TypeScript , SSR and for oth...",
     "source": "Jobicy Network",
     "is_featured": false
   },
@@ -341,17 +330,6 @@
     "is_featured": false
   },
   {
-    "id": "jobicy-153441",
-    "title": "Sales & CX Enablement Partner",
-    "company": "Osano",
-    "city": "Remote / Global",
-    "category": "Marketing & Sales",
-    "url": "https://jobicy.com/jobs/153441-sales-cx-enablement-partner",
-    "description": "About Osano Osano is an innovative B-Corporation built around a simple belief: privacy is a fundamental right. Since day one, we\u2019ve been focused on giving modern enterprises the ability to innovate quickly, stay competitive, and earn customer trust by respecting data privacy and complying with consent guidelines. Our products help organizations operate confidently in a rapidly ...",
-    "source": "Jobicy Network",
-    "is_featured": false
-  },
-  {
     "id": "jobicy-153438",
     "title": "Account Manager - Federal",
     "company": "Mattermost",
@@ -359,6 +337,17 @@
     "category": "Admin & Operations",
     "url": "https://jobicy.com/jobs/153438-account-manager-federal",
     "description": "Mattermost is the leading collaborative workflow platform for defense, intelligence, security, and critical infrastructure. Trusted by the U.S. Department of War and Fortune 500s, our platform runs on-premises and in private clouds, delivering secure messaging, file sharing, workflow automation, audio/screenshare, and project management\u2014all with full data and operational contro...",
+    "source": "Jobicy Network",
+    "is_featured": false
+  },
+  {
+    "id": "jobicy-153441",
+    "title": "Sales & CX Enablement Partner",
+    "company": "Osano",
+    "city": "Remote / Global",
+    "category": "Marketing & Sales",
+    "url": "https://jobicy.com/jobs/153441-sales-cx-enablement-partner",
+    "description": "About Osano Osano is an innovative B-Corporation built around a simple belief: privacy is a fundamental right. Since day one, we\u2019ve been focused on giving modern enterprises the ability to innovate quickly, stay competitive, and earn customer trust by respecting data privacy and complying with consent guidelines. Our products help organizations operate confidently in a rapidly ...",
     "source": "Jobicy Network",
     "is_featured": false
   },
@@ -436,6 +425,17 @@
     "category": "Admin & Operations",
     "url": "https://jobicy.com/jobs/153431-associate-commercial-counsel-2",
     "description": "Who are we? At UpGuard, we are replacing manual security bottlenecks with AI-driven precision. Fresh off a US$75M Series C, we are scaling our infrastructure to process 100 billion risk signals daily. This isn\u2019t just growth; it\u2019s a total reimagining of how the world manages cyber risk. We build the Cyber Risk Posture Management (CRPM) platform that security teams actually love....",
+    "source": "Jobicy Network",
+    "is_featured": false
+  },
+  {
+    "id": "jobicy-153429",
+    "title": "Senior Cloud Architect (Network & SRE)",
+    "company": "LivePerson",
+    "city": "Remote / Global",
+    "category": "Admin & Operations",
+    "url": "https://jobicy.com/jobs/153429-senior-cloud-architect-network-sre",
+    "description": "Location: USA Remote Status: 100% remote LivePerson (NASDAQ: LPSN) is a leader in trusted enterprise conversational AI and digital transformation. The world's leading brands use our award-winning Conversational Cloud platform to connect with millions of consumers. We power nearly a billion conversational interactions every month, providing uniquely rich data analytics and safet...",
     "source": "Jobicy Network",
     "is_featured": false
   },
