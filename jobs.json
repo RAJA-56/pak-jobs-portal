@@ -264,17 +264,6 @@
     "is_featured": false
   },
   {
-    "id": "jobicy-153516",
-    "title": "QA Engineer - US Remote",
-    "company": "PerfectServe",
-    "city": "Remote / Global",
-    "category": "Admin & Operations",
-    "url": "https://jobicy.com/jobs/153516-qa-engineer-us-remote",
-    "description": "What is PerfectServe? PerfectServe is a leading provider of clinical communication and physician scheduling solutions in the health IT space. The company was founded in 1997 and has grown steadily since then, with a notable jump after several major acquisitions were announced in 2019. PerfectServe now has 400+ employees, 30,000+ customers \u2014 spanning medical practices, hospitals...",
-    "source": "Jobicy Network",
-    "is_featured": false
-  },
-  {
     "id": "jobicy-153513",
     "title": "Director of AI/ML",
     "company": "Bayesian Health",
@@ -330,17 +319,6 @@
     "is_featured": false
   },
   {
-    "id": "jobicy-153501",
-    "title": "Staff Software Engineer, Identity and Access Management",
-    "company": "Kong Inc.",
-    "city": "Remote / Global",
-    "category": "Admin & Operations",
-    "url": "https://jobicy.com/jobs/153501-staff-software-engineer-identity-and-access-management",
-    "description": "Are you ready to unlock intelligence? If you don\u2019t think you meet all of the criteria below but are still interested in the job, please apply. Nobody checks every box - we\u2019re looking for candidates that are particularly strong in a few areas, and have some interest and capabilities in others. About the Role: Kong is building the future of API management for developers. We\u2019re a ...",
-    "source": "Jobicy Network",
-    "is_featured": false
-  },
-  {
     "id": "jobicy-153499",
     "title": "Director, Global Consulting & System Integrator Partnerships",
     "company": "Ada",
@@ -348,6 +326,17 @@
     "category": "Admin & Operations",
     "url": "https://jobicy.com/jobs/153499-director-global-consulting-system-integrator-partnerships",
     "description": "About Us Ada is an AI customer service company whose mission is to make customer service extraordinary for everyone. We're driven to raise a new standard of quality customer service at scale, enabling enterprise companies to deliver experiences that people love\u2013instant, proactive, personalized, and effortless. Ada is an AI transformation platform and partner\u2014combining strategic...",
+    "source": "Jobicy Network",
+    "is_featured": false
+  },
+  {
+    "id": "jobicy-153501",
+    "title": "Staff Software Engineer, Identity and Access Management",
+    "company": "Kong Inc.",
+    "city": "Remote / Global",
+    "category": "Admin & Operations",
+    "url": "https://jobicy.com/jobs/153501-staff-software-engineer-identity-and-access-management",
+    "description": "Are you ready to unlock intelligence? If you don\u2019t think you meet all of the criteria below but are still interested in the job, please apply. Nobody checks every box - we\u2019re looking for candidates that are particularly strong in a few areas, and have some interest and capabilities in others. About the Role: Kong is building the future of API management for developers. We\u2019re a ...",
     "source": "Jobicy Network",
     "is_featured": false
   },
@@ -429,13 +418,24 @@
     "is_featured": false
   },
   {
-    "id": "jobicy-153498",
-    "title": "Site Reliability Engineer 2",
-    "company": "Kong Inc.",
+    "id": "jobicy-153489",
+    "title": "Infrastructure Software Engineer, Metadata Core",
+    "company": "Dropbox",
     "city": "Remote / Global",
     "category": "Admin & Operations",
-    "url": "https://jobicy.com/jobs/153498-site-reliability-engineer-2-2",
-    "description": "Are you ready to unlock intelligence? If you don\u2019t think you meet all of the criteria below but are still interested in the job, please apply. Nobody checks every box - we\u2019re looking for candidates that are particularly strong in a few areas, and have some interest and capabilities in others. Are you ready to unlock intelligence? If you don\u2019t think you meet all of the criteria ...",
+    "url": "https://jobicy.com/jobs/153489-infrastructure-software-engineer-metadata-core",
+    "description": "Role Description As a Software Engineer on the Metadata team, you\u2019ll build and operate the large-scale distributed databases that every Dropbox service depends on. Metadata systems are mission-critical, in the live path for all user operations and must meet stringent requirements for latency, durability, and transactional consistency. You\u2019ll design and evolve the core infrastru...",
+    "source": "Jobicy Network",
+    "is_featured": false
+  },
+  {
+    "id": "jobicy-153488",
+    "title": "Senior Product Designer (Full Remote - Italy)",
+    "company": "EverAI",
+    "city": "Remote / Global",
+    "category": "Design & Creative",
+    "url": "https://jobicy.com/jobs/153488-senior-product-designer-full-remote-italy",
+    "description": "Our Vision &amp; Products EverAI \u2014 Building the Future of AI Companionship One of the Top 15 Largest &amp; Fastest-Growing AI Companies in the World 50 Million Users in 2 years \u2014 Help Us Reach 100M first, 500M next At EverAI , we\u2019re shaping what it means to connect with AI. With 50 million users and counting , we're not just building products \u2014 we're creating entirely new categ...",
     "source": "Jobicy Network",
     "is_featured": false
   },
