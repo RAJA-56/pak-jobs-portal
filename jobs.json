@@ -1,5 +1,16 @@
 [
   {
+    "id": "jobicy-155221",
+    "title": "Senior C++ Engineer",
+    "company": "Findev",
+    "city": "Remote / Global",
+    "category": "Admin & Operations",
+    "url": "https://jobicy.com/jobs/155221-senior-c-engineer",
+    "description": "FinDev is looking for a Senior C++ Developer to join a team building and evolving a large-scale, real-time electronic trading platform for the global Fixed Income market. The team develops the application layer of an institutional corporate bond trading platform, supporting a range of trading protocols and workflows. You\u2019ll work primarily with modern C++ on Linux, building and ...",
+    "source": "Jobicy Network",
+    "is_featured": false
+  },
+  {
     "id": "jobicy-155217",
     "title": "Business Development Representative - Dutch Speaker",
     "company": "Algolia",
@@ -425,17 +436,6 @@
     "category": "Admin & Operations",
     "url": "https://jobicy.com/jobs/155175-senior-customer-support-engineer-4",
     "description": "Joining Collibra \u2019s Support team Collibra seeks to expand our Support Engineering team with the addition of a Senior Technical Support Engineer to support the company's growth. Collibra\u2019s Senior Technical Support Engineers provide support that increases Collibra\u2019s credibility as an organization with world-class personnel and processes that can be relied upon as customers increa...",
-    "source": "Jobicy Network",
-    "is_featured": false
-  },
-  {
-    "id": "jobicy-155174",
-    "title": "Director, Solutions Architecture EMEA",
-    "company": "Nebius",
-    "city": "Remote / Global",
-    "category": "Admin & Operations",
-    "url": "https://jobicy.com/jobs/155174-director-solutions-architecture-emea",
-    "description": "About Nebius : Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-house AI/ML infrastructure. Built by engineers, for engineers. From large-scale GP...",
     "source": "Jobicy Network",
     "is_featured": false
   },
