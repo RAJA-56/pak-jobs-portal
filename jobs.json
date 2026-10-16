@@ -385,17 +385,6 @@
     "is_featured": false
   },
   {
-    "id": "jobicy-150754",
-    "title": "Business Development Manager",
-    "company": "Thoughtworks",
-    "city": "Remote / Global",
-    "category": "Admin & Operations",
-    "url": "https://jobicy.com/jobs/150754-business-development-manager",
-    "description": "Thoughtworks is seeking industry- and market-relevant business development professionals to join and lead a sector of our client growth in the Singapore region. Business Development Managers at Thoughtworks are responsible for developing and securing a pipeline of new opportunities and building relationships with both new clients and in new areas of existing client organization...",
-    "source": "Jobicy Network",
-    "is_featured": false
-  },
-  {
     "id": "jobicy-150687",
     "title": "Engineering Manager - EU",
     "company": "Ashby",
@@ -436,6 +425,17 @@
     "category": "Admin & Operations",
     "url": "https://jobicy.com/jobs/150664-critical-facility-engineer",
     "description": "Meta is seeking a data center Critical Facility Engineer to join our Data Center Facility Operations team. Our data centers serve as the foundation upon which our software operates to meet the demands of our customers. The Critical Facility Engineer will be a part of the Facility Operations team responsible for operating and maintaining critical systems in our data centers.Resp...",
+    "source": "Jobicy Network",
+    "is_featured": false
+  },
+  {
+    "id": "jobicy-150665",
+    "title": "Software Engineer (Technical Leadership)",
+    "company": "Meta",
+    "city": "Remote / Global",
+    "category": "Admin & Operations",
+    "url": "https://jobicy.com/jobs/150665-software-engineer-technical-leadership",
+    "description": "Meta is seeking a Software Engineer to join our engineering team. The ideal candidate will have industry experience working on a range of classification and optimization problems like payment fraud, click-through rate prediction, click-fraud detection, search ranking, text/sentiment classification, collaborative filtering/recommendation, or spam detection. The position will inv...",
     "source": "Jobicy Network",
     "is_featured": false
   },
