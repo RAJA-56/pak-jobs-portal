@@ -176,17 +176,6 @@
     "is_featured": false
   },
   {
-    "id": "jobicy-155924",
-    "title": "QA Analyst (Mexico, Remote)",
-    "company": "Varicent",
-    "city": "Remote / Global",
-    "category": "Admin & Operations",
-    "url": "https://jobicy.com/jobs/155924-qa-analyst-mexico-remote-2",
-    "description": "At Varicent , we\u2019re not just transforming the Sales Performance Management (SPM) market\u2014we\u2019re redefining how organizations achieve revenue success. Our cutting-edge SaaS solutions empower revenue leaders globally to design smarter go-to-market strategies, maximize seller performance, and unlock untapped potential. Varicent stands at the forefront of innovation, celebrated as a ...",
-    "source": "Jobicy Network",
-    "is_featured": false
-  },
-  {
     "id": "jobicy-155914",
     "title": "Enterprise Sales Executive, AI Solutions",
     "company": "Toptal",
@@ -435,6 +424,17 @@
     "city": "Remote / Global",
     "category": "Admin & Operations",
     "url": "https://jobicy.com/jobs/155896-director-legal-employment",
+    "description": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster. The same ...",
+    "source": "Jobicy Network",
+    "is_featured": false
+  },
+  {
+    "id": "jobicy-155893",
+    "title": "Demo Architect, EMEA",
+    "company": "GitLab",
+    "city": "Remote / Global",
+    "category": "Admin & Operations",
+    "url": "https://jobicy.com/jobs/155893-demo-architect-emea",
     "description": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster. The same ...",
     "source": "Jobicy Network",
     "is_featured": false
