@@ -1,5 +1,93 @@
 [
   {
+    "id": "jobicy-156990",
+    "title": "Senior Solutions Engineer | Tokyo, Japan | Remote",
+    "company": "Grafana Labs",
+    "city": "Remote / Global",
+    "category": "Admin & Operations",
+    "url": "https://jobicy.com/jobs/156990-senior-solutions-engineer-tokyo-japan-remote",
+    "description": "Grafana Labs is the company behind Grafana Cloud, the fully managed observability platform trusted by more than 10,000 organizations to ensure reliability, resolve incidents faster, and optimize telemetry at scale. Built on open source and open standards and designed for interoperability across any stack, Grafana Cloud brings AI to observability and observability to AI, giving ...",
+    "source": "Jobicy Network",
+    "is_featured": false
+  },
+  {
+    "id": "jobicy-156997",
+    "title": "Linux Software Engineer - Ubuntu for Next-Gen Silicon (multiple roles and seniority levels)",
+    "company": "Canonical",
+    "city": "Remote / Global",
+    "category": "Admin & Operations",
+    "url": "https://jobicy.com/jobs/156997-linux-software-engineer-ubuntu-for-next-gen-silicon-multiple-roles-and-seniority-levels",
+    "description": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders i...",
+    "source": "Jobicy Network",
+    "is_featured": false
+  },
+  {
+    "id": "jobicy-156989",
+    "title": "Senior Financial Analyst (FP&A)",
+    "company": "Thumbtack",
+    "city": "Remote / Global",
+    "category": "Admin & Operations",
+    "url": "https://jobicy.com/jobs/156989-senior-financial-analyst-fpa",
+    "description": "Thumbtack helps millions of people confidently care for their homes. Thumbtack is the one app you need to take care of and improve your home \u2014 from personalized guidance to AI tools and a best-in-class hiring experience. Every day in every county of the U.S., people turn to Thumbtack to complete urgent repairs, seasonal maintenance and bigger improvements. We help homeowners kn...",
+    "source": "Jobicy Network",
+    "is_featured": false
+  },
+  {
+    "id": "jobicy-156996",
+    "title": "IoT Field Engineer - China & Region",
+    "company": "Canonical",
+    "city": "Remote / Global",
+    "category": "Admin & Operations",
+    "url": "https://jobicy.com/jobs/156996-iot-field-engineer-china-region",
+    "description": "Role Summary Ubuntu is the most widely used Linux for innovation from cloud to connected device. Our growing team of IoT field engineers help customers deliver sophisticated IoT products and services across a wide range of industries - from autonomous vehicles to refrigeration solutions. Field engineers carry a significant responsibility - helping customers understand the range...",
+    "source": "Jobicy Network",
+    "is_featured": false
+  },
+  {
+    "id": "jobicy-156992",
+    "title": "Senior Product Manager, User Acquisition",
+    "company": "RevenueCat",
+    "city": "Remote / Global",
+    "category": "Design & Creative",
+    "url": "https://jobicy.com/jobs/156992-senior-product-manager-user-acquisition",
+    "description": "RevenueCat gives app businesses the infrastructure and tools to build, run, and improve their monetization. Since graduating from YC's S18 batch, we've grown into the default monetization platform for mobile. We're in 50%+ of newly shipped subscription apps, we process $16B+ in annual purchase volume, and we help everyone from a solo developer to the OpenAI mobile team understa...",
+    "source": "Jobicy Network",
+    "is_featured": false
+  },
+  {
+    "id": "jobicy-156994",
+    "title": "Account Executive",
+    "company": "Thumbtack",
+    "city": "Remote / Global",
+    "category": "Admin & Operations",
+    "url": "https://jobicy.com/jobs/156994-account-executive-27",
+    "description": "Thumbtack helps millions of people confidently care for their homes. Thumbtack is the one app you need to take care of and improve your home \u2014 from personalized guidance to AI tools and a best-in-class hiring experience. Every day in every county of the U.S., people turn to Thumbtack to complete urgent repairs, seasonal maintenance and bigger improvements. We help homeowners kn...",
+    "source": "Jobicy Network",
+    "is_featured": false
+  },
+  {
+    "id": "jobicy-156993",
+    "title": "Project Manager (Service Operations)",
+    "company": "Thumbtack",
+    "city": "Remote / Global",
+    "category": "Admin & Operations",
+    "url": "https://jobicy.com/jobs/156993-project-manager-service-operations",
+    "description": "Thumbtack helps millions of people confidently care for their homes. Thumbtack is the one app you need to take care of and improve your home \u2014 from personalized guidance to AI tools and a best-in-class hiring experience. Every day in every county of the U.S., people turn to Thumbtack to complete urgent repairs, seasonal maintenance and bigger improvements. We help homeowners kn...",
+    "source": "Jobicy Network",
+    "is_featured": false
+  },
+  {
+    "id": "jobicy-156991",
+    "title": "Partner Operations Analyst",
+    "company": "Thumbtack",
+    "city": "Remote / Global",
+    "category": "Admin & Operations",
+    "url": "https://jobicy.com/jobs/156991-partner-operations-analyst",
+    "description": "Thumbtack helps millions of people confidently care for their homes. Thumbtack is the one app you need to take care of and improve your home \u2014 from personalized guidance to AI tools and a best-in-class hiring experience. Every day in every county of the U.S., people turn to Thumbtack to complete urgent repairs, seasonal maintenance and bigger improvements. We help homeowners kn...",
+    "source": "Jobicy Network",
+    "is_featured": false
+  },
+  {
     "id": "jobicy-156958",
     "title": "Sr. Software Engineer",
     "company": "AlertMedia",
@@ -348,94 +436,6 @@
     "category": "Admin & Operations",
     "url": "https://jobicy.com/jobs/156946-platform-engineer-compute-capacity",
     "description": "About Supabase Supabase is the Postgres development platform, built by developers for developers. We provide a complete backend solution including Database, Auth, Storage, Edge Functions, Realtime, and Vector Search. All services are deeply integrated and designed for growth. About the Role We are seeking a platform engineer to join our Compute Capacity team. This team owns the...",
-    "source": "Jobicy Network",
-    "is_featured": false
-  },
-  {
-    "id": "jobicy-156945",
-    "title": "Distributed Systems Engineer",
-    "company": "Canonical",
-    "city": "Remote / Global",
-    "category": "Admin & Operations",
-    "url": "https://jobicy.com/jobs/156945-distributed-systems-engineer-3",
-    "description": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders ...",
-    "source": "Jobicy Network",
-    "is_featured": false
-  },
-  {
-    "id": "jobicy-156944",
-    "title": "AWS Gaming GTM Segment Lead",
-    "company": "Supabase",
-    "city": "Remote / Global",
-    "category": "Admin & Operations",
-    "url": "https://jobicy.com/jobs/156944-aws-gaming-gtm-segment-lead",
-    "description": "About Supabase Supabase is the Postgres development platform, built by developers for developers. We provide a complete backend solution including Database, Auth, Storage, Edge Functions, Realtime, and Vector Search. All services are deeply integrated and designed for growth. About the role Supabase is scaling its AWS partnership across multiple go-to-market motions, and gaming...",
-    "source": "Jobicy Network",
-    "is_featured": false
-  },
-  {
-    "id": "jobicy-156941",
-    "title": "Senior Data Analyst - Marketing",
-    "company": "Supabase",
-    "city": "Remote / Global",
-    "category": "Marketing & Sales",
-    "url": "https://jobicy.com/jobs/156941-senior-data-analyst-marketing",
-    "description": "About Supabase Supabase is the Postgres development platform, built by developers for developers. We provide a complete backend solution including Database, Auth, Storage, Edge Functions, Realtime, and Vector Search. All services are deeply integrated and designed for growth. About the Role We're looking for a Senior Data Analyst, Marketing to join our Data Intelligence team an...",
-    "source": "Jobicy Network",
-    "is_featured": false
-  },
-  {
-    "id": "jobicy-156940",
-    "title": "Software Engineer - Storage",
-    "company": "Supabase",
-    "city": "Remote / Global",
-    "category": "Admin & Operations",
-    "url": "https://jobicy.com/jobs/156940-software-engineer-storage",
-    "description": "About Supabase Supabase is the Postgres development platform, built by developers for developers. We provide a complete backend solution including Database, Auth, Storage, Edge Functions, Realtime, and Vector Search. All services are deeply integrated and designed for growth. About the Role Supabase Storage is a scalable and high performance object storage service and is one of...",
-    "source": "Jobicy Network",
-    "is_featured": false
-  },
-  {
-    "id": "jobicy-156948",
-    "title": "Platform Security Engineer (AMER/APAC)",
-    "company": "Supabase",
-    "city": "Remote / Global",
-    "category": "Admin & Operations",
-    "url": "https://jobicy.com/jobs/156948-platform-security-engineer-amer-apac",
-    "description": "About Supabase Supabase is the Postgres development platform, built by developers for developers. We provide a complete backend solution including Database, Auth, Storage, Edge Functions, Realtime, and Vector Search. All services are deeply integrated and designed for growth. Start in minutes with a fully managed, scalable Postgres database and a suite of tools that eliminate t...",
-    "source": "Jobicy Network",
-    "is_featured": false
-  },
-  {
-    "id": "jobicy-156943",
-    "title": "Product Manager - Realtime",
-    "company": "Supabase",
-    "city": "Remote / Global",
-    "category": "Admin & Operations",
-    "url": "https://jobicy.com/jobs/156943-product-manager-realtime",
-    "description": "About Supabase Supabase is the Postgres development platform, built by developers for developers. We provide a complete backend solution including Database, Auth, Storage, Edge Functions, Realtime, and Vector Search. All services are deeply integrated and designed for growth. About the Role We're hiring a Product Manager for Supabase Realtime . You'll own the surface area devel...",
-    "source": "Jobicy Network",
-    "is_featured": false
-  },
-  {
-    "id": "jobicy-156942",
-    "title": "Technical Account Management (TAM) Leader",
-    "company": "Supabase",
-    "city": "Remote / Global",
-    "category": "Admin & Operations",
-    "url": "https://jobicy.com/jobs/156942-technical-account-management-tam-leader",
-    "description": "About Supabase Supabase is the Postgres development platform, built by developers for developers. We provide a complete backend solution including Database, Auth, Storage, Edge Functions, Realtime, and Vector Search. All services are deeply integrated and designed for growth. About the Role The Technical Account Manager (TAM) Leader owns the health, direction, and performance o...",
-    "source": "Jobicy Network",
-    "is_featured": false
-  },
-  {
-    "id": "jobicy-156939",
-    "title": "Data API Engineer",
-    "company": "Supabase",
-    "city": "Remote / Global",
-    "category": "Python / Backend",
-    "url": "https://jobicy.com/jobs/156939-data-api-engineer",
-    "description": "About Supabase Supabase is the Postgres development platform, built by developers for developers. We provide a complete backend solution including Database, Auth, Storage, Edge Functions, Realtime, and Vector Search. All services are deeply integrated and designed for growth. About the Role We\u2019re looking for a Data API Engineer to join our Data API Team and help improve the fea...",
     "source": "Jobicy Network",
     "is_featured": false
   },
